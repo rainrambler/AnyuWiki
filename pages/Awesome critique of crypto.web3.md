@@ -1,0 +1,2 @@
+- Awesome critique of crypto/web3, etc.  https://github.com/rufuspollock/awesome-crypto-critique
+	- [[NFT]]

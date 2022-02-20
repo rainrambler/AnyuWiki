@@ -1,0 +1,4 @@
+- What is DevOps? (Microsoft): https://docs.microsoft.com/en-us/devops/what-is-devops
+- A compound of development (Dev) and operations (Ops), DevOps is the union of people, process, and technology ([[PPT]]) to continually provide value to customers.
+- ![image.png](../assets/image_1643122822615_0.png)
+-

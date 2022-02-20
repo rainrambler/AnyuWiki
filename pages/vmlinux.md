@@ -1,0 +1,5 @@
+- 有时文件名是 vmlinuz.
+- This tool allows to obtain a fully analyzable .ELF file from a vmlinux/vmlinuz/bzImage/zImage kernel image (either a raw binary blob or a preexisting but stripped .ELF file), with recovered function and variable symbols.
+	- https://github.com/marin-m/vmlinux-to-elf
+- #Linux Kernel image
+-

@@ -1,0 +1,3 @@
+- With the US government’s recent memo on #ZeroTrust #Cybersecurity Principles, there’s renewed interest (and investment) from organizations in adopting zero trust architectures. BeyondCorp, Google’s initial implementation which spawned the pursuit of zero trust in general, is still the guiding star for many organizations. It would seem that the authors of the US government’s memo have, just like the rest of the security industry, read the BeyondCorp whitepapers—and heavily based their strategy on BeyondCorp.
+- https://mayakaczorowski.com/blogs/beyondcorp-is-dead
+-

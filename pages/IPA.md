@@ -1,0 +1,3 @@
+- Interoperable Private Attribution
+- https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/
+- By #Mozilla and #Meta

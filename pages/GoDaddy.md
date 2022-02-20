@@ -1,0 +1,3 @@
+- (Watch out for high renewal fees, particularly if using a scammy registrar like Godaddy or Namecheap.)
+	- https://smaller.fish/posts/hugo
+-

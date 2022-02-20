@@ -1,0 +1,3 @@
+- Krafton Web 3.0 团队负责人 HyungChul Park 说：“Krafton 和 Naver Z 之间的这种伙伴关系得到了每家公司独特的专业知识和共同的全球关注的支持，因为他们展望了由 NFT 和元宇宙驱动的未来。通过将 Krafton 的现有技术和关于如何构建可扩展的 [[Web 3.0]] 创作者驱动的生态系统的研究与 Naver Z 和 Zepeto 的经验和能力相结合，我们相信我们可以构建一个与其他服务不同的高质量 #UGC 驱动的开放元宇宙并通过 #NFT 技术激活全球创作者经济。”
+- https://hot.cnbeta.com/articles/game/1235213.htm
+-

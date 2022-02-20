@@ -1,0 +1,4 @@
+- Information Technology Infrastructure Library
+- Information Technology Service Management ([[ITSM]])
+- ITIL实施需要 [[PPT]]: https://www.itilnews.com/index.php?pagename=ITIL__Back_to_basics_People_Process_and_Technology
+-

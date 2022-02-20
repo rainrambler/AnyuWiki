@@ -1,0 +1,2 @@
+- On [[Blockchain and Trust]] - February 12, 2019 by Bruce Schneier. The article also appeared on wired.com as There's No Good Reason to Trust Blockchain Technology.
+- https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/

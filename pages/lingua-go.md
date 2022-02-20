@@ -1,0 +1,4 @@
+- Its task is simple: It tells you which language some provided textual data is written in. This is very useful as a preprocessing step for linguistic data in natural language processing applications such as text classification and spell checking. Other use cases, for instance, might include routing e-mails to the right geographically located customer service department, based on the e-mails' languages.
+- https://github.com/pemistahl/lingua-go
+- #NLP
+-

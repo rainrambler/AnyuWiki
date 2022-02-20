@@ -1,0 +1,6 @@
+- Windows Subsystem for Linux
+- https://docs.microsoft.com/zh-cn/windows/wsl/install
+-
+- Solve error:
+	- https://docs.microsoft.com/en-us/answers/questions/116772/error-code-0x80072eff-on-windows-updates.html
+	-

@@ -1,0 +1,14 @@
+- `The Seven Properties of Highly Secure Devices`
+	- Galen Hunt, George Letey, and Edmund B. Nightingale
+	- Microsoft Research NExT Operating Systems Technologies Group
+- Properties:
+	- Hardware-based [[Root of Trust]]
+	- Small Trusted Computing Base [[TCB]]
+	- [[Defense in Depth]]
+	- [[Compartmentalization]]
+	- [[Certificate-based Authentication]]
+	- Renewable Security
+	- Failure Reporting
+- Ref:
+	- [[Top 10 Strategic Technology Trends]]
+-

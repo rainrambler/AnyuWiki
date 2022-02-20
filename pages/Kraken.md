@@ -1,0 +1,13 @@
+- 僵尸网络Kraken轻松骗过Windows Defender并窃取加密货币钱包数据
+	- https://www.cnbeta.com/articles/tech/1238819.htm
+- 最近增加的功能是能够从以下位置窃取各种加密货币钱包：
+	- `%AppData%\Zcash`
+	- `%AppData%\Armory`
+	- `%AppData%\bytecoin`
+	- `%AppData%Electrum\wallets`
+	- `%AppData%\Ethereum\keystore`
+	- `%AppData%\Exodus\exodus.wallet`
+	- `%AppData%\Guarda\Local Storage\leveldb`
+	- `%AppData%\atomic\Local Storage\leveldb`
+	- `%AppData%\com.liberty.jaxx\IndexedDB\file__0.indexeddb.leveldb`
+-

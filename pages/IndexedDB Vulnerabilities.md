@@ -1,0 +1,3 @@
+- We created a simple demo page that demonstrates how a website can learn the Google account identity of any visitor. The demo is available at safarileaks.com. If you open the page and start the demo in an affected browser, you will see how the current browsing context and your identity is leaked right away. Identity data will only be available if you are authenticated to your Google account in the same browsing session.
+- https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/
+-

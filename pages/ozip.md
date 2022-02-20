@@ -1,0 +1,6 @@
+- OPPO ROM file format
+- `python3 .\ozipdecrypt.py .\PDEM10_11_OTA_0500_all_i5OwKR2W0S7D.ozip`
+- https://github.com/bkerler/oppo_ozip_decrypt
+- https://bkerler.github.io/reversing/2019/04/24/the-game-begins/
+- Extract Fastboot Images from .ozip File (Oppo/Realme Phones): https://rootmygalaxy.net/extract-fastboot-images-from-ozip-file-oppo-realme-phones/
+-

@@ -1,0 +1,5 @@
+- #Web3 and crypto skepticism is growing and people are finally starting to listen
+	- Crypto skeptics have been trying to warn the public that cryptocurrency is a Ponzi scheme and Web3 is fake decentralization that can't fix a web that isn't broken. Critics have mainly been ignored as aggressive opportunism and skyrocketing token prices have silenced dissent. However, as crypto becomes more mainstream and people experience its downsides, critics' warnings are starting to be heard.
+	- https://www.coywolf.news/webmaster/web3-crypto-skepticism/
+	- [[Web3]]
+-

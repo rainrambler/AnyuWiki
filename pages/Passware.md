@@ -1,0 +1,5 @@
+- https://www.forensicfocus.com/news/passware-kit-forensic-t2-add-on-the-first-password-recovery-tool-for-macs-with-t2-chips/
+- 据悉，Passware 是一家销售基于软件的黑客解决方案的老牌企业，迄今已有将近 25 年的历史。该公司的相关工具，已被用于取证和数据恢复等合法场景。
+- 但当苹果在 2018 年推出 T2 安全芯片时，Passware 的 macOS 版软件，一度遇到了这方面的障碍。
+- https://www.cnbeta.com/articles/tech/1238329.htm
+-

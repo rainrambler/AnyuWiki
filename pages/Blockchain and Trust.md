@@ -1,0 +1,2 @@
+- https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html
+-

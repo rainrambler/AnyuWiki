@@ -1,0 +1,4 @@
+- `pip3 install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple`
+- 使用国内镜像
+- #Python
+-
