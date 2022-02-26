@@ -1,0 +1,4 @@
+- Android 受保护的确认利用受硬件保护的界面（称为可信界面）来促进关键事务的高可信度。搭载 Android 9（API 级别 28）或更高版本的受支持设备可以使用 Android 受保护的确认功能。
+- 当应用调用受保护的确认时，可信界面会提示用户确认。即使 Android 或其内核 (Linux) 受到攻击，可信界面也可断言用户对提示消息的批准具有高可信度。此断言将与 Keymaster 一同传递给远程第三方。
+- Android 受保护的确认的实现可以分为两部分，这两部分均位于可信执行环境 (TEE) 中。一部分是 [[Keymaster]]的扩展程序。通过它，可以生成带有使用要求 `Tag::TRUSTED_CONFIRMATION_REQUIRED` 的密钥。另一部分是称为 [[ConfirmationUI]]的应用，用于生成确认令牌。这些令牌都是加密语句，系统会在用户确认给定消息时将其传递给 Keymaster。
+- https://source.android.google.cn/security/protected-confirmation

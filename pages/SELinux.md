@@ -1,0 +1,8 @@
+- 作为 Android 安全模型的一部分，Android 使用安全增强型 Linux (SELinux) 对所有进程强制执行强制访问控制 (MAC)，甚至包括以 Root/超级用户权限运行的进程（Linux 功能）。
+- Android 安全模型部分基于应用沙盒的概念。每个应用都在自己的沙盒内运行。在 Android 4.3 之前的版本中，这些沙盒是通过为每个应用创建独一无二的 Linux UID（在应用安装时创建）来定义的。Android 4.3 及更高版本使用 SELinux 进一步定义 Android 应用沙盒的边界。
+- Android 6.0 通过降低我们政策的宽容度强化了系统安全，从而实现更好的用户隔离和 IOCTL 过滤、降低可从设备/系统之外访问的服务面临的威胁、进一步强化 SELinux 域，以及高度限制对 /proc 的访问。
+- Android 7.0 更新了 SELinux 配置，以进一步锁定应用沙盒并缩小受攻击面。此版本还将单片式 mediaserver 堆栈拆分为较小的进程，以缩小其权限范围。如需了解详情，请参阅利用更多的 Linux 内核防护功能保护 Android 系统和媒体堆栈安全强化。
+- Android 8.0 更新了 SELinux 以便与 Treble 配合使用，后者可将较低级别的供应商代码与 Android 系统框架分离开来。此版本更新了 SELinux 政策以允许设备制造商和 SOC 供应商更新自己的政策部分、构建自己的映像（vendor.img、boot.img 等），然后更新这些映像而不受平台影响，反之亦然。
+- 虽然可以在设备上运行更高/更新版本的平台（框架），但反之并不成立；供应商映像 (vendor.img/odm.img) 的版本不能高于平台 (system.img) 的版本。因此，较新版平台可能会带来 SELinux 兼容性问题，因为平台 SELinux 政策的版本要比该政策的供应商 SELinux 部分更新。Android 8.0 模型提供了一种保持兼容性的方法，以免进行不必要的同时 OTA。
+- https://source.android.google.cn/security/selinux
+-

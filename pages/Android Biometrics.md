@@ -1,0 +1,10 @@
+- 借助生物识别因素，可在 Android 平台上实现安全的身份验证。Android 框架包含人脸和指纹生物识别身份验证方式。您可对 Android 进行自定义以支持其他形式的生物识别身份验证方式（例如虹膜）。所有生物识别实现都必须符合安全规范且具有较高的安全评级才能使用 [[BiometricPrompt]] 类。衡量生物识别的指标有冒名接受率 ([[IAR]]) 和欺骗接受率 ([[SAR]])。
+- 如需详细了解生物识别安全规范，请参阅衡量生物识别解锁模式的安全性([[Biometric Measure]])。
+- Android 10
+	- 引入了 BiometricManager 类，开发者可用其查询生物识别身份验证的可用性。
+	- 包含 BiometricPrompt 指纹和人脸识别身份验证集成。
+- Android 9
+	- 仅包含 BiometricPrompt 指纹集成。
+	- 弃用了 FingerprintManager 类。
+- Ref: https://source.android.google.cn/security/biometric
+-

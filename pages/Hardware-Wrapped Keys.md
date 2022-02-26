@@ -1,0 +1,13 @@
+- 与大多数磁盘和文件加密软件一样，Android 的存储加密传统上依赖于系统内存中存在的原始加密密钥，以便可以执行加密。即使通过专用硬件（而非软件）执行加密，软件通常仍需管理原始加密密钥。
+- 传统上，这并不被认为是个问题，因为密钥在离线攻击期间不存在。离线攻击是存储加密旨在防范的主要攻击类型。但是，人们希望能够针对其他类型的攻击增强保护，例如冷启动攻击和在线攻击。在在线攻击中，攻击者可能会泄露系统内存，而不会全面入侵设备。
+- 为解决此问题，Android 11 引入了对硬件封装密钥的支持，其中存在硬件支持。硬件封装密钥是仅专用硬件知晓的原始形式的存储密钥；软件只能查看并使用封装（加密）形式的密钥。此硬件必须能够生成和导入存储密钥、以临时形式和长期形式封装存储密钥、派生子密钥、直接将一个子密钥编程到内嵌加密引擎，以及向软件返回单独的子密钥。
+- 需要的软件变更
+	- AOSP 已有一个支持硬件封装密钥的基本框架。这包括用户空间组件中的支持（例如 vold）以及 blk-crypto、fscrypt 和 dm-default-key 中的 Linux 内核支持。
+	- 不过，需要做出一些特定于实现的变更。
+	- KeyMint 变更
+		- 必须修改设备的 [[KeyMint]]实现，以支持 TAG_STORAGE_KEY 并实现 convertStorageKeyToEphemeral 方法。
+		- 在 Keymaster 中，使用 exportKey，而不是 convertStorageKeyToEphemeral。
+	- Linux 内核变更
+		- 必须修改设备内嵌加密引擎的 Linux 内核驱动程序，以设置 BLK_CRYPTO_FEATURE_WRAPPED_KEYS、使 keyslot_program() 和 keyslot_evict() 操作支持编程/逐出硬件封装密钥，以及实现 derive_raw_secret() 操作。
+- https://source.android.google.cn/security/encryption/hw-wrapped-keys
+-
