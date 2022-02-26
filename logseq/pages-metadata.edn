@@ -1,60 +1,123 @@
 [{:block/name "5g",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
  {:block/name "a",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "android authentication",
+  :block/created-at 1645867365826,
+  :block/updated-at 1645867370675}
+ {:block/name "android biometrics",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "android encryption",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "android keystore",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "android security features",
+  :block/created-at 1645866616156,
+  :block/updated-at 1645866774080}
+ {:block/name "android tee",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "androidreverseengineering",
+  :block/created-at 1645281355515,
+  :block/updated-at 1645281453384}
+ {:block/name "apksigner",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "apktool",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "apkutil",
+  :block/created-at 1645441548638,
+  :block/updated-at 1645441574355}
+ {:block/name "app sandbox",
+  :block/created-at 1645866810758,
+  :block/updated-at 1645867004943}
+ {:block/name "app signing",
+  :block/created-at 1645867194930,
+  :block/updated-at 1645867299717}
  {:block/name "awesome critique of crypto",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
  {:block/name "awesome critique of crypto/web3",
   :block/created-at 1643204026817,
   :block/updated-at 1643204129506}
  {:block/name "b",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "beyondcorp",
+  :block/created-at 1645277029764,
+  :block/updated-at 1645277058101}
+ {:block/name "blockchain and trust",
+  :block/created-at 1645348427684,
+  :block/updated-at 1645348428255}
  {:block/name "c",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "capstone",
   :block/created-at 1645257646122,
   :block/updated-at 1645257646323}
  {:block/name "card",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "certificate-based authentication",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "cjson",
   :block/created-at 1644754968292,
   :block/updated-at 1644755398410}
+ {:block/name "compartmentalization",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "contents",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "crypto",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "cybersecurity",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "dac",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "dao",
   :block/created-at 1643205341421,
   :block/updated-at 1643205341433}
  {:block/name "de-google-ify internet",
   :block/created-at 1643259895174,
   :block/updated-at 1643260361925}
+ {:block/name "defense in depth",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "defi",
   :block/created-at 1643209104463,
   :block/updated-at 1643209104463}
+ {:block/name "deobfuscator",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
  {:block/name "devops",
   :block/created-at 1643122778670,
   :block/updated-at 1643122824931}
  {:block/name "doing",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "done",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "ethereum",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
  {:block/name "etherpad",
   :block/created-at 1643260368328,
   :block/updated-at 1643260373840}
  {:block/name "favorites",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
  {:block/name "feb 13th, 2022",
   :block/created-at 1644728010116,
   :block/updated-at 1644757639476}
@@ -66,16 +129,40 @@
   :block/updated-at 1645177911017}
  {:block/name "feb 19th, 2022",
   :block/created-at 1645257639596,
-  :block/updated-at 1645264383513}
+  :block/updated-at 1645281340525}
+ {:block/name "feb 20th, 2022",
+  :block/created-at 1645347252240,
+  :block/updated-at 1645347472088}
+ {:block/name "feb 21st, 2022",
+  :block/created-at 1645441457836,
+  :block/updated-at 1645441539863}
+ {:block/name "feb 22nd, 2022",
+  :block/created-at 1645488000000,
+  :block/updated-at 1645488000000}
+ {:block/name "feb 26th, 2022",
+  :block/created-at 1645866610494,
+  :block/updated-at 1645866610494}
+ {:block/name "frida",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "gapstone",
   :block/created-at 1645257794165,
   :block/updated-at 1645257819258}
+ {:block/name "ghidra",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "godaddy",
+  :block/created-at 1645347266100,
+  :block/updated-at 1645347272276}
+ {:block/name "highly secure devices",
+  :block/created-at 1645277660655,
+  :block/updated-at 1645277816864}
  {:block/name "ict",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "in-progress",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "indexeddb vulnerabilities",
   :block/created-at 1643627080283,
   :block/updated-at 1643627091330}
@@ -86,8 +173,11 @@
   :block/created-at 1643268451375,
   :block/updated-at 1643269238694}
  {:block/name "itsm",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "jadx",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "jan 23rd, 2022",
   :block/created-at 1642896000000,
   :block/updated-at 1642896000000}
@@ -116,11 +206,17 @@
   :block/created-at 1643627070477,
   :block/updated-at 1643627070477}
  {:block/name "json",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "kraken",
+  :block/created-at 1645347479069,
+  :block/updated-at 1645347592520}
  {:block/name "later",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "laverna",
+  :block/created-at 1645276063393,
+  :block/updated-at 1645276094176}
  {:block/name "lineageos",
   :block/created-at 1643381118526,
   :block/updated-at 1645261373432}
@@ -133,27 +229,42 @@
  {:block/name "lingua-go",
   :block/created-at 1644728019384,
   :block/updated-at 1644728039077}
+ {:block/name "linux",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "log4j",
+  :block/created-at 1645275571141,
+  :block/updated-at 1645275587642}
+ {:block/name "mac",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "markdown",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "meta",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "modem vulnerability",
+  :block/created-at 1645277267713,
+  :block/updated-at 1645277311996}
  {:block/name "mozilla",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "mpc",
   :block/created-at 1644757613683,
   :block/updated-at 1644757613683}
  {:block/name "nft",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "nlp",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "now",
-  :block/created-at 1645264978810,
-  :block/updated-at 1645264978810}
+  :block/created-at 1645867376771,
+  :block/updated-at 1645867376771}
  {:block/name "oauth",
-  :block/created-at 1645264978810,
-  :block/updated-at 1645264978810}
+  :block/created-at 1645867376771,
+  :block/updated-at 1645867376771}
  {:block/name "otter browser",
   :block/created-at 1643122678204,
   :block/updated-at 1643122678204}
@@ -163,30 +274,87 @@
  {:block/name "passware",
   :block/created-at 1645177915490,
   :block/updated-at 1645177933623}
+ {:block/name "pinephone",
+  :block/created-at 1645867376771,
+  :block/updated-at 1645867376771}
+ {:block/name "pip3",
+  :block/created-at 1645275489530,
+  :block/updated-at 1645275518966}
  {:block/name "ppt",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "prio",
   :block/created-at 1644756319863,
   :block/updated-at 1644756340627}
+ {:block/name "pubg",
+  :block/created-at 1645277357491,
+  :block/updated-at 1645277385400}
+ {:block/name "python",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "rce",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "root of trust",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "samsung",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "samsung s22",
+  :block/created-at 1645276898520,
+  :block/updated-at 1645276935814}
+ {:block/name "seccomp-bpf",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "security-enhanced linux",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
+ {:block/name "selinux",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "simplify",
+  :block/created-at 1645441466767,
+  :block/updated-at 1645441487383}
+ {:block/name "targetsdkversion",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "tcb",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "there's no good reason to trust blockchain technology",
   :block/created-at 1643460350157,
-  :block/updated-at 1643460363473}
+  :block/updated-at 1645348421575}
  {:block/name "todo",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "top 10 strategic technology trends",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "ugc",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "verified boot",
+  :block/created-at 1645867376771,
+  :block/updated-at 1645867376771}
+ {:block/name "vmlinux",
+  :block/created-at 1645275648702,
+  :block/updated-at 1645275691617}
  {:block/name "wait",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "waiting",
-  :block/created-at 1645264978808,
-  :block/updated-at 1645264978808}
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
  {:block/name "web 1.0",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "web 2.0",
-  :block/created-at 1645264978809,
-  :block/updated-at 1645264978809}
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
+ {:block/name "web 3.0",
+  :block/created-at 1645867376769,
+  :block/updated-at 1645867376769}
  {:block/name "web3",
   :block/created-at 1643204383157,
   :block/updated-at 1643205189255}
@@ -196,9 +364,15 @@
  {:block/name "wsl",
   :block/created-at 1644827864254,
   :block/updated-at 1644827903614}
+ {:block/name "wwan",
+  :block/created-at 1645867376770,
+  :block/updated-at 1645867376770}
  {:block/name "zero trust in white house",
   :block/created-at 1643257726523,
   :block/updated-at 1643257768819}
+ {:block/name "zerotrust",
+  :block/created-at 1645277092751,
+  :block/updated-at 1645277146174}
  {:block/name "区块链",
-  :block/created-at 1645264978809, 
-  :block/updated-at 1645264978809}]
+  :block/created-at 1645867376770, 
+  :block/updated-at 1645867376770}]

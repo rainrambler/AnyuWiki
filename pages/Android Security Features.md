@@ -1,0 +1,12 @@
+- [[App sandbox]]
+- [[App signing]]
+- [[Android Authentication]]
+- [[Android Biometrics]]
+- [[Android Encryption]]
+- [[Android Keystore]]
+- [[Security-Enhanced Linux]]
+- [[Android TEE]]
+- [[Verified Boot]]
+-
+- https://source.android.google.cn/security/features
+-
