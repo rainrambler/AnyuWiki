@@ -1,0 +1,3 @@
+- Trusty 是一种安全的操作系统 (OS)，可为 Android 提供可信执行环境 (TEE)。Trusty 操作系统与 Android 操作系统在同一处理器上运行，但 Trusty 通过硬件和软件与系统的其余组件隔离开来。Trusty 与 Android 彼此并行运行。Trusty 可以访问设备主处理器和内存的全部功能，但完全隔离。隔离可以保护 Trusty 免受用户安装的恶意应用以及可能在 Android 中发现的潜在漏洞的侵害。
+- Trusty 与 ARM 和 Intel 处理器兼容。在 ARM 系统中，Trusty 使用 ARM 的 [[Trustzone]]虚拟化主处理器，并创建安全的可信执行环境。使用 Intel 虚拟化技术的 Intel x86 平台也提供类似的支持。
+- https://source.android.google.cn/security/trusty?hl=zh-cn
