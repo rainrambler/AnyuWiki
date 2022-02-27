@@ -1,0 +1,29 @@
+- Linux Security
+- The [[App sandbox]]
+	- Android 的应用安全性是由应用沙盒（它可将不同的应用分隔开来，并保护应用和系统免受恶意应用的攻击）强制实施的。如需了解详情，请参阅应用沙盒。
+- System Partition and Safe Mode
+	- 系统分区包含 Android 的内核，以及操作系统库、应用运行时、应用框架和应用。该分区设为了只读分区。当用户将设备启动到安全模式时，第三方应用可由设备所有者手动启动，但不会默认启动。
+- Filesystem Permissions
+	- 在 UNIX 风格的环境中，文件系统权限可确保一个用户不能更改或读取另一个用户的文件。在 Android 中，每个应用都以自己的用户身份运行。除非开发者明确地与其他应用共享文件，否则一个应用不能读取或更改另一个应用创建的文件。
+- [[SELinux]]: Android 使用安全增强型 Linux (SELinux) 来实施访问控制策略并针对进程建立强制访问控制 (mac) 机制。
+- [[Verified boot]]
+	- Android 6.0 及更高版本支持启动时验证功能和 device-mapper-verity。启动时验证功能旨在保证设备软件（从硬件信任根直到 system 分区）的完整性。在启动过程中，无论是在哪个阶段，都会在进入下一个阶段之前以加密形式先验证下一个阶段的完整性和正确性。
+	- Android 7.0 及更高版本支持严格强制执行的启动时验证，这意味着遭到入侵的设备将无法启动。
+- Cryptography
+	- Android 提供了一系列加密 API 供应用使用，其中包括标准和常用加密基元（例如，AES、RSA、DSA 和 SHA）的实现。此外，Android 还提供了适用于更高级别协议（例如 SSL 和 HTTPS）的 API。
+	- Android 4.0 中引入了 [[KeyChain]] 类，以便应用使用系统凭据存储空间来存储私钥和证书链。
+- Rooting of Devices
+	- 默认情况下，在 Android 上，只有内核和一小部分核心应用能够以 Root 权限运行。Android 不会阻止具有 Root 权限的用户或应用修改操作系统、内核或任何其他应用。一般来说，Root 对所有应用和所有应用数据拥有完整访问权限。如果用户在 Android 设备上更改权限来向应用授予 Root 访问权限，那么在面对恶意应用以及潜在应用缺陷时，安全风险会更大。
+- User Security Features
+	- Filesystem Encryption:
+		- Android 3.0 及更高版本提供全文件系统加密功能，因此所有用户数据都可以在内核中进行加密。
+		- Android 5.0 及更高版本支持全盘加密。全盘加密是使用单个密钥（由用户的设备密码加以保护）来保护设备的整个用户数据分区。在启动时，用户必须先提供其凭据，然后才能访问磁盘的任何部分。
+		- Android 7.0 及更高版本支持文件级加密。采用文件级加密时，可以使用不同的密钥对不同的文件进行加密，也可以对加密文件单独解密。
+	- Password Protection
+		- Android 可以配置为先验证用户提供的密码，然后再提供对设备的访问权限。除了防止未经授权使用设备外，该密码还可以保护用于进行全文件系统加密的加密密钥。
+		- 设备管理员可以要求使用密码和/或设置密码复杂度规则。
+	- Device Administration
+		- Android 2.2 及更高版本提供 Android Device Administration API，该 API 在系统级别提供设备管理功能。例如，内置的 Android 电子邮件应用可以使用该 API 来改善 Exchange 支持。在此情况下，Exchange 管理员可以跨设备强制执行密码政策（字母数字密码或数字 PIN 码都算作密码）。管理员还可以远程清除（即恢复出厂默认设置）丢失或被盗手机上的数据。
+-
+- https://source.android.google.cn/security/overview/kernel-security
+-
