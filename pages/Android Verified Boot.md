@@ -1,0 +1,5 @@
+- Android 8.0 及更高版本包含启动时验证的一个供参考的实现，名为 Android 启动时验证 (AVB) 或启动时验证 2.0。AVB 是支持 Project Treble 架构的一个启动时验证版本，可以将 Android 框架与底层供应商实现分离开来。
+- AVB 与 Android 构建系统相集成，并通过一行代码（负责生成所有必要的 [[dm-verity]] 元数据并为其签名）进行启用。如需了解详情，请参阅构建系统集成。
+- AVB 提供 libavb，后者是一个在启动时用于验证 Android 的 C 库。您可以通过以下方式将 libavb 与引导加载程序集成在一起：针对 I/O 实现特定于平台的功能，提供信任根，并获取/设置回滚保护元数据。
+- AVB 的主要功能包括：针对不同分区委托更新、提供用于对分区进行签名的通用页脚格式，以及防止攻击者回滚到存在漏洞的 Android 版本。
+- https://source.android.google.cn/security/verifiedboot/avb
