@@ -1,0 +1,12 @@
+- ![image.png](../assets/image_1646146599290_0.png)
+- IoT scenarios:
+	- Healthcare
+	- Home and Building
+	- Retail
+	- Energy
+	- Manufacturing
+	- Mobility or Transportation
+	- Logistics
+	- Media
+-
+- #IEEE: Towards a definition of the Internet ofThings ( #IoT )

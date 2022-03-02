@@ -1,0 +1,13 @@
+- ![Federated.png](../assets/Federated_1646147160871_0.png)
+- Layers
+	- User-facing apps
+	- Identity
+	- Data
+	- Networking
+-
+- Services
+	- [[XMPP]]
+	- [[Diaspora]]
+	- [[ActivityHub]]
+	- [[Solid]]
+	-
