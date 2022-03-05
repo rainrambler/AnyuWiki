@@ -1,0 +1,8 @@
+- NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
+- https://www.nirsoft.net/
+- Network Monitoring Tools
+	- [[WirelessNetView]]
+	- [[SmartSniff]]
+- Desktop Utilities
+	- [[SearchMyFiles]]
+-

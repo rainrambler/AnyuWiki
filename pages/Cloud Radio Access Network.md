@@ -1,0 +1,6 @@
+- In C-RAN Network Visualization is done at Baseband Unit (BBU) pool level. BBU will act as a virtual node and the link between them is Virtual Link. The pool will operate at one physical Virtual machine sharing CPU. Remote Radio Unit (RRU) will be connected to BBU, which will distribute them over virtual machine. This technology will offer many advantages such as cost reduction and minimization of time requirement and most important is scalability.
+- Option 1:
+- ![image.png](../assets/image_1646304957880_0.png)
+- Option 2:
+- ![image.png](../assets/image_1646304983003_0.png)
+- https://www.geeksforgeeks.org/cloud-radio-access-network-c-ran/

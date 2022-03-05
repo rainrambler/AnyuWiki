@@ -1,0 +1,4 @@
+- ![image.png](../assets/image_1646305017590_0.png){:height 405, :width 563}
+- https://telcocloudbridge.com/blog/c-ran-vs-cloud-ran-vs-vran-vs-o-ran/
+- https://www.o-ran.org/
+-

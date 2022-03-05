@@ -1,0 +1,2 @@
+- blind_watermark：https://blindwatermark.github.io/blind_watermark/#/zh/
+- 是一个关于盲水印的开源项目，依赖于Python运行。安装了blind_watermark后，只需要简单的几行命令，就可以为图片添加文字或者另一张图作为盲水印。

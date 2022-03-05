@@ -1,0 +1,2 @@
+- Ericsson’s Cloud RAN offering has passed the independent Network Equipment Security Assurance Scheme ([[NESAS]]) audit, making it fully compliant with the security requirements defined by global standards organizations [[3GPP]] and[[GSMA]].
+- https://www.ericsson.com/en/ran/cloud
