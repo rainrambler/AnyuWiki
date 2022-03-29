@@ -1,0 +1,3 @@
+- Android Pony EXpress (APEX) 是 Android 10 中引入的一种容器格式，用于较低级别系统模块的安装流程中。此格式可帮助更新不适用于标准 Android 应用模型的系统组件。一些示例组件包括原生服务和原生库、硬件抽象层 (HAL))、运行时 (ART) 以及类库。
+- https://source.android.google.cn/devices/tech/ota/apex
+-
