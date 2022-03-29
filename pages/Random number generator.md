@@ -1,0 +1,3 @@
+- https://www.zx2c4.com/projects/linux-rng-5.17-5.18/
+- The random number generator has undergone a few important changes for #Linux #Kernel 5.17 and 5.18.
+-
