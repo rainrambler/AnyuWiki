@@ -1,0 +1,9 @@
+- Bluehost — Best for creating your first website
+- Domain.com — Best for keeping domain costs low
+- Porkbun — Best deals on unique domain extensions
+- Network Solutions — Best for locking down domains for decades
+- GoDaddy — Best domain registrar for protecting your personal data
+- Namecheap — Best domain registrar for tight budgets
+- NameSilo — Most affordable domain deals with bulk purchasing
+- https://www.quicksprout.com/best-domain-registrar/
+-
