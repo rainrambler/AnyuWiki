@@ -1,0 +1,4 @@
+- PrivacyTests.org: open-source tests of web browser privacy
+- Privacy Analyzer: See what data is exposed from your browser.
+	- https://privacy.net/analyzer/
+-
