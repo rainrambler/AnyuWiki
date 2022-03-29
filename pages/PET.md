@@ -1,0 +1,21 @@
+- Privacy-enhancing technologies (PETs)
+- 隐私增强技术的分类
+	- 加密算法
+		- 同态加密（[[Homomorphic Encryption]]）
+		- 安全多方计算([[Secure multi-party computation]], [[SMPC]])
+		- 差分隐私([[Differential privacy]])
+		- 零知识证明([[Zero-knowledge proofs]], [[ZKP]])
+- 数据掩码技术
+	- 混淆（[[Obfuscation]]）
+	- 假名化（[[Pseudonymization]]）
+	- 数据最小化（Data minimisation）
+	- 匿名通信（Communication anonymizers）：通信者将在线身份（IP 地址、电子邮件地址）替换为可丢弃/一次性无法追踪的身份。
+- AI & ML算法辅助
+	- **合成数据生成** ([[Synthetic data]] generation)：合成数据是使用包括机器学习在内的不同算法，人工创建的数据。如果您对隐私增强技术感兴趣，因为您需要将数据转换到第三方用户可以访问的测试环境中，那么生成具有相同统计特征的合成数据是一个更好的选择。
+	- **联合学习** ([[Federated Learning]])：这是一种机器学习技术，可以在多个分布式边缘设备([[Decentralized Edge Devices]])或保存本地数据样本的服务器上训练算法，而无需交换它们。 随着服务器的去中心化，用户还可以通过减少必须保留在集中式服务器或云存储中的数据量来实现数据最小化。
+- **PET 的主要用例是什么？**
+	- **测试数据管理**：应用程序测试和数据分析有时由第三方提供商处理。即使在内部处理它们，公司也应尽量减少对客户数据的内部访问。使用不会显着影响测试结果的合适 PET 对组织很重要。
+	- **金融交易**：由于公民可以自由进行私人交易和与其他方进行交易，金融机构有责任保护客户的隐私。
+	- **医疗保健服务**：医疗保健行业收集和共享（在需要时）患者的电子健康记录 (EHR)。例如，临床数据可用于搜索各种药物组合的不良反应。在这种情况下，医疗保健公司通过使用 PET 来确保患者数据的隐私。
+	- **促进包括中介在内的多方之间的数据传输**：对于在两方之间充当中间人的企业，PET 的使用至关重要，因为这些企业负责保护双方信息的隐私。
+- https://research.aimultiple.com/privacy-enhancing-technologies/
