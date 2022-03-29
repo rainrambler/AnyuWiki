@@ -1,0 +1,9 @@
+- 1. Economy of mechanism
+- 2. Fail-safe defaults
+- 3. Complete mediation
+- 4. Open design
+- 5. Separation of privilege
+- 6. Least privilege
+- 7. Least common mechanism
+- 8. Psychological acceptability
+- http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
