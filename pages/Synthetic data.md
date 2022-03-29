@@ -1,0 +1,2 @@
+- 顾名思义，合成数据是人工创建的数据，而不是由实际事件生成的数据。 它通常是在算法的帮助下创建的，用于广泛的活动，包括作为新产品和工具的测试数据、模型验证以及 AI 模型训练。 合成数据是一种数据增强技术([[Data Augmentation]])。
+- https://research.aimultiple.com/synthetic-data/
