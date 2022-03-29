@@ -1,0 +1,2 @@
+- https://anatomyof.ai/img/ai-anatomy-map.pdf
+-
