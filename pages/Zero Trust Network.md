@@ -1,0 +1,6 @@
+- There is more than one way to implement it:
+	- Network [[Micro-segmentation]] (lots of tiny firewalls)
+	- Software-Defined Perimeter (lots of tiny VPN tunnels)
+	- Identity-Aware Proxy (next-gen Web Access Management)
+- RSA2019/str-w12-the-fallacy-of-the-zero-trust-network
+-
