@@ -1,0 +1,6 @@
+- 资产发现（Asset Discovery）：不知情当然无法保护；
+- 数据发现和分类（Data Discovery and Classification）：所有的数据并不是生而平等；每个组织有自己的数据术语；
+- 数据流（Data Flow): 识别敏感的数据流和协议（App、用户、外部相关方、合作伙伴之间），设备是保护的基础；
+- 数据保护（Data Protection）：所有的敏感数据都必须**存储**和**传输**加密（处理时能加密最好）
+- #RSA
+- RSA2019/str-w12-the-fallacy-of-the-zero-trust-network
