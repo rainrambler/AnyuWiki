@@ -1,0 +1,10 @@
+- The U.S. Department of Defense (DoD) defines software assurance as:
+- `... the level of confidence that software functions as intended and is free of vulnerabilities, either intentionally or unintentionally designed or inserted as part of the software.`
+-
+- Hence Assurance
+- 信心水平（level of confidence）：通过应用一系列工具和流程，可以建立对软件安全性的信心。 从广义上讲，这些属于以下三类之一：
+	- **静态保证** - 在开发和/或测试期间对代码进行检查而不运行它。
+	- **动态保证** - 在测试期间通过运行程序完成的检查。
+	- **操作保证** - 软件在生产中运行时采取的措施。
+- https://highassurance.rs/chp2/_index.html
+-
