@@ -1,0 +1,2 @@
+- [[Brooks]]: 42, UK 7.5, US 8.5, 26.5
+- ASICS: EU 41.5, US 8
