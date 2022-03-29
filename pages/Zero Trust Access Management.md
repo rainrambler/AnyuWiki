@@ -1,0 +1,12 @@
+- Least Privilege
+	- every access limited to a specific user, device, and app or resource only
+- Centralized
+	- policies are standardized across common IT systems
+	- policies are defined by the business (with the support of IT)
+- Dynamic
+	- access decisions are made in real-time
+	- common requirements, individual attributes and context influence each decision
+- Adaptive
+	- open to support new authentication methods
+	- constantly evolving, reacting to environment changes (machine learning, AI, etc.)
+- RSA2019/str-w12-the-fallacy-of-the-zero-trust-network
