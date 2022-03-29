@@ -1,0 +1,2 @@
+- truffleHog – Search Git for High Entropy Strings with Commit History
+- https://www.darknet.org.uk/2019/12/trufflehog-search-git-for-high-entropy-strings-with-commit-history/
