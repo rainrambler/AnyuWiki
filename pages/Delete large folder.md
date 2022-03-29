@@ -1,0 +1,6 @@
+- Enter the folder
+- type `del /f/q/s *.* > nul`
+- `cd ..`
+- `rmdir /q/s FOLDER-NAME`
+- https://pureinfotech.com/delete-large-folder-fast-windows-10/
+-
