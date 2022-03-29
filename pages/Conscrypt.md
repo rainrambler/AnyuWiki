@@ -1,0 +1,4 @@
+- 借助 Conscrypt 模块，无需依赖于 OTA 更新，即可加速实现安全改进并提高设备安全性。它使用 Java 代码和原生库来提供 Android TLS 实现以及大部分 Android 加密功能（例如密钥生成器、加密算法和消息摘要）。Conscrypt 以开源库的形式提供，但包含在 Android 平台中时具有一些特殊化。
+- Conscrypt 模块使用 BoringSSL，后者是 Google 在 OpenSSL 基础上派生出的一个原生库，在很多 Google 产品（最值得注意的是 Google Chrome）中用于加密和 TLS。BoringSSL 没有正式版本（所有用户都需要从头构建），并且无法保证 API 或 ABI 的稳定性。
+- https://source.android.google.cn/devices/architecture/modular-system/conscrypt
+-
