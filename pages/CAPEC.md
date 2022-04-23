@@ -1,0 +1,3 @@
+- Common Attack Pattern Enumerations and Classifications
+- The Common Attack Pattern Enumeration and Classification (CAPEC™) effort provides a publicly available catalog of common attack patterns that helps users understand how adversaries exploit weaknesses in applications and other cyber-enabled capabilities.
+- http://capec.mitre.org/

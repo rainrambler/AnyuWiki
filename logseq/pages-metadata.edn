@@ -31,6 +31,9 @@
  {:block/name "ai anatomy",
   :block/created-at 1647075869384,
   :block/updated-at 1647075870066}
+ {:block/name "ai generating art",
+  :block/created-at 1650685711876,
+  :block/updated-at 1650685761835}
  {:block/name "android app security",
   :block/created-at 1645966240790,
   :block/updated-at 1645966350241}
@@ -96,7 +99,7 @@
   :block/updated-at 1650082261945}
  {:block/name "apr 23rd, 2022",
   :block/created-at 1650682780696,
-  :block/updated-at 1650683528702}
+  :block/updated-at 1650691176145}
  {:block/name "apr 3rd, 2022",
   :block/created-at 1648958902774,
   :block/updated-at 1648978202504}
@@ -163,6 +166,12 @@
  {:block/name "c2m2",
   :block/created-at 1649322436219,
   :block/updated-at 1649322635909}
+ {:block/name "cabal",
+  :block/created-at 1650691127580,
+  :block/updated-at 1650691152354}
+ {:block/name "capec",
+  :block/created-at 1650691176144,
+  :block/updated-at 1650691227082}
  {:block/name "capstone",
   :block/created-at 1645257646122,
   :block/updated-at 1645257646323}
@@ -235,6 +244,9 @@
  {:block/name "data augmentation",
   :block/created-at 1648535786382,
   :block/updated-at 1648535915843}
+ {:block/name "dcap",
+  :block/created-at 1650686708119,
+  :block/updated-at 1650686710157}
  {:block/name "de-google-ify internet",
   :block/created-at 1643259895174,
   :block/updated-at 1643260361925}
@@ -697,6 +709,9 @@
  {:block/name "ozip",
   :block/created-at 1645264387374,
   :block/updated-at 1645264696814}
+ {:block/name "p2p",
+  :block/created-at 1650691147544,
+  :block/updated-at 1650691147544}
  {:block/name "passware",
   :block/created-at 1645177915490,
   :block/updated-at 1645177933623}
@@ -847,6 +862,9 @@
  {:block/name "todo",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
+ {:block/name "togaf",
+  :block/created-at 1650689638777,
+  :block/updated-at 1650689641280}
  {:block/name "top 10 strategic technology trends",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}

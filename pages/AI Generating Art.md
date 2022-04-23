@@ -1,0 +1,8 @@
+- A good place to start: [NightCafe](https://creator.nightcafe.studio/) lets you generate art using either VQGAN+CLIP (”Artistic”) or CLIP-Guided Diffusion (”Coherent”). You can do this without writing any code. Then it allows me to order a print online. (I didn’t, though, since I didn’t succeed in making anything good.)
+- If you want to get your hands dirty, the **pixray** library is based on the artist-critic model and looks like a great place to start with creating AI art.
+	- pixray Github link: [https://github.com/pixray/](https://github.com/pixray/pixray/blob/master/README.md)
+	- test pixray on gob.io: [https://pixray.gob.io/](https://pixray.gob.io/)
+- Notebook with intro about AI art and explanation of pixray: [https://colab.research.google.com/github/DazhiZhong/Pixray_Notebooks/blob/main/Intro_and_Quickstart_thread.ipynb](https://colab.research.google.com/github/DazhiZhong/Pixray_Notebooks/blob/main/Intro_and_Quickstart_thread.ipynb)
+- You can also try **StyleCLIP** online: [https://replicate.com/orpatashnik/styleclip](https://replicate.com/orpatashnik/styleclip). replicate.com has lots of ML models, and many of them are useful for art!
+- And if you just want to buy some NFTs of AI art, you can check out this site: [aimade.art](https://aimade.art/).
+- https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09
