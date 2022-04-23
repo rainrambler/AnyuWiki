@@ -1,0 +1,2 @@
+- Run-time Application Security Protection (RASP)
+- RASP, or Run-time Application Security Protection As with [[IAST]], RASP, or Run­time Application Security Protection, works inside the application, but it is less a testing tool and more a security tool.

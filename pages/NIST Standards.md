@@ -1,0 +1,10 @@
+- Attribute Based Access Control, [[ABAC]] (SP 1800-3)
+- Data Integrity (SP 1800-11)
+- Derived PIV Credentials (SP 1800-12)
+- DNS-Based Secured Email (SP 1800-6)
+- Mitigating IoT-Based DDoS
+- Mobile Device Security (SP 1800-4)
+- Privacy-Enhanced Identity Federation
+- Secure Inter-Domain Routing (SP 1800-14)
+- TLS Server Certificate Management (SP 1800-16)
+- Trusted Geolocation in the Cloud (NISTIR 7904)

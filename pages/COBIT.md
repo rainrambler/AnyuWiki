@@ -1,0 +1,2 @@
+- COBIT – Control Objectives for Information and Related Technology (COBIT) is a framework created by the Information Systems Audit and Control Association (“[[ISACA]]”) for information technology management and governance.
+-

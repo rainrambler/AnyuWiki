@@ -1,0 +1,2 @@
+- Gephi is a tool for data analysts and scientists keen to explore and understand graphs. Like Photoshop™ but for graph data, the user interacts with the representation, manipulate the structures, shapes and colors to reveal hidden patterns.
+- https://gephi.org/features/
