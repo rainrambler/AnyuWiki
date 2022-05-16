@@ -1,0 +1,5 @@
+- Simple top-level API
+- Index any object in your data model
+- Override default mapping to customize behavior
+- Rich set of interfaces for extending the capabilities
+- https://blevesearch.com/

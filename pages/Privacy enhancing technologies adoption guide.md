@@ -1,0 +1,11 @@
+- 传统[[PETs]]示例
+	- 加密传输和存储的数据
+	- 去识别技术([[De-identification Techniques]])
+- 新兴[[PETs]]示例
+	- 同态加密([[Homomorphic Encryption]])
+	- [[TEE]]
+	- 多方计算([[MPC]]或者[[SMPC]])
+	- 差分隐私([[Differential Privacy]])
+	- 联邦分析([[Federated Analytics]])
+	-
+- https://www.gov.uk/government/publications/privacy-enhancing-technologies-adoption-guide

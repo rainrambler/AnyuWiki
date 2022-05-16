@@ -1,0 +1,4 @@
+- [[tantivy]]: Tantivy is a full-text search engine library written in Rust.
+- [[Bleve]]: full-text search and indexing for Go
+- [[Apache Nutch]]
+- [[srchx]]: A standalone lightweight full-text search engine built on top of blevesearch and Go with multiple storage (scorch, boltdb, leveldb, badgerdb)

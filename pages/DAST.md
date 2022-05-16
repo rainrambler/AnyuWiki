@@ -1,0 +1,12 @@
+- Dynamic application security testing
+- 动态应用程序安全测试 (DAST) 工具是一个程序，它通过 Web 前端与 Web 应用程序进行通信，以识别 Web 应用程序中的潜在安全漏洞([[Vulnerability]])和架构弱点。
+- 它执行黑盒测试。与静态应用程序安全测试工具不同，DAST 工具无法访问源代码，因此通过实际执行攻击来检测漏洞。
+- DAST 工具允许进行复杂的扫描，一旦配置了主机名、爬网参数和身份验证凭据，就可以通过最少的用户交互来检测漏洞。这些工具将尝试检测查询字符串、标头、片段、动词 (GET/POST/PUT) 和 DOM 注入中的漏洞。
+- 常见的应用漏洞：
+	- 跨站脚本攻击([[cross-site scripting]])
+	- SQL注入([[SQL injection]])
+	- 路径泄露([[Path disclosure]])
+	- [[Denial-of-service attack]]
+	- 代码执行([[Arbitrary code execution]])
+	- [[CSRF]] ([[Cross-site request forgery]])
+	-

@@ -1,0 +1,87 @@
+- 信息安全，有时简称为InfoSec，是通过降低信息风险来保护信息的做法。它是信息风险管理的一部分。
+- 它通常涉及防止或减少未经授权/不适当地访问数据，或非法使用、披露、破坏、删除、损坏、修改、检查、记录或贬低信息的概率。它还涉及旨在减少此类事件的不利影响的行动。
+- 受保护的信息可以采取任何形式，如电子或实物，有形的（如文件）或无形的（如知识）。
+- 信息安全的主要重点是平衡保护数据的保密性、完整性和可用性（也称为CIA三要素, [[CIA triad]]），同时保持对有效政策执行的关注，所有这些都不会妨碍组织的生产力。这主要是通过一个结构化的风险管理过程来实现的，包括：
+	- 识别信息和相关资产，以及潜在的威胁、脆弱性和影响。
+	- 评估风险。
+	- 决定如何解决或处理这些风险，即避免、减轻、分享或接受这些风险。
+	- 在需要减轻风险的地方，选择或设计适当的安全控制措施并加以实施。
+	- 监测这些活动，在必要时进行调整，以解决任何问题、变化和改进机会。
+- 相关安全目录：
+	- [[Computer Security]]
+	- [[Automotive security]]
+	- [[Internet security]]
+	- [[Mobile security]]
+	- [[Network security]]
+	- [[Copy protection]]
+	- [[DRM]]
+- 威胁：
+	- [[APT]]: [[Advanced persistent threat]]
+	- [[Arbitrary code execution]]
+	- [[Backdoors]]
+	- [[Hardware backdoors]]
+	- [[Code injection]]
+	- [[Cross-site scripting]]
+	- [[Cryptojacking]]
+	- [[Botnets]]
+	- [[Data breach]]
+	- [[Viruses]]
+	- [[Data scraping]]
+	- [[Denial of service]]
+	- [[Eavesdropping]]
+	- [[Email fraud]]
+	- [[Email spoofing]]
+	- [[Exploit]]
+	- [[Keylogger]]
+	- [[Logic bombs]]
+	- [[Time bombs]]
+	- [[Fork bombs]]
+	- [[Zip bombs]]
+	- [[Fraudulent dialers]]
+	- [[Malware]]
+	- [[Payload]]
+	- [[Phishing]]
+	- [[Polymorphic engine]]
+	- [[Privilege escalation]]
+	- [[Ransomware]]
+	- [[Rootkit]]
+	- [[Bootkit]]
+	- [[Scareware]]
+	- [[Shellcode]]
+	- [[Spamming]]
+	- [[Screen scraping]]
+	- [[Spyware]]
+	- [[Trojan horses]]
+	- [[Hardware Trojans]]
+	- [[Remote access trojans]]
+	- [[Vulnerability]]
+	- [[Web shells]]
+	- [[Wiper]]
+	- [[Worms]]
+	- [[SQL injection]]
+	- [[Rogue security software]]
+	- [[Zombie]]
+- 防御：
+	- [[Application security]]
+		- [[Secure coding]]
+		- [[Secure by default]]
+		- [[Secure by design]]
+	- [[Computer access control]]
+	  id:: 62807116-8051-4643-aefa-a2b3212b1703
+		- [[Authentication]], [[Multi-factor authentication]] ([[MFA]])
+		- [[Authorization]]
+	- [[Computer security software]]
+		- [[Antivirus software]]
+		- [[Security-focused operating system]]
+	- [[Data-centric security]]
+	- [[Code obfuscation]]
+	- [[Data masking]]
+	- [[Encryption]]
+	- [[Firewall]]
+	- [[Intrusion detection system]]
+		- Host-based intrusion detection system ([[HIDS]])
+		- [[Anomaly detection]]
+	- [[Security information and event management]] ([[SIEM]])
+	- [[Mobile secure gateway]]
+	- [[Runtime application self-protection]] ([[RASP]])
+-

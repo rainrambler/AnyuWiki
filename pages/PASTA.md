@@ -1,0 +1,3 @@
+- The Process for Attack Simulation and Threat Analysis (PASTA) is a risk-centric threat-modeling framework developed in 2012.
+- https://insights.sei.cmu.edu/sei_blog/2018/12/threat-modeling-12-available-methods.html
+-

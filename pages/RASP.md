@@ -1,2 +1,7 @@
 - Run-time Application Security Protection (RASP)
 - RASP, or Run-time Application Security Protection As with [[IAST]], RASP, or Run­time Application Security Protection, works inside the application, but it is less a testing tool and more a security tool.
+- 运行时应用程序自我保护（RASP）是一种安全技术，它利用运行时仪器，通过利用运行中的软件内部信息来检测和阻止计算机攻击。
+- 该技术不同于基于周边的保护措施，如防火墙，后者只能通过使用网络信息来检测和阻止攻击，没有上下文意识。
+- 据称，RASP技术通过监控软件的输入，并阻止那些可能允许攻击的输入，同时保护运行环境不受不必要的改变和篡改，来提高软件的安全性。
+- 受RASP保护的应用程序较少依赖防火墙等外部设备来提供运行时安全保护。当检测到威胁时，RASP可以防止利用，并可能采取其他行动，包括终止用户会话、关闭应用程序、提醒安全人员并向用户发出警告。
+- RASP旨在填补应用安全测试和网络周边控制留下的空白，它们都没有足够的洞察力来了解实时数据和事件流，以防止漏洞通过审查过程或阻止开发过程中未预见的新威胁。
