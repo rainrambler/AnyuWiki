@@ -1,0 +1,9 @@
+- #CCC
+- ![Mobile Device Architecture](../assets/CCC_Mobile_Device_Archi.png)
+- 包括：
+	- App
+	- Digital Key Framework ([[DKF]])
+	- [[Secure Element]] 中的Digital Key Applet：实现认证、加密协议、密钥生成；对应配对、共享和车辆访问、开启引擎等。
+-
+- https://carconnectivity.org/digital-key/
+-
