@@ -1,0 +1,3 @@
+- Integrity Measurement Architecture
+- 内核的完整性管理子系统可用于维持系统上文件的完整性。完整性测量体系结构（IMA）组件使用加密哈希执行文件的运行时完整性测量，并将其与有效哈希的列表进行比较。列表本身可以通过存储在[[TPM]]中的聚合哈希进行验证。IMA执行的测量值可以通过审核子系统记录，还用于远程证明，外部系统验证其正确性。
+- https://www.linux.com/training-tutorials/overview-linux-kernel-security-features/
