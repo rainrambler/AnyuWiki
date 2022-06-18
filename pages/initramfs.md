@@ -1,0 +1,5 @@
+- Android 启动镜像(boot image)中的一个分区。Linux Kernel 将其作为[[rootfs]].
+- 有时也称作 [[ramdisk]].
+- recovery和boot是启动镜像的两种，都包含[[ramdisk]]和Kernel。区别在于，一个启动到 [[Android]]，另一个启动到一个最小化的Linux环境，以修复或者升级设备。
+- https://topjohnwu.github.io/Magisk/boot.html
+-
