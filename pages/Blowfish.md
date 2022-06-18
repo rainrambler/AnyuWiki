@@ -1,0 +1,5 @@
+- 一种对称（[[Symmetric-key algorithm]]）的分组密码([[Block cipher]])算法。
+- 截至目前并没有成功的密码分析。
+- 不过[[AES]]关注度更高。
+- 作者本人更推荐 [[Twofish]]。
+-
