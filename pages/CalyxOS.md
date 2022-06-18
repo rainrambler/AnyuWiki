@@ -1,0 +1,6 @@
+- CalyxOS is an [[Android]] mobile operating system ( #ROM ) that puts privacy and security into the hands of everyday users.
+- 特性：
+	- 呼叫，短信，视频通话通过 [[Signal]] 进行；
+	- 浏览器Tor Browser
+	- 应用商店：[[F-Droid]]和 [[Aurora Store]]
+- https://calyxos.org/
