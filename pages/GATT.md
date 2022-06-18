@@ -1,0 +1,2 @@
+- 低功耗蓝牙（[[BLE]]）连接都是建立在 GATT (Generic Attribute Profile) 协议之上。GATT 是一个在蓝牙连接之上的发送和接收很短的数据段的通用规范，这些很短的数据段被称为属性（Attribute）。
+-
