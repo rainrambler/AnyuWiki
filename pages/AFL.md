@@ -1,0 +1,8 @@
+- American Fuzzy Lop
+- 一款文件格式模糊测试工具
+- 编译时注入目标进程
+-
+- WinAFL - AFL for Windows
+- Download: https://github.com/ivanfratric/winafl
+-
+- #[[Fuzz Testing]]
