@@ -1,0 +1,2 @@
+- Package zim implements reading support for the ZIM File Format.
+- https://github.com/dps/go-zim
