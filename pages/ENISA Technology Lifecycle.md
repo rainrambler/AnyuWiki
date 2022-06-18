@@ -1,0 +1,4 @@
+- ![img](../assets/ENISA_Tech_Lifecycle.png)
+- ENISA
+- From "Readiness Analysis for the Adoption and Evolution of Privacy Enhancing Technologies"
+-
