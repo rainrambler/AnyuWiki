@@ -1,0 +1,3 @@
+- [Wiki]
+- 椭圆曲线数字签名算法(Elliptic Curve Digital Signature Algorithm)
+- 在密码学([[Cryptography]])中，椭圆曲线数字签名算法 (ECDSA) 提供了使用椭圆曲线密码学([[ECC]])的数字签名算法 ([[DSA]]) 的变体。
