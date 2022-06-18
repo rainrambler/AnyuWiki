@@ -1,0 +1,4 @@
+- Discretionary Access Control
+- Unix的安全模型
+- 主体可以设置客体的访问权限（安全策略）；在内核中通过[[inode]]的权限位(permission bits)实现。
+-
