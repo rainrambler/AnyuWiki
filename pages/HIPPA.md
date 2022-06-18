@@ -1,0 +1,2 @@
+- Health Insurance Portability and Accountability Act
+- https://www.hhs.gov/hipaa/for-professionals/privacy/index.html
