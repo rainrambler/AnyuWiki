@@ -1,0 +1,5 @@
+- [[DVD]]的加密系统。
+- ![css](../assets/DVD_CSS.gif)
+- https://www.cs.cmu.edu/~dst/DeCSS/Kesden/
+- https://cryptography.fandom.com/wiki/Content_Scramble_System
+-
