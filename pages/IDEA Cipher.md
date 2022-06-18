@@ -1,0 +1,1 @@
+- 在密码学中，国际数据加密算法 (IDEA)，最初称为改进的提议加密标准 (IPES)，是由苏黎世联邦理工学院的 James Massey 和 Xuejia Lai 设计的对称密钥([[Symmetric-key algorithm]])分组密码([[Block cipher]])，于 1991 年首次被描述。该算法旨在 作为数据加密标准 ([[DES]]) 的替代品。 IDEA 是早期密码提议加密标准 (PES) 的小版本。
