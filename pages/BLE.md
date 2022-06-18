@@ -1,0 +1,3 @@
+- Bluetooth Low Energy（低功耗蓝牙连接协议）
+- 参考：[[UWB]]
+-
