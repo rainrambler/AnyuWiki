@@ -1,0 +1,5 @@
+- 与破解密码算法或系统所需的工作量（例如操作数）相关的数字。(NIST 800-102)
+- 与破解密码算法或系统所需的工作量（即操作数）相关的数字。 如果需要算法（或系统）的 2N 次执行操作来破解密码算法，则安全强度为 N 位。([[NIST]] 800-107 Rev. 1)
+- 也称为 [[Bits of Security]].
+- https://csrc.nist.gov/glossary/term/security_strength
+-

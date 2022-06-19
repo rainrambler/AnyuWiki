@@ -1,3 +1,3 @@
-- How easy is it in 2022 to find a SHA1 collision?
-- You can also just rent three p3.16xlarge AWS instance with a hash rate of ~135GH/s each at a cost of ~$24.48 per instance per hour, for a total of 405GH/s for $73.44 per hour. That would take you ~2397.12 hours (3 months) and cost you ~$176,044.
+- How easy is it in 2022 to find a [[SHA1]] collision?
+-
 - https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision

@@ -1,0 +1,2 @@
+- https://github.com/SimpleMobileTools
+- A group of simple, open source [[Android]] apps without ads and unnecessary permissions, with customizable colors.

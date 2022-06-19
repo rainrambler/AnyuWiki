@@ -1,0 +1,5 @@
+- Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
+- https://github.com/scrapy/scrapy
+-
+- advanced-scrapy-proxies is a Python library for dealing with proxies in your Scrapy project. Starting from Aivarsk's scrapy proxy (no more updated since 2018) i'm adding more features to manage lists of proxies generated dinamically.
+	- https://github.com/reanalytics-databoutique/advanced-scrapy-proxies

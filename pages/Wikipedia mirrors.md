@@ -1,0 +1,2 @@
+- https://dumps.wikimedia.org/mirrors.html
+-

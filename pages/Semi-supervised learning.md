@@ -1,0 +1,3 @@
+- [Wiki]
+- 半监督学习是一种机器学习([[Machine learning]])方法，它在训练期间将少量标记数据与大量未标记数据结合起来。 半监督学习介于无监督学习（ [[Unsupervised learning]] ，没有标记的训练数据）和监督学习（ [[Supervised learning]] ，只有标记的训练数据）之间。这是弱监督的一个特例。
+-

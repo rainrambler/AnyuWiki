@@ -1,0 +1,5 @@
+- 许可区块链网络([[Blockchain]])的共识模型([[Consensus]])，其中节点被伪随机选择以创建块，但节点必须等待几个块创建周期才能再次被选中以添加另一个新块。
+- 该模型确保没有任何参与者创建大部分块，并且它受益于一种简单的方法，缺乏密码难题，并且具有低功耗要求。
+- https://csrc.nist.gov/glossary/term/Round_robin_consensus_model
+- NISTIR 8202
+-

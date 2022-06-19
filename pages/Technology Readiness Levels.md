@@ -1,0 +1,21 @@
+- 欧盟使用9种技术准备度等级（[[Horizon 2020]]）：
+	- TRL 1：观察到基本原则
+	- TRL 2：制定技术概念
+	- TRL 3：概念实验证明
+	- TRL 4：实验室验证的技术
+	- TRL 5：在**相关环境**中**验证**有效的技术（关键使能技术的工业相关环境）
+	- TRL 6：**相关环境**中**展示**的技术（关键使能技术的工业相关环境）
+	- TRL 7：**操作环境**中的系统**原型**演示
+	- TRL 8：**系统完整**且合格
+	- TRL 9：在**操作环境**中**证明**的**实际系统**（关键使能技术的竞争性制造；或在太空中）
+- 英文原文：
+	- TRL 1: basic principles observed
+	- TRL 2: technology concept formulated
+	- TRL 3: experimental proof of concept
+	- TRL 4: technology validated in lab
+	- TRL 5: technology validated in relevant environment (industrially relevant environment in the case of key enabling technologies)
+	- TRL 6: technology demonstrated in relevant environment (industrially relevant environment in the case of key enabling technologies)
+	- TRL 7: system prototype demonstration in operational environment
+	- TRL 8: system complete and qualified
+	- TRL 9: actual system proven in operational environment (competitive manufacturing in the case of key enabling technologies; or in space)
+- From "Readiness Analysis for the Adoption and Evolution of Privacy Enhancing Technologies"

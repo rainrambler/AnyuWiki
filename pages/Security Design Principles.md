@@ -1,0 +1,13 @@
+- 1975年，JEROME H. SALTZER等在论文“The Protection of Information in Computer Systems”中概述了安全设计的8项原则。
+	- 经济适用原则
+	- 失败默认安全原则
+	- 完全仲裁原则
+	- 开放设计原则
+	- 特权分离原则（Separation of privilege）
+	- 最小特权原则（ [[Principle of least privilege]] ）
+	- 最小公共化原则
+	- 心理可承受原则
+-
+- https://web.mit.edu/saltzer/www/publications/protection/Basic.html
+- Ref: https://www.informit.com/articles/article.aspx?p=30487&seqNum=2
+-

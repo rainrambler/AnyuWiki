@@ -1,0 +1,3 @@
+- 在密码学中，RC5 是一种对称密钥([[Symmetric-key algorithm]])分组密码([[Block cipher]])，以其简单性著称。
+- RC 由 Ronald Rivest 于 1994 年设计，代表“Rivest Cipher”或“Ron's Code”（比较 RC2 和 RC4）。高级加密标准 ([[AES]]) 候选 RC6 基于 RC5。
+-

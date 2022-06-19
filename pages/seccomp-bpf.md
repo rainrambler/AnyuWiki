@@ -1,0 +1,2 @@
+- Seccomp-BPF 是一种内核安全技术，支持创建沙盒来限制进程可以进行的系统调用。TSYNC 功能可以实现从多线程程序中使用 Seccomp-BPF。这种能力仅限具有 seccomp 支持上游的架构：ARM、ARM64、x86 和 x86_64。
+- https://source.android.google.cn/devices/tech/config/kernel?hl=zh-cn

@@ -1,0 +1,5 @@
+- Risk Management Framework
+- [[NIST]] 风险管理框架，在 [[SP 800-37]] 中定义。
+- https://www.nist.gov/risk-management
+- https://csrc.nist.gov/projects/risk-management/about-rmf
+-

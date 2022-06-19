@@ -1,0 +1,4 @@
+- TrueNAS (formerly known as [[FreeNAS]]) is one of the most popular operating systems for storage servers. It’s open-source, and it’s been around for almost 20 years, so it seemed like a reliable choice.
+- TrueNAS uses [[ZFS]], a filesystem designed specifically for storage servers. Traditional filesystems like [[NTFS]] or [[ext4]] run on top of a data volume that manages low-level disk I/O. ZFS manages everything in the stack from the file-level logic down to disk I/O. ZFS' comprehensive control gives it more power and performance than other filesystems.
+- https://mtlynch.io/budget-nas/
+-
