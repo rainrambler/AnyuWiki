@@ -1,0 +1,4 @@
+- Matter 是一个智能家居网络协议，让不同公司的产品一起工作。它将与苹果的 [[HomeKit]] 协议一起工作。
+- Matter 需要一个Apple TV或 [[HomePod]] 作为网络中心。
+- https://csa-iot.org/resources/
+-
