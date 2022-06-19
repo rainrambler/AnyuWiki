@@ -1,0 +1,3 @@
+- Microsoft Windows Support Diagnostic Tool
+- CVE-2022-30190 [[RCE]]
+-
