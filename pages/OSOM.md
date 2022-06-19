@@ -1,0 +1,2 @@
+- 在2020年初，Andy Rubin一手创办的Essential公司宣布停止运营，随后其团队离职并创立全新品牌OSOM，全称为“Out of Sight，Out of Mind”。
+- 据Phone Arena报道，OSOM打造的第一款旗舰手机OV1原计划使用骁龙888处理器，但是现在新品改用骁龙8+，发布时间推迟到今年Q4。
