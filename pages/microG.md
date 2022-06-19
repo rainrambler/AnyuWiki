@@ -1,0 +1,3 @@
+- microG is a open source replacement for Google Play Services (and related software), but it only includes the useful parts. Unlike Play Services, microG does not have any advertising or location tracking, for example.
+- https://microg.org/
+-
