@@ -1,4 +1,4 @@
-- [[Privacy-enhancing technologies]]
+- [[Privacy-enhancing technologies]], [[PETs]]
 - 隐私增强技术的分类
 	- 加密算法
 		- 同态加密（[[Homomorphic Encryption]]）
