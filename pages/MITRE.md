@@ -1,0 +1,2 @@
+- Mitre Corporation（风格化为 The MITRE Corporation 和 MITRE）是一家美国非营利组织，在马萨诸塞州贝德福德和弗吉尼亚州麦克莱恩设有双重总部。 它管理联邦资助的研发中心 (FFRDC)，为航空、国防、医疗保健、国土安全和网络安全([[Cybersecurity]])等领域的各种美国政府机构提供支持。
+-
