@@ -1,0 +1,5 @@
+- Linux 统一密钥设置 (LUKS) 是 Clemens Fruhwirth 在 2004 年创建的磁盘加密规范，最初是为 #Linux 设计的。
+- 虽然大多数磁盘加密软件实现了不同的、不兼容的和没有文档记录的格式，但 LUKS 实现了一种独立于平台的标准磁盘格式，用于各种工具。这不仅促进了不同程序之间的兼容性和互操作性，而且还确保它们都以安全和记录的方式实施密码管理。
+- LUKS 的参考实现在 Linux 上运行，基于 [[cryptsetup]] 的增强版本，使用 [[dm-crypt]] 作为磁盘加密后端。在 Microsoft Windows 下，可以通过 Linux 的 Windows 子系统使用 LUKS 加密磁盘。 （以前，这可以通过 LibreCrypt 实现，它目前存在基本的安全漏洞，并且成功了 FreeOTFE，以前的 DoxBox。）
+- LUKS 旨在符合 TKS1 安全密钥设置方案。
+-
