@@ -1,0 +1,5 @@
+- Android设备提供 SafetyNet API，属于 [[Google Play Services]] 的一部分，用于检测Android设备的健康和安全状态，如是否被root、是否运行第三方ROM、是否存在恶意软件。
+- 预装 Google Play Store的设备，必须通过 [[CTS]] ([[Compatibility Test Suite]])认证。
+- https://www.howtogeek.com/241012/safetynet-explained-why-android-pay-and-other-apps-dont-work-on-rooted-devices/
+- https://koz.io/inside-safetynet/
+-
