@@ -52,7 +52,7 @@
 	- [[Screen scraping]]
 	- [[Spyware]]
 	- [[Trojan horses]]
-	- [[Hardware Trojans]]
+	- [[Hardware Trojan]]
 	- [[Remote access trojans]]
 	- [[Vulnerability]]
 	- [[Web shells]]
