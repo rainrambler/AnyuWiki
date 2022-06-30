@@ -1,0 +1,5 @@
+- WarcDB: Web crawl data as [[SQLite]] databases.
+- WarcDB is a an SQLite-based file format that makes web crawl data easier to share and query.
+- It is based on the standardized Web ARChive format, used by web archivers.
+- https://github.com/Florents-Tselai/WarcDB
+-
