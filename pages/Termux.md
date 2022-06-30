@@ -1,0 +1,2 @@
+- Termux is a terminal emulator and #Linux environment for #Android.
+-
