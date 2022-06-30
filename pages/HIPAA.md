@@ -1,4 +1,4 @@
-- 1996年《健康保险可携性和责任法案》（HIPAA）
+- 1996年《健康保险可携性和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）
 - 可用于满足《隐私规则》去标识化标准的两种方法：专家裁定和安全港（Expert Determination and Safe Harbor）。
 - 受保护的健康信息
 	- HIPAA隐私规则保护由承保实体或其商业伙伴持有或传输的大多数 "个人可识别的健康信息"，其形式或媒介包括电子、纸质或口头。隐私规则将这些信息称为受保护的健康信息（[[PHI]]）。受保护的健康信息是指包括人口统计信息在内的与下列内容有关的信息。
