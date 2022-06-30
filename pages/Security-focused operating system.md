@@ -1,0 +1,18 @@
+- 通用操作系统往往并不关注安全。
+- 部分设计时充分考虑安全的操作系统
+- 基于Linux
+	- 基于 [[Android]]
+		- [[GrapheneOS]]
+	- 基于[[Debian]]
+		- [[Subgraph]]
+	- 基于[[Fedora]]
+		- [[Qubes OS]]
+	- 其他Linux
+		- [[Alpine Linux]]
+		- [[Immunix]]
+- 基于BSD
+	- [[TrustedBSD]]
+	- [[OpenBSD]]
+	-
+- 基于对象-能力系统：基于[[Object-capability model]]模型。不是由系统决定是否应授予访问请求，而是由捆绑的授权和指定模块决定。
+	- [[seL4]]
