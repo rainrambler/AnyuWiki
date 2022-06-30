@@ -1,0 +1,3 @@
+- Whist is the first native browser with cloud tabs, designed to be crazy fast and light
+- https://www.whist.com/
+-
