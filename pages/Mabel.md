@@ -1,0 +1,4 @@
+- Mabel is a fancy [[BitTorrent]] client for the terminal.
+- Languages: #Go
+- https://github.com/smmr-software/mabel
+-
