@@ -1,0 +1,5 @@
+- Web Authentication 协议，由 [[W3C]]和[[FIDO]]共同定义。
+-
+- https://w3c.github.io/webauthn/
+- https://webauthn.guide/
+-
