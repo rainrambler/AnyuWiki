@@ -1,0 +1,3 @@
+- [XDA]
+- StrongBox设备是完全独立的、专门建造的、经过认证的安全CPU。这些设备可以包括嵌入式安全元件（[[eSE]]）或SoC上的安全处理单元（[[SPU]]）。谷歌表示，目前 "强烈建议" #Android 12推出的设备配备StrongBox（根据兼容性定义文件），因为它有可能成为未来Android版本的一个要求。它本质上是一个更严格的硬件支持的密钥库的实现，可以与[[TrustZone]]一起实施。实施StrongBox的一个例子是Pixel智能手机的Titan M芯片。没有多少手机使用StrongBox，大多数手机使用ARM的Trustzone。
+-
