@@ -1,0 +1,3 @@
+- https://ss64.com/bash/syntax-pronounce.html
+- How do I pronounce vi , or ! , or /* , or ...?
+- You can start a very long and pointless discussion by wondering about this topic on the net.  Some people say vye, some say    vee-eye (the vi manual suggests this) and some Roman numerologists say six.  How you pronounce [vi](https://ss64.com/vi.html) has nothing to do with whether or not you are a true Unix wizard.
