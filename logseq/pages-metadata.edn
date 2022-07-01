@@ -634,7 +634,7 @@
   :block/updated-at 1655633047200}
  {:block/name "cybersecurity",
   :block/created-at 1645884215814,
-  :block/updated-at 1645884215814}
+  :block/updated-at 1656687174170}
  {:block/name "cybersecurity reference architecture",
   :block/created-at 1650696193273,
   :block/updated-at 1650696386217}
@@ -1243,7 +1243,7 @@
   :block/updated-at 1653380071262}
  {:block/name "iec 62443",
   :block/created-at 1648958941966,
-  :block/updated-at 1648958952606}
+  :block/updated-at 1656670250742}
  {:block/name "ieee",
   :block/created-at 1647428239842,
   :block/updated-at 1647428239842}
@@ -1442,6 +1442,9 @@
  {:block/name "juice jacking",
   :block/created-at 1652596737514,
   :block/updated-at 1656426394742}
+ {:block/name "jul 1st, 2022",
+  :block/created-at 1656669481394,
+  :block/updated-at 1656671585961}
  {:block/name "jun 10th, 2022",
   :block/created-at 1654827765588,
   :block/updated-at 1654841687858}
@@ -1889,39 +1892,6 @@
  {:block/name "network stack",
   :block/created-at 1652669095264,
   :block/updated-at 1652669095264}
- {:block/name "new page: fini",
-  :block/created-at 1654952029099,
-  :block/updated-at 1654952029099}
- {:block/name "new page: finit",
-  :block/created-at 1654952036645,
-  :block/updated-at 1654952036645}
- {:block/name "new page: formal methods",
-  :block/created-at 1656162429065,
-  :block/updated-at 1656162429065}
- {:block/name "new page: idea",
-  :block/created-at 1654405694670,
-  :block/updated-at 1654405694670}
- {:block/name "new page: information leakage",
-  :block/created-at 1655633121215,
-  :block/updated-at 1655633121215}
- {:block/name "new page: key-agreement protocol",
-  :block/created-at 1654952104021,
-  :block/updated-at 1654952104021}
- {:block/name "new page: mobile device",
-  :block/created-at 1655634571272,
-  :block/updated-at 1655634571272}
- {:block/name "new page: post-quantum cryptography",
-  :block/created-at 1656161079911,
-  :block/updated-at 1656161079911}
- {:block/name "new page: search aggregate",
-  :block/created-at 1655127184189,
-  :block/updated-at 1655127184189}
- {:block/name "new page: white hat",
-  :block/created-at 1655634437799,
-  :block/updated-at 1655634437799}
- {:block/name "new page: zenscreen",
-  :block/created-at 1655459912230,
-  :block/updated-at 1655459912230}
  {:block/name "next g",
   :block/created-at 1650725457486,
   :block/updated-at 1650725544309}
@@ -2024,6 +1994,9 @@
  {:block/name "opencc",
   :block/created-at 1655908055301,
   :block/updated-at 1655908089816}
+ {:block/name "opengl",
+  :block/created-at 1656669491108,
+  :block/updated-at 1656669516676}
  {:block/name "openlaws",
   :block/created-at 1646446188680,
   :block/updated-at 1646446201528}
@@ -2246,6 +2219,9 @@
  {:block/name "project alice",
   :block/created-at 1651458781834,
   :block/updated-at 1651458795015}
+ {:block/name "pronunciation guide for unix",
+  :block/created-at 1656671585958,
+  :block/updated-at 1656671603977}
  {:block/name "proof of authority",
   :block/created-at 1654944246178,
   :block/updated-at 1654944370786}
@@ -2927,6 +2903,9 @@
  {:block/name "vscodium",
   :block/created-at 1655044351078,
   :block/updated-at 1655044362294}
+ {:block/name "vulkan",
+  :block/created-at 1656669516674,
+  :block/updated-at 1656669516674}
  {:block/name "vulnerability",
   :block/created-at 1652582220748,
   :block/updated-at 1652582308116}
@@ -3013,7 +2992,7 @@
   :block/updated-at 1647428239842}
  {:block/name "worms",
   :block/created-at 1652584392262,
-  :block/updated-at 1652584392262}
+  :block/updated-at 1656685593310}
  {:block/name "wp29",
   :block/created-at 1652590114938,
   :block/updated-at 1652590114938}
