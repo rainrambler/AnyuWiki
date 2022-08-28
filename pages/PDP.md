@@ -1,0 +1,4 @@
+- policy decision point
+- 策略决策点。对应 [[PEP]]（策略执行点）。
+- [[Access control]] 中的概念。
+-
