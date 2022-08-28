@@ -1,0 +1,9 @@
+- Kernel Address Sanitizer (KASAN) is a dynamic memory safety error detector designed to find out-of-bounds and use-after-free bugs.
+- KASAN has three modes:
+	- Generic KASAN
+	- Software Tag-Based KASAN
+	- Hardware Tag-Based KASAN
+- https://www.kernel.org/doc/html/latest/dev-tools/kasan.html
+- Ref:
+	- [[HWASan]]
+- [[AddressSanitizer]]
