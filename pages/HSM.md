@@ -1,0 +1,3 @@
+- Hardware Security Module
+- Root of Trust ([[RoT]])的一种硬件实现。[[TPM]] (Trusted Platform Module)也属于HSM。
+- HSM通常是外围的一个独立物理设备，提供明文和密文的转换。
