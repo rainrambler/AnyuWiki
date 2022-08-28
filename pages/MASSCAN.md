@@ -1,0 +1,4 @@
+- MASSCAN: Mass IP port scanner
+- This is an Internet-scale port scanner. It can scan the entire Internet in under 5 minutes, transmitting 10 million packets per second, from a single machine.
+- Its usage (parameters, output) is similar to [[nmap]], the most famous port scanner. When in doubt, try one of those features -- features that support widespread scanning of many machines are supported, while in-depth scanning of single machines aren't.
+- https://github.com/robertdavidgraham/masscan
