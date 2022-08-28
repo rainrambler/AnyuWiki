@@ -1,0 +1,3 @@
+- GitDB is a decentralized document database written in #Go that uses #Git under the hood to provide database-like functionalities via strictly defined interfaces.
+- https://github.com/gogitdb/gitdb
+-
