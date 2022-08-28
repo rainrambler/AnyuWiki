@@ -1,0 +1,2 @@
+- https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/
+-
