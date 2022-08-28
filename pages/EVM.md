@@ -1,0 +1,9 @@
+- Extended Verification Module
+- 用于检查对于安全扩展属性的离线篡改。是 [[LSM]]和[[IMA]]的基础；
+- 标准的“安全”扩展属性：
+	- security.ima (IMA's stored “good” hash for the file)
+	- security.selinux (the [[selinux]] label/context on the file)
+	- security.SMACK64 ([[Smack]]'s label on the file)
+	- security.capability (Capability's label on executables)
+- 启动时，EVM需要一个高质量对称密钥，通过 [[HMAC]]加密，保护文件元数据。
+-
