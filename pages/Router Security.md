@@ -1,0 +1,3 @@
+- This site focuses on the security of routers. Period. If you are interested in faster WiFi, look elsewhere.
+- https://routersecurity.org/
+-
