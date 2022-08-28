@@ -1,0 +1,2 @@
+- [[Java]] is the world's leading programming language and platform. The [[Adoptium]] Working Group promotes and supports high-quality, [[TCK]] certified runtimes and associated technology for use across the Java ecosystem. [[Eclipse]] [[Temurin]] is the name of the OpenJDK distribution from Adoptium.
+- https://adoptium.net/
