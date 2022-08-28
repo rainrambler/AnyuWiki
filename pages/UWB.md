@@ -1,2 +1,9 @@
-- Ultra-Wideband
+-
+- Ultra-wideband wireless technology，一种短距无线通信技术。类似于 [[Bluetooth]]、[[NFC]]、 [[Wi-Fi]].
+- 与之相同的名称还有 Ultra-wideband mobile network，由运营商如 Verizon 推出的超宽带。它是一种 [[5G]] [[mmWave]] 技术。
+- UWB 代表“超宽带”，可实现极其精确的位置跟踪。支持 UWB 的设备可以以惊人的速度在短距离内发送和接收数据。大多数情况下，这些“基于脉冲”的无线电波用于通过精确计时无线电脉冲在两个不同设备之间传播所需的时间来测量位置。
+- 在Apple [[AirTag]]等跟踪设备中得到应用。
+-
+- Ref:
+- https://www.androidauthority.com/what-is-uwb-1151744/
 -
