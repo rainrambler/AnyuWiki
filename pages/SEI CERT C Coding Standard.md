@@ -1,0 +1,3 @@
+- https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
+- 分为17条规则(Rules)和17条建议(Recommendations)。
+-
