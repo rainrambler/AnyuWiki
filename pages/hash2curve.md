@@ -1,0 +1,11 @@
+- https://datatracker.ietf.org/doc/draft-irtf-cfrg-hash-to-curve/
+- This document specifies a number of algorithms for encoding or hashing an arbitrary string to a point on an elliptic curve.  This document is a product of the Crypto Forum Research Group ([[CFRG]]) in
+     the [[IRTF]].
+- 将字符串通过哈希算法变换成椭圆曲线的一个点。
+- 潜在的应用场景：
+	- [[PAKE]]
+	- [[IBE]]
+	- [[Boneh-Lynn-Shacham]] 签名
+	- [[Verifiable Random Function]]
+	- [[Oblivious Pseudorandom Function]]
+-
