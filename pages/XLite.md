@@ -1,0 +1,3 @@
+- https://github.com/x2bool/xlite
+- XLite is a #SQLite extension written in #Rust. The main purpose of this library is to allow working with spreadsheets from SQLite exposing them as virtual tables.
+-
