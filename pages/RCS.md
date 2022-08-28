@@ -1,0 +1,3 @@
+- 由 [[GSMA]] 开发的富文本协议。
+- Rich Communication Suite
+-
