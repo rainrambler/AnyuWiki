@@ -1,0 +1,4 @@
+- 一种开源的 [[TEE]] 实现。
+- ![Overview](../assets/OP-TEE-Overview.png)
+- Source: https://optee.readthedocs.io/architecture/crypto.html
+-
