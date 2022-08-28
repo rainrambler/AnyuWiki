@@ -1,0 +1,2 @@
+- is a collection of tools, APIs, and [[SDK]]s. Use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces) to help you analyze your software’s performance and behavior.
+- https://opentelemetry.io/
