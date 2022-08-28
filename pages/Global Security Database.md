@@ -1,0 +1,4 @@
+- https://github.com/cloudsecurityalliance/gsd-database
+- https://globalsecuritydatabase.org/
+- The Global Security Database ([[GSD]]) is a new Working Group project from the Cloud Security Alliance ([[CSA]]) meant to address the gaps in the current vulnerability identifier space.
+-
