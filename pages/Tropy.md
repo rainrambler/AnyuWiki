@@ -1,0 +1,4 @@
+- Take control of your research photos with Tropy, a tool that shortens the path from finding archival sources to writing about them. Spend more time using your research photos, and less time hunting for them.
+- https://tropy.org/
+- https://github.com/tropy/tropy
+-
