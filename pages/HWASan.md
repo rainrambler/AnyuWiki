@@ -1,0 +1,2 @@
+- 硬件辅助的 AddressSanitizer (HWASan) 是一款类似于 AddressSanitizer 的内存错误检测工具。与 ASan 相比，HWASan 使用的内存少得多，因而更适合用于整个系统的清理。HWASan 仅适用于 Android 10 及更高版本，且只能用于 AArch64 硬件。
+-
