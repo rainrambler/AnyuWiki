@@ -1,0 +1,7 @@
+- #Google 开发的实验性移动操作系统。使用 [[Zircon]] 作为内核。
+- 在目前官方提供的公开信息上，Fuchsia 系统目前仅适用于 Nest Hub 和 Nest Hubs Max 两款 Google 自家的智能屏幕设备。
+- 在 Google 的设想中，Fuchsia 设备可以运行来自 #Android 和 #Linux 等其他系统的应用程序。而这在理论上可以让 Fuchsia 设备无缝替代 Chromebook 或者 Android，让旧款应用也能顺畅运行。
+- 最早在 2019 年，Google 基于公开 Android 代码（[[AOSP]]）创建了一个项目，能够为 Fuchsia 设备创建 [[Android Runtime]] 版本。
+- 在 2021 年 2 月启动的“device/google/fuchsia”，在 Android 设备中启动 Fuchsia 项目，只是目前并没有公开的进度指标。而2022年7月，“device/google/fuchsia”的代码已经从 Android 上移除，正式标志着这条特殊途径的结束。
+- https://www.cnbeta.com/articles/tech/1293099.htm
+-
