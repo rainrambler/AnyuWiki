@@ -1,0 +1,3 @@
+- https://www.qbasic.net/
+- QBasic as well as QuickBasic is an easy-to-learn programming language (and therefore ideal for beginners), based on #DOS operating system, but also executable on #Windows.
+- Differences between QBasic and QuickBasic: QBasic is the slimmed-down version of QuickBasic. Compared to QuickBasic, QBasic is limited as it lacks a compiler. Therefore QBasic cannot be used to produce executables (.exe files). The source code (usually files with .bas extension) can only be executed immediately by the built-in QBasic interpreter. Furthermore, QuickBasic has a more extensive command set than QBasic.
