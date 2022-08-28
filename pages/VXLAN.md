@@ -1,0 +1,4 @@
+- VXLAN（Virtual eXtensible Local Area Network，虚拟扩展局域网），是由#IETF 定义的NVO3（Network Virtualization over Layer 3）标准技术之一，是对传统[[VLAN]]协议的一种扩展。
+- VXLAN的特点是将L2的以太帧封装到[[UDP]]报文（即L2 over L4）中，并在L3网络中传输。
+- VXLAN是一种隧道技术。
+- VXLAN已经成为当前构建数据中心的主流技术，是因为它能很好地满足数据中心里虚拟机动态迁移和多租户等需求。
