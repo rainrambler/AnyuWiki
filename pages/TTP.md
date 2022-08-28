@@ -1,0 +1,4 @@
+- Trusted Third Party
+- 可信第三方
+- 类似 [[PKI]] 里面的CA的角色。
+-
