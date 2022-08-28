@@ -1,0 +1,3 @@
+- Pretty Good Privacy
+- 一种主要用于电子邮件的加密( #Crypto )方案。
+-
