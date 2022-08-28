@@ -1,0 +1,3 @@
+- https://opensource.org/
+- 开放源代码促进会([[OSI]])
+-
