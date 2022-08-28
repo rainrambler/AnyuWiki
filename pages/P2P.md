@@ -1,0 +1,26 @@
+-
+- 关键技术
+- ![p2pimg](../assets/P2P.png)
+- 用户界面层
+	- [[Peergos]]
+	- [[Cabal]]
+	- [[Beaker]]
+	- Iris
+	- Notabug
+- DID层
+	- [[OpenBazaar]]
+	- Ceramic
+	- 3box
+	- Hyperdrive
+	- Ssb
+	- GUN
+	- [[Aether]]
+- 数据层
+	- [[IPFS]]
+	- [[OrbitDB]]
+	- [[Textile]]
+	- [[Hypercore]]
+- 网络层
+	- [[libp2p]]
+	- [[Hyperswarm]]
+	- Mim
