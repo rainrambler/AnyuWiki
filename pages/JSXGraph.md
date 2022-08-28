@@ -1,0 +1,3 @@
+- #Web 绘图和图形库。支持几何图形、数学图形、曲线、文本等。
+-
+- https://jsxgraph.org/wiki/index.php
