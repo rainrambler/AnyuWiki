@@ -1,0 +1,10 @@
+- **Penetration Testing Execution Standard**
+- 渗透测试执行标准分为7个模块：
+	- 合同前互动
+	- 情报收集 [Intelligence Gathering](http://www.pentest-standard.org/index.php/Intelligence_Gathering)
+	- 威胁建模 [Threat Modeling](http://www.pentest-standard.org/index.php/Threat_Modeling)
+	- 漏洞分析
+	- 开发
+	- 后期开发
+	- 报告
+- http://www.pentest-standard.org/index.php/Main_Page
