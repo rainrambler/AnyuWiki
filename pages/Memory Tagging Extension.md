@@ -1,0 +1,12 @@
+- 相对于 [[AddressSanitizer]]和 [[HWASan]]，用较小的性能代价解决内存安全问题。
+- Armv8.5-A 之后支持此架构。如果内核支持 Top-byte Ignore (TBI)， #Android 使用已加标记的指针（tagged pointer）支持该特性。
+- ARM 的 Top-byte Ignore 功能适用于所有 Armv8 AArch64 硬件中的 64 位代码。此功能意味着硬件在访问内存时会忽略指针的顶部字节。
+- TBI 需要一个兼容的内核，以便正确处理从用户空间传递的已加标记的指针。4.14 (Pixel 4) 及更高版本中的 Android 通用内核具有必需的 TBI 补丁程序。
+- 在内核中支持 TBI 的设备在进程启动时会被动态检测到，并且对于所有堆分配，都会在指针顶部字节中插入一个依赖于实现的标记。之后，系统会运行一项检查，以确保在回收内存时，相应标记没有被截断。
+  内存标记扩展就绪情况
+- ARM 的内存标记扩展 (MTE) 可以帮助解决内存安全问题。MTE 的工作原理是对堆栈、堆和全局变量上的每次内存分配的第 56 到 59 个地址位加标记。硬件和指令集会自动检查每次访问内存时是否使用了正确的标记。
+- 在指针顶部字节中错误存储信息的 Android 应用一定会在启用了 MTE 的设备上中断。利用加标记的指针，可以在 MTE 设备可用之前更轻松地检测并拒绝对指针顶部字节的错误使用。
+-
+- https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/enhancing-memory-safety
+- https://source.android.google.cn/devices/tech/debug/tagged-pointers?hl=zh-cn
+-
