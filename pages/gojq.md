@@ -1,0 +1,3 @@
+- https://github.com/itchyny/gojq
+- Pure #Go implementation of [[jq]]
+-
