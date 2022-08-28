@@ -1,0 +1,5 @@
+- EdDSA（爱德华兹曲线数字签名 [[Digital signature]] 算法）是一种基于性能优化的椭圆曲线([[ECC]])的现代安全数字签名算法，例如255位曲线 [[Curve25519]] 和448-bit曲线 [[Curve448]]-Goldilocks。EdDSA签名使用爱德华兹曲线，也即是edwards25519和edwards448.
+- EdDSA基于 [[Schnorr signature]] 算法，并且基于 ECDLP 问题的难度。
+- EdDSA和其变种 [[Ed25519]]、Ed448在 #RFC 8032 标准描述。
+- https://cryptobook.nakov.com/digital-signatures/eddsa-and-ed25519
+-
