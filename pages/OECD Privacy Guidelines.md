@@ -1,0 +1,4 @@
+- For several decades the [[OECD]] has been playing an important role in promoting respect for privacy as a fundamental value and a condition for the free flow of personal data across borders. The Guidelines on the Protection of Privacy and Transborder Flows of Personal Data constitute the first update of the original 1980 version that served as the first internationally agreed upon set of privacy principles.
+- http://www.oecd.org/internet/ieconomy/privacy-guidelines.htm
+- https://www.oecd.org/digital/ieconomy/digital-security/
+-
