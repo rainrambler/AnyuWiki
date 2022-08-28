@@ -1,0 +1,2 @@
+- Linux phone
+- https://www.pine64.org/pinephone/
