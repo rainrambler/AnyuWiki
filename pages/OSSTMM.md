@@ -1,0 +1,10 @@
+- Open Source Security Testing Methodology Manual (OSSTMM)
+- OSSTMM是关于运营安全的。它用于了解和衡量安全工作的好坏。
+- OSSTMM定义了10个安全域，划分为5个安全通道。
+	- 人的安全
+	- 物理安全
+	- 无线通信
+	- 通信
+	- 数据网络
+	-
+- https://www.isecom.org/research.html
