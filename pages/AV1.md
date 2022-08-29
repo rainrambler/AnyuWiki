@@ -1,0 +1,3 @@
+- AV1（Alliance for Open Media Video 1）是由AOM（Alliance for Open Media，开放媒体联盟）制定的一个开源、免版权费的视频编码格式，目标是解决[[H.265]]昂贵的专利费用和复杂的专利授权问题并成为新一代领先的免版权费的编码标准。此外，AV1是google制定的[[VP9]]标准的继任者，也是H265强有力的竞争者。
+- https://aomedia.org/av1-features/
+-
