@@ -1,0 +1,3 @@
+- 给C语言增加静态和动态检查。
+- https://github.com/microsoft/checkedc
+-
