@@ -1,4 +1,5 @@
-- Linux Security
+- Linux Security、[[IPC]]、 [[App sandbox]]、[[Kernel Configuration]]、Android [[CDD]] 给出了需要的配置。
+- **Linux Security**
 - The [[App sandbox]]
 	- Android 的应用安全性是由应用沙盒（它可将不同的应用分隔开来，并保护应用和系统免受恶意应用的攻击）强制实施的。如需了解详情，请参阅应用沙盒。
 - System Partition and Safe Mode
@@ -26,4 +27,5 @@
 		- Android 2.2 及更高版本提供 Android Device Administration API，该 API 在系统级别提供设备管理功能。例如，内置的 Android 电子邮件应用可以使用该 API 来改善 Exchange 支持。在此情况下，Exchange 管理员可以跨设备强制执行密码政策（字母数字密码或数字 PIN 码都算作密码）。管理员还可以远程清除（即恢复出厂默认设置）丢失或被盗手机上的数据。
 -
 - https://source.android.google.cn/security/overview/kernel-security
+- Next: [[Android App Security]]
 -
