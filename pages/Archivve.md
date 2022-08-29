@@ -1,0 +1,3 @@
+- https://archivve.visualizevalue.com/
+- 以图示方式，形象化各个领域的名言。
+-
