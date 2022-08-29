@@ -1,0 +1,4 @@
+- Android Compatibility Definition Document
+- 重要的是要明确规定 Android 兼容性计划的政策，因为包括 Android 兼容性测试套件 ([[CTS]]) 在内的任何测试套件都不能真正全面。例如，CTS 包括一项测试，检查 [[OpenGL]] 图形 API 的存在和正确行为，但没有软件测试可以验证图形是否正确显示在屏幕上。更一般地说，不可能测试键盘、显示密度、Wi-Fi 和蓝牙等硬件功能的存在。
+- https://source.android.google.cn/docs/compatibility/cdd
+-
