@@ -1,0 +1,7 @@
+- 认证密钥交换
+- Authenticated Key Exchange
+-
+- At their core, Authenticated Key Exchanges (AKEs for short) combine two different classes of protocol.
+	- An authentication mechanism, such as a [[MAC]] or a  ([[Digital signature]]).
+	- Key encapsulation, usually through some sort of Diffie-Hellman.
+- https://soatok.blog/2020/04/21/authenticated-key-exchanges
