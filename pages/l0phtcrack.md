@@ -1,0 +1,6 @@
+- https://gitlab.com/l0phtcrack
+- 包含一系列密码审计工具：
+	- [[HashCat]]
+	- [[John The Ripper]]
+	- L0phtCrack Password Auditor
+-
