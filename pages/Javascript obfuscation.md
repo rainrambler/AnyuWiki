@@ -1,0 +1,4 @@
+- https://www.trickster.dev/post/javascript-obfuscation-techniques-by-example/
+- https://javascriptobfuscator.com/Javascript-Obfuscator.aspx
+- #JavaScript
+-
