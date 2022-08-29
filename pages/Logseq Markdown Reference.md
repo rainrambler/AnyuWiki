@@ -1,0 +1,3 @@
+- Logseq Markdown Support
+- Logseq provides support for the following #Markdown elements.
+- https://www.markdownguide.org/tools/logseq/
