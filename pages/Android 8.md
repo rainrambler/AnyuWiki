@@ -1,0 +1,14 @@
+- **加密**：在工作资料中增加了对取消密钥的支持。
+- **验证启动**：增加了 Android 启动时验证 ([[AVB]])。支持回滚保护（用于引导加载程序）的启动时验证代码库已添加到 [[AOSP]] 中。建议提供引导加载程序支持，以便为HLOS 提供回滚保护。建议将引导加载程序设为只能由用户通过实际操作设备来解锁。
+- **锁定屏幕**：增加了对使用防篡改硬件验证锁定屏幕凭据的支持。
+- [[KeyStore]]：搭载 Android 8.0 及更高版本的所有设备都需要进行密钥认证。增加了 [ID 认证](https://source.android.google.cn/security/keystore/attestation#id-attestation)支持，以改进零触摸注册计划。
+- **沙盒**：使用 [[Treble]] 计划的框架和设备特定组件之间的标准接口更紧密地对许多组件进行沙盒化处理。将 [[seccomp]] 过滤应用到了所有不信任的应用，以减少内核的攻击面。[[WebView]] 现在运行在一个独立的进程中，对系统其余部分的访问非常有限。
+- **内核安全强化**：实现了经过安全强化的 usercopy、[[PAN]] 模拟、初始化后变为只读以及 [[KASLR]]。
+- **用户空间安全强化**：为媒体堆栈实现了 [[CFI]]。应用叠加层不能再遮盖系统关键窗口，并且用户可以关闭这些叠加层。
+- **操作系统流式更新**：在磁盘空间不足的设备上启用了[更新](https://source.android.google.cn/docs/core/ota/ab#streaming-updates)。
+- **安装未知应用**：用户必须授予权限，系统才能从不是第一方应用商店的来源安装应用。
+- **隐私权**：对于设备上的每个应用和使用设备的每个用户，Android ID ([[SSAID]]) 都采用不同的值。对于网络浏览器应用，[[Widevine]] 客户端 ID 会针对每个应用软件包名称和网络来源返回不同的值。net.hostname 现在为空，并且 [[DHCP]] 客户端不再发送主机名。android.os.Build.SERIAL 已被替换为 Build.SERIAL API（受到用户控制权限的保护）。改进了某些芯片组中的 [[MAC]] 地址随机分配功能。
+- Ref: https://source.android.google.cn/docs/security/enhancements/enhancements80
+-
+- Prev: [[Android 7]]
+- Next: [[Android 9]]
