@@ -1,0 +1,5 @@
+- *Android Virtualization Framework*
+-
+- ![avf](../assets/avf_architecture1.png)
+-
+- https://source.android.google.cn/docs/core/virtualization
