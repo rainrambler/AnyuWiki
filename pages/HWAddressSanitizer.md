@@ -1,0 +1,4 @@
+- 硬件辅助的 AddressSanitizer (HWASan)
+- 虽然 HWASan 主要适用于 C/C++ 代码，但也有助于调试导致用于实现 Java 接口的 C/C++ 代码崩溃的 Java 代码。[[HWASan]] 在这种情况下很有用，因为它能捕获到发生的内存错误，并直接将您带到导致问题发生的代码。
+- https://source.android.google.cn/docs/security/test/hwasan
+-
