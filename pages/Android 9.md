@@ -1,0 +1,48 @@
+- ## 安全功能
+	- https://source.android.google.cn/docs/setup/start/p-release-notes
+- **应用签名**
+	- v3 APK 签名方案支持 APK 密钥轮换。
+- **生物识别支持**
+	- Android 9 包含公共类 [[BiometricPrompt]]，应用可以使用该类采用与设备和模态无关的方式集成生物识别身份验证支持。如需详细了解如何集成生物识别堆栈以包含 BiometricPrompt，请参阅生物识别。
+- **动态分析**
+	- Android 9 支持更多[漏洞攻击缓解和分析工具](https://source.android.google.cn/devices/tech/debug/fuzz-sanitize)。
+- **控制流完整性** ([[CFI]])
+	- 控制流完整性 (CFI) 是一种安全机制，它禁止更改已编译二进制文件的原始控制流图，因而执行此类攻击变得异常困难。
+- 内核 CFI
+	- 除了默认启用的系统 CFI 之外，Android 9 及更高版本还支持内核控制流完整性 (CFI)。
+- 加密
+	- 文件级加密 ([[FBE]])
+		- 文件级加密 (FBE) 进行了更新，现可支持可采用的存储设备。新设备应使用文件级加密而不是全盘加密。
+	- 元数据加密
+		- Android 9 及更高版本支持存在硬件支持的元数据加密。借助元数据加密，启动时出现的单个密钥会使用文件级加密来加密任何未加密的内容。
+- 密钥库
+	- Android 9 及更高版本包含 Keymaster 4，它具有以下功能。
+	- StrongBox
+	- Android 9 及更高版本支持 Android [[Keystore]] 密钥，这些密钥在物理上独立且专为高安全性应用（例如嵌入式安全元件 (SE)）而构建的 CPU 中存储和使用。[[StrongBox]] [[Keymaster]] 是独立安全硬件中的 Keymaster [[HAL]] 实现。StrongBox 具有：
+		- 独立 CPU
+		- 整体安全存储空间
+		- 高品质的真随机数生成器
+		- 防篡改包装
+		- 防旁路攻击功能
+- 安全密钥导入
+	- 为了将密钥安全地导入 Keymaster 4，在设备外创建的密钥使用授权规范进行加密，这些授权定义了密钥的使用方式。
+- 3DES 支持
+	- Keymaster 4 包含 [[3DES]]，可与使用 3DES 的旧版系统兼容。
+- 版本绑定
+	- 为了支持 [[Treble]] 的模块化结构并取消 [[system.img]] 到 [[boot.img]] 的绑定，Keymaster 4 对密钥版本绑定模式进行了更改，使每个分区都有单独的补丁程序级别。这就让每个分区都可以独立更新，同时仍可提供回滚保护。
+- Android Protected Confirmation API
+	- 在搭载 Android 9 的受支持设备上，开发者可以使用 Android Protected Confirmation API。应用可以使用此 API 来利用 [[ConfirmationPrompt]] 的实例向用户显示提示，提醒他们批准一条简短声明。此声明允许应用重新确认用户希望完成敏感交易，例如付款。
+- SELinux
+	- 按应用划分的 SELinux 沙盒
+	- 应用沙盒提供了新的保护和测试用例，以确保面向 Android 9 及更高版本的所有非特权应用均可运行单独的 SELinux 沙盒。
+- Treble SELinux 变更
+	- SELinux 一节的几个页面记录了 Android 9 及更高版本对 Treble SELinux 的更新。
+- 供应商 init
+	- 供应商 init 使用单独的 [[SELinux]] 域，利用供应商专属权限来运行 `/vendor` 命令，从而填补 Treble 系统/供应商拆分中存在的漏洞。
+- 系统属性
+	- Android 9 禁止不必要地在 system 和 vendor 分区之间共享系统属性，并提供了一种用于确保在共享系统属性之间保持一致性的方法。
+- SELinux 属性测试
+	- Android 9 包含一些新的构建时测试，旨在确保特定位置的所有文件都具有适当的属性。例如，[[sysfs]] 中的所有文件都具有所需的 sysfs_type 属性。
+-
+- Prev: [[Android 8]]
+- Next: [[Android 10]]
