@@ -5,7 +5,7 @@
 - 在内核中支持 TBI 的设备在进程启动时会被动态检测到，并且对于所有堆分配，都会在指针顶部字节中插入一个依赖于实现的标记。之后，系统会运行一项检查，以确保在回收内存时，相应标记没有被截断。
   内存标记扩展就绪情况
 - ARM 的内存标记扩展 (MTE) 可以帮助解决内存安全问题。MTE 的工作原理是对堆栈、堆和全局变量上的每次内存分配的第 56 到 59 个地址位加标记。硬件和指令集会自动检查每次访问内存时是否使用了正确的标记。
-- 在指针顶部字节中错误存储信息的 Android 应用一定会在启用了 MTE 的设备上中断。利用加标记的指针，可以在 MTE 设备可用之前更轻松地检测并拒绝对指针顶部字节的错误使用。
+- 在指针顶部字节中错误存储信息的 Android 应用一定会在启用了 [[MTE]] 的设备上中断。利用加标记的指针，可以在 MTE 设备可用之前更轻松地检测并拒绝对指针顶部字节的错误使用。
 -
 - https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/enhancing-memory-safety
 - https://source.android.google.cn/devices/tech/debug/tagged-pointers?hl=zh-cn
