@@ -1,9 +1,13 @@
+- 安卓安全网站的入口。
+-
 - 包含：
 - [[Android Security Overview]]: 安卓操作系统强大的安全性开箱即有。了解更多关于安卓平台内置的每个基础安全功能。
 - [[Android Security Features]]: 安卓系统提供了各种设备上的安全功能，你可以实施这些功能来构建尽可能安全的设备。
 - [[Android Security Bulletins]]: 查看影响运行安卓系统的设备的可能问题的修复方法，包括特定设备制造商的细节。
 - [[Android Security Testing]]: 除了一般的平台测试外，还要运行专门用于检测和诊断安全漏洞的测试。
 - [[Android Security Best Practices]]: 遵循最佳实践，涵盖从组织和运营安全到用户隐私和整个安卓生态系统的一切。
+-
+- See also: [[AOSP Security]]
 -
 - Ref:
 - https://source.android.google.cn/docs/security
