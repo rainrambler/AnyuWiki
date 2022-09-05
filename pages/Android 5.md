@@ -1,0 +1,15 @@
+- **默认加密。**在以开箱即用的方式搭载 L 的设备上，会默认启用全盘加密功能，以便更好地保护丢失设备或被盗设备上的数据。对于更新到 L 的设备，可以在**设置** > **安全性**部分进行加密。
+- **经过改进的全盘加密功能。**使用  `scrypt`  保护用户密码免遭暴力破解攻击；在可能的情况下，该密钥会绑定到硬件密钥库，以防范来自设备外的攻击。和以往一样，Android 屏幕锁定密钥和设备加密密钥不会被发送到设备以外，也不会提供给任何应用。
+- **通过 SELinux 得到增强的 Android 沙盒**。对于所有域，Android 现在都要求 [[SELinux]] 处于强制模式。SELinux 是 Linux 内核中的强制访问控制 ([[MAC]]) 系统，用于增强现有的自主访问控制 ([[DAC]]) 安全模型。这个新的安全层为防范潜在的安全漏洞提供了额外的保护屏障。
+- **Smart Lock。**Android 现在包含一些 [[Trustlet]]，它们可以提供更灵活的设备解锁方式。例如，Trustlet 可让设备在靠近其他可信设备（通过 [[NFC]]、蓝牙）时或用户拥有可信面孔时自动解锁。
+- **面向手机和平板电脑的多用户功能、受限个人资料和访客模式。**Android 现在为手机提供了多用户功能，并包含一个访客模式。利用访客模式，您可以让访客轻松地临时使用您的设备，而不向他们授予对您的数据和应用的访问权限。
+- **不使用 OTA 的 WebView 更新方式。**现在可以独立于框架对 [[WebView]] 进行更新，而且无需采用系统 [[OTA]] 方式。这有助于更快速地应对 WebView 中的潜在安全问题。
+- **经过更新的 HTTPS 和 TLS/SSL 加密功能。**现在启用了 [[TLS]] v1.2 和 TLSv1.1，首选是正向加密，启用了 [[AES-GCM]]，停用了弱加密套件（[[MD5]]、[[3DES]] 和导出密码套件）。如需更多详细信息，请访问 [https://developer.android.com/reference/javax/net/ssl/SSLSocket.html](https://developer.android.google.cn/reference/javax/net/ssl/SSLSocket.html)。
+- **移除了非 PIE 链接器支持。**Android 现在要求所有动态链接的可执行文件都要支持 [[PIE]]（位置无关可执行文件）。这有助于增强 Android 的地址空间布局随机化 ([[ASLR]]) 实现。
+- **FORTIFY_SOURCE 改进。** 以下 [[libc]] 函数现在实现了 [[FORTIFY_SOURCE]] 保护功能： `stpcpy()` 、 `stpncpy()` 、 `read()` 、 `recvfrom()` 、 `FD_CLR()` 、 `FD_SET()`  和  `FD_ISSET()` 。这有助于防范涉及这些函数的内存损坏漏洞。
+- **安全修复程序。** Android 5.0 中还包含针对 Android 特有漏洞的修复程序。有关这些漏洞的信息已提供给“开放手机联盟”([[Open Handset Alliance]]) 成员，并且 Android 开源项目中提供了相应的修复程序。为了提高安全性，部分搭载更低版本 Android 系统的设备可能也会包含这些修复程序。
+-
+- Prev: [[Android 4.4]]
+- Next: [[Android 6]]
+-
+- https://source.android.google.cn/docs/security/enhancements/enhancements50
