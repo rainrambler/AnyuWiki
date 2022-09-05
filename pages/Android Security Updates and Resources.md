@@ -1,0 +1,20 @@
+-
+- **安全问题报告机制**
+- 任何开发者、Android 用户或安全研究人员都可以通过[安全漏洞报告表单](https://g.co/AndroidSecurityReport)将潜在安全问题告知 Android 安全团队。
+-
+- **漏洞分类原则**
+	- （略）
+-
+- **通知合作伙伴**
+- AOSP 中的安全漏洞在 Android 安全公告中得到修复后，我们会将问题详细信息通知给 Android 合作伙伴，并提供相应的补丁程序。具体有哪些支持向后移植的版本会随着每个新 Android 版本的发布而发生变化。如需查看支持的设备列表，请与设备制造商联系。
+- **向 AOSP 发布代码**
+- 如果安全错误发生在 AOSP 组件内，我们会先向用户发布 OTA 更新，然后再将修复程序推送到 AOSP。如果问题的严重程度为“低”，我们可能会先直接将修复程序提交到 AOSP master 分支，然后再通过 OTA 更新将其提供给设备。
+- **接收 Android 更新**
+- 对 Android 系统的更新一般会通过 OTA 更新文件包提供给设备。这些更新可能来自生产相应设备的原始设备制造商 (OEM)，也可能来自向相应设备提供服务的运营商。Google Pixel 设备更新由 Google Pixel 团队在相应更新通过运营商技术验收 (technical acceptance, TA) 测试程序之后予以提供。Google 还会发布可以旁加载到设备的 Pixel 出厂映像。
+- **更新 Google 服务**
+- 除了针对安全错误提供补丁程序之外，Android 安全团队还会审核安全错误，以确定是否有其他方式来保护用户。例如，[[Google Play]] 会扫描所有应用并移除任何试图利用安全错误的应用。对于通过 Google Play 之外的途径安装的应用，带有 Google Play 服务的设备可能还会使用验证应用功能来警告用户注意可能有害的应用。
+-
+- Next: [[Android Security Reports]]
+-
+- https://source.android.google.cn/docs/security/overview/updates-resources
+-
