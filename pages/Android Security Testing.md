@@ -1,0 +1,22 @@
+- [[AddressSanitizer]] (ASan) 是一种基于编译器的快速检测工具，用于检测原生代码中的内存错误。
+- ARM内存标记扩展：Arm [内存标记扩展](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/enhancing-memory-safety) (MTE)
+- 边界排错程序 [[BoundsSanitizer]] (BoundSan)
+- [[CFI]]
+- [[XOM]]： [[AArch64]] 上二进制文件的仅执行代码。Android 10支持，Android 11因为上游Linux Kernel不支持，已经移除。
+- [[LibFuzzer]]
+- GWP-ASan和KFENCE
+	- GWP-ASan 和 [[KFENCE]] 分别是面向用户空间和内核的概率性内存检测工具。启用后，系统会用额外的内存页围绕分配的内存，从而为少量分配提供防护。这样能以忽略不计的性能开销来检测缓冲区溢出和释放后使用。
+- 硬件辅助的 [[AddressSanitizer]]: [[HWAddressSanitizer]]
+- [[IntSan]]：整数溢出排错功能
+- 内核控制流完整性(kCFI)
+- [[LLVM]] 排错程序: [[AddressSanitizer]]和 [[UBSan]].
+- 内存安全([[Android Memory Safety]])
+	- [[CDD]] 的内存安全工具要求
+	- [[Rust]] 引入
+- [[HWASan]]、 [[ASan]]、 [[KASAN]]
+- [[Scudo]]
+- [[ShadowCallStack]]
+- 标记指针：[[TBI]]，支持 [[MTE]]
+- 零初始化用户空间内存：解决未初始化内存问题。
+-
+- https://source.android.google.cn/docs/security/test/fuzz-sanitize
