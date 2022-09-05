@@ -1,0 +1,4 @@
+- 如果发生意外的整数溢出，可能会导致内存损坏，或导致与内存访问或内存分配关联的变量中出现信息披露漏洞。
+- 在 [[Android 7]].0 中添加了 [[Clang]] 的 [UndefinedBehaviorSanitizer](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html) (UBSan) 有符号和无符号整数溢出排错程序，以[增强媒体框架](https://android-developers.googleblog.com/2016/05/hardening-media-stack.html)。在 [[Android 9]] 中，[将UBSan扩展为涵盖更多组件](https://android-developers.googleblog.com/2018/06/compiler-based-security-mitigations-in.html)，并改进了对它的编译系统支持。
+- 参考 [[UBSan]].
+- https://source.android.google.cn/docs/security/test/intsan
