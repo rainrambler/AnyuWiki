@@ -1,2 +1,24 @@
-- Android 13带来了安全改进、UI/主题完善、生产力提升、OpenJDK 11 
-  LTS更新、ART优化、垃圾收集改进以及其他各种进化和变化。
+- Android 13带来了安全改进、UI/主题完善、生产力提升、[[OpenJDK]] 11 
+  LTS更新、[[ART]]优化、垃圾收集改进以及其他各种进化和变化。
+- **安全与隐私**（过滤Release Notes中的安全和隐私关键词）
+- **APK签名策略V3.1**
+- 在用旋转的签名密钥和签名线路签署APK时，默认使用该方案，并允许单个APK针对Android 13及以后的版本进行旋转，同时通过在v3.0签名块中使用原始签名密钥，避免在以前的平台版本上出现旋转的已知问题。同样，v4.1签名将包括v3.1块的额外签名信息，以支持增量安装的相同行为。
+- **Intent(意图)应与声明的Intent 过滤器匹配**
+	- 在 Android 13 中，当且仅当 Intent 与其声明的 Intent-filter 元素匹配时，源自外部应用程序的 Intent 才会传递到导出的组件。
+	- 不匹配的Intent 被阻止。 以下是未强制执行Intent 匹配的例外情况：
+		- 传递给未声明任何意图过滤器的组件的Intent
+		- 源自同一应用程序的Intent
+		- 来自系统的Intent
+		- 来自root的Intent
+- **OMAPI 供应商稳定接口**
+	- 开放移动 API ([[OMAPI]]) 是用于与设备的安全元件通信的标准 API。
+	- 在 Android 13 之前，只有应用程序和框架模块可以访问此接口。
+	- 通过将其转换为供应商稳定的接口，[[HAL]] 模块还能够通过 OMAPI 服务与安全元件([[Secure Element]])通信。
+	- 有关详细信息，请参阅 [OMAPI 供应商稳定接口](https://source.android.google.cn/docs/security/features/open-mobile-api)。
+- **安卓虚拟化框架**
+- Android 虚拟化框架 ([[AVF]]) 为执行代码提供了安全和私有的执行环境。AVF 是面向安全的用例的理想选择，这些用例需要比 Android 应用程序沙箱提供的更强大、甚至经过正式验证的隔离保证。
+- **[[UWB]] 支持**
+- 支持UWB无线技术，提供安全、高精度的设备间连接。
+-
+- Prev: [[Android 12]]
+- Next: [[Android 14]]
