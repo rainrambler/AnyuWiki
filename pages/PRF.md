@@ -1,0 +1,5 @@
+- Pseudorandom Function
+- A pseudorandom function (PRF) is an efficiently computable keyed function fk(·) whose values are indistinguishable, for a randomly chosen key k, from random elements in the function range.
+-
+- Ref:
+- Oded Goldreich, Shafi Goldwasser, and Silvio Micali. How to construct random functions. J. ACM, 33(4), 1986.
