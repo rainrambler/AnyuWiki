@@ -1,0 +1,5 @@
+- Google 近日宣布开源 Paranoid，该项目主要用于识别各种加密产品中的漏洞。该库支持测试数字签名、通用伪随机数和公钥等多种类型的加密产品，以识别由编程错误或使用弱专有随机数生成器引起的问题。 Paranoid 项目可以检测任意加密产品、以及那些由未知实现的系统（Google 将其称之为 “黑匣子”，其特性是源代码无法被检查）生成的产品。
+- 在随机数生成器中两个著名的、特定于实现（implementation-specific）的漏洞是 [[DUHK]] (Don’t Use Hardcoded Keys) 和[[ROCA]] (Return of Coppersmith’s Attack)，这两个 [[SSL]]/[[TLS]] 漏洞在过去 5 年里已经广为人知。
+- 例如，一个跟踪为 [[CVE]]-2022-26320 的错误，这是一个影响多个 Canon 和 Fujifilm 打印机系列的加密相关问题，它们生成带有易受攻击的 RSA 密钥的自签名 TLS 证书。该问题与 [[Rambus]] 使用 [[Safezone]] 库的基本加密模块有关。
+- #Google 已经使用 Paranoid 从 Certificate Transparency 中检查了包含超过 70 亿个已发布网站证书的加密产品，并发现了数千个受到严重和高严重性 [[RSA]] 公钥漏洞影响的条目。这些证书中的大多数已经过期或被吊销，其余的被报告为吊销。
+- 项目地址：https://github.com/google/paranoid_crypto
