@@ -1,0 +1,4 @@
+- 本文档描述了 CPace，它是一种协议，允许共享低熵秘密（密码）的两方派生强共享密钥，而不会向离线字典攻击泄露秘密。CPace 协议是为受限设备量身定制的，与任何素数和非素数顺序的循环组兼容。
+-
+- https://www.rfc-editor.org/rfc/internet-drafts/draft-irtf-cfrg-cpace-06.html
+-
