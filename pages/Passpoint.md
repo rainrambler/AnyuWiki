@@ -1,0 +1,3 @@
+- [Passpoint](https://www.wi-fi.org/discover-wi-fi/passpoint) 是一种 [Wi-Fi 联盟 (WFA)](https://www.wi-fi.org/) 协议，可让移动设备发现提供互联网访问权限的 Wi-Fi 热点并完成身份验证。
+-
+- https://source.android.google.cn/docs/core/connect/wifi-passpoint
