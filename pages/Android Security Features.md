@@ -1,12 +1,17 @@
-- [[App sandbox]]
-- [[App signing]]
-- [[Android Authentication]]
-- [[Android Biometrics]]
-- [[Android Encryption]]
-- [[Android Keystore]]
-- [[Security-Enhanced Linux]]
-- [[Android TEE]]
-- [[Verified Boot]]
+- [[App sandbox]]：Android 平台利用基于用户的 Linux 保护机制识别和隔离应用资源，为此，Android 会为每个 Android 应用分配一个独一无二的用户 ID ([[UID]])，并在自己的进程中运行。Android 会使用此 UID 设置一个内核级应用沙盒。
+- [[App signing]]：通过应用签名，开发者可以标识应用创作者并更新其应用，而无需创建复杂的接口和权限。在 Android 平台上运行的每个应用都必须有开发者的签名。
+- [[Android Authentication]]:
+	- Android 采用通过用户身份验证把关的加密密钥机制，该机制需要加密密钥存储区以及服务提供商和用户身份验证程序。
+	- 在配有指纹传感器的设备上，用户可以注册一个或多个指纹，并使用这些指纹解锁设备以及执行其他任务。[[Gatekeeper]] 子系统会在可信执行环境 ([[TEE]]) 中执行设备解锁图案/密码身份验证。
+	- [[Android 9]] 及更高版本包含 Android 受保护的确认功能，使用户能够正式确认关键交易（如付款）。
+- [[Android Biometrics]](生物识别)
+	- Android 9 及更高版本包含一个 [[BiometricPrompt]] API，应用开发者可以使用该 API 采用与设备和模态无关的方式将生物识别身份验证集成到其应用中。只有极为安全的生物识别技术才能与 BiometricPrompt 集成。
+- [[Android Encryption]]: 设备经过加密后，所有由用户创建的数据在存入磁盘之前都会自动加密，并且所有读取操作都会在将数据返回给调用进程之前自动解密数据。加密可确保未经授权方在尝试访问相应数据时无法读取数据。
+- [[Android Keystore]]: Android 提供了一个由硬件支持的密钥库，以提供生成密钥、导入和导出非对称密钥、导入原始对称密钥、使用适当的填充模式进行非对称加密和解密等功能。
+- Security-Enhanced Linux([[SELinux]]):
+	- 作为 Android 安全模型的一部分，Android 使用安全增强型 Linux (SELinux) 对所有进程强制执行强制访问控制 ([[MAC]])，甚至包括以 Root/超级用户权限运行的进程（Linux 功能 capabilities）。
+- [[Android TEE]]: [[Trusty]] 是一种安全的操作系统 (OS)，可为 Android 提供可信执行环境 (TEE)。Trusty 操作系统与 Android 操作系统在同一处理器上运行，但 Trusty 通过硬件和软件与系统的其余组件隔离开来。
+- [[Verified Boot]]: 验证启动会尽力确保所有已执行代码均来自可信来源（通常是设备的 OEM），以防受到攻击或损坏。它建立了一个完整的信任链，该信任链从硬件保护的信任根开始，延伸到引导加载程序，再延伸到启动分区以及其他已验证分区。
 -
 - https://source.android.google.cn/security/features
 -
