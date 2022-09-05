@@ -1,0 +1,31 @@
+- 安全功能（过滤Release Notes中的安全和隐私关键词）
+- **架构**
+	- SoundTrigger 权限更严格的管控（针对 [[Microphone]]）,`AlwaysOnHotwordDetector` 接口对于三方App不可见。
+	- [[Rust]]的支持。
+	- 系统告警窗口限制
+		- 第三方App更难获得[ `SYSTEM_ALERT_WINDOW` ](https://developer.android.google.cn/reference/android/Manifest.permission#SYSTEM_ALERT_WINDOW)权限。
+		- 预装App也不默认授予该权限。
+		- 第三方App可以opt out，不允许其他App重叠绘制窗口，以防止 [[cloak and dagger]] 攻击。
+- **连接性(Connectivity)**
+	- MAC randomization
+	- 禁用2G ([[GSM]])
+		- 默认打开；运营商可以关闭。设备制造商必须确保紧急呼叫时所有网络可用。
+	- [[Wi-Fi]] 安全协议增强
+		- 支持 [[WPA3]] Hash-to-Element ([[H2E]]), [[WPA2]]/WPA3-Enterprise transition mode, and Transition Disable indication.
+- **显示**
+	- 阻止不可信的触摸事件：为了维持系统安全并保持良好的用户体验，Android 12 会阻止应用使用[触摸事件](https://developer.android.google.cn/training/gestures)，使用触摸事件时叠加层会以不安全的方式遮掩应用。
+- **权限**
+	- 蓝牙权限
+	- 隐私指示器(Privacy indicators)：
+		- 当应用通过摄像头和麦克风([[Microphone]])应用操作权限使用私有数据源时，Android 12 会显示指示器，从而为用户提供透明度。
+		- [[App Ops]] 跟踪活动状态和单个 API 调用的数量，并与 Android 12 中的麦克风和摄像头指示器交互，以在应用访问其设备上的音频和摄像头数据时向用户显示。 当用户单击麦克风或摄像头指示器时，他们会看到哪些应用访问了他们的数据。
+		- 此功能对于所有 OEM 都是强制性的。有关详细信息，请参阅隐私指示器。
+	- 粗略位置
+		- 用户可以授权App[仅可访问粗略位置](https://developer.android.google.cn/training/location/permissions#approximate-request)。仅影响Android 12和更高版本。但是如果使用了旧版本的[[PermissionController]]，可能都受影响，而不管实际的 [[targetSdkVersion]].
+- **更新**
+	- Resume-on-Reboot 安全性和便利性
+		- Android 12 引入了增强的多客户端支持和基于服务器的重启功能。resume-on-reboot ([[RoR]]) 流程为用户提供了额外的安全性和便利性，因为可以在设备空闲时间进行 [[OTA]] 更新，而 Android 12 多客户端和基于服务器的更新功能共同提供了设备硬件级别的类型安全性。
+		- 有关详细信息，请参阅重启时恢复。
+-
+- Prev: [[Android 11]]
+- Next: [[Android 13]]
