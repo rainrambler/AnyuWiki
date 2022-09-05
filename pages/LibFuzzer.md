@@ -4,3 +4,6 @@
 - http://tutorial.libfuzzer.info
 - #[[Fuzz Testing]]
 -
+- ## Android
+- Android 构建系统通过从 LLVM 编译器基础架构项目纳入 [libFuzzer](http://llvm.org/docs/LibFuzzer.html) 来支持模糊测试。LibFuzzer 与被测库相关联，并处理在模糊测试会话期间出现的所有输入选择、变更和崩溃报告。LLVM 的排错程序用于协助内存损坏检测以及提供代码覆盖率指标。
+-
