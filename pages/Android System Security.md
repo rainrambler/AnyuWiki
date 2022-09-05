@@ -1,0 +1,25 @@
+- 生物识别身份验证
+	- 仔细获取、存储和处理[生物识别数据](https://source.android.google.cn/security/biometric)以进行用户身份验证。
+	- 具有生物识别技术的设备应该支持 [BiometricPrompt API](https://developer.android.google.cn/preview/features/security#fingerprint-auth)
+- SELinux
+	- [[SELinux]] 提供了 [[Android]] 大部分安全模型的定义和强制执行。
+- 后门程序
+	- Android 应用不得通过任何后门或其他方式来访问可绕过正常安全机制的系统或数据。
+- 开发工具
+- 开发工具（如调试、测试和诊断工具）通常可以揭示所收集的数据的处理方式，从而在设备上产生意外的安全漏洞。
+- AOSP 中的嵌入式功能
+	- 在 AOSP 中嵌入其他功能往往会产生意外行为和后果
+	- 确保用户在要使用其他默认应用（例如，搜索引擎、网络浏览器、启动器）并披露从设备外发送数据时会收到提示。
+	- 确保 [[AOSP]] [[APK]] 使用 AOSP 证书进行签名。
+	- 运行回归测试并保留更改日志以确定 AOSP APK 是否已添加代码。
+- 安全更新
+- Android 设备应在至少两年（从发布之日算起）内获得持续的安全支持。
+	- 动态内核更新
+		- **请勿**动态修改关键系统组件。
+- 密钥管理
+	- 保持良好的密钥管理政策和做法，以确保签名密钥的安全性。
+- 系统映像签名
+	- 系统映像的签名对于确定设备的完整性至关重要。
+- 可解锁的引导加载程序([[bootloader]])
+-
+- https://source.android.google.cn/docs/security/best-practices/system
