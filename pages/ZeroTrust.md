@@ -1,4 +1,4 @@
-- Zero trust is a framework that assumes a complex network’s security is always at risk to external and internal threats. It helps organize and strategize a thorough approach to counter those threats.
+- [[Zero trust]] is a framework that assumes a complex network’s security is always at risk to external and internal threats. It helps organize and strategize a thorough approach to counter those threats.
 	- https://www.ibm.com/topics/zero-trust
 - Implementations:
 	- [[BeyondCorp]]
