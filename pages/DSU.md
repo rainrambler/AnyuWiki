@@ -1,0 +1,5 @@
+- 借助动态系统更新 (DSU)，您能够制作 Android 系统映像，供用户从互联网下载并试用，而不会出现损坏当前系统映像的风险。
+- DSU 依靠 device-mapper-verity ([[dm-verity]]) 内核功能来验证 Android 系统映像。
+- 从 [[Android 11]] 开始，DSU 要求  `/data`  分区使用 [[F2FS]] 或 [[ext4]] 文件系统。
+-
+- https://source.android.google.cn/docs/core/ota/dynamic-system-updates
