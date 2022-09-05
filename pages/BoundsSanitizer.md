@@ -1,0 +1,2 @@
+- BoundsSanitizer (BoundSan) 将插桩添加到二进制文件，以插入对数组访问的边界检查。如果编译器在编译时无法证明访问将会是安全的，并且在运行时将会知道数组的大小，便会添加这些检查，以便对数组访问进行检查。
+- BoundSan 使用 [UBSan](https://source.android.google.cn/devices/tech/debug/sanitizers#undefinedbehaviorsanitizer) 的边界排错程序。该缓解功能是在各个模块级别启用，有助于确保 Android 关键组件的安全性，因此不应停用。
