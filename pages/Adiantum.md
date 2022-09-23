@@ -1,4 +1,4 @@
-- Adiantum 是一种加密方法，专为搭载 Android 9 或更高版本且 CPU 缺少 AES 指令的设备而设计。如果您要推出的是启用了 ARMv8 加密扩展的 ARM 设备或启用了 AES-NI 的 x86 设备，则不应使用 Adiantum。AES 在这些平台上的运行速度更快。
+- Adiantum 是一种加密方法，专为搭载 [[Android 9]] 或更高版本且 [[CPU]] 缺少 [[AES]] 指令的设备而设计。如果您要推出的是启用了 ARMv8 加密扩展的 [[ARM]] 设备或启用了 [[AES-NI]] 的 x86 设备，则不应使用 Adiantum。AES 在这些平台上的运行速度更快。
 - 对于缺少这些 AES CPU 指令的设备，Adiantum 可在您的设备上提供加密功能，且性能开销非常低。如需查看基准数据，请参阅 Adiantum 论文。如需查看可在您的硬件上运行的基准源代码，请参阅 GitHub 上的 Adiantum 源代码。
 - https://source.android.google.cn/security/encryption/adiantum
 -
