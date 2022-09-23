@@ -1,0 +1,30 @@
+- **11.4**
+- 生物认证策略
+- [[HomeKit]]
+- [[Business Chat]]
+- [[iCloud]] 消息支持
+- Touch ID和Face ID保护的 [[Secure Enclave]] [[ECC]] 密钥，用于签发商店请求，以证实购买。
+- 11.3之后，配件可以用软件的 [[MFi]] 认证方案。
+- 在 11之后， [[SHA-1]] 算法的证书不能再被用作 [[TLS]] 连接。少于 2048长度的 [[RSA]] 证书也被禁用。
+- 在 iOS 11上，配对模式（到计算机）的**服务启用**依赖于设备最近被解锁过。通过公钥交换的方式配对。
+- 配对流程中，需要用户解锁设备，并且接受配对请求。在 iOS 11上，还要求输入锁屏密码。输入后，主机和设备交换一个 [[RSA]] 2048位密钥。之后，主机获得一个 256比特密钥，可以解锁 Escrow [[Keybag]].
+- 配对记录在[[iOS 9]] 上保留6个月，在 iOS 11上缩短为30天。
+- 在 iOS 11上，Apple TV支持 [[Secure Remote Password]] 协议，以无线方式启用配对关系。
+- iOS 11的设备支持学校管理和商业管理（[[Apple Business Manager]]），类似[[MDM]]。
+-
+- **11.2**
+- [[Apple Pay Cash]]
+-
+- **11.1**
+- 安全认证
+- Touch ID, Face ID
+- 共享便签 ([[Shared Notes]])
+- [[CloudKit]] 端到端加密([[E2EE]])
+- [[TLS]]
+- [[Siri]] 建议
+- 共享 iPad
+-
+- Next: [[iOS 12]]
+- Prev: [[iOS 10]]
+-
+- https://www.apple.com.cn/business/docs/site/iOS_Security_Guide.pdf
