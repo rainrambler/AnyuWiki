@@ -1,0 +1,25 @@
+- [[Secure Enclave]]
+- OS 完整性保护
+- Express Card with power reserve
+- [[DFU]] 模式和恢复模式
+- [[HomeKit]] TV 遥控器配件
+- Contactless passes
+- 学生ID卡
+- [[Siri]] 建议
+- [[Siri]] 快捷方式
+- 快捷方式(Shortcuts) App
+- 用户密码管理
+- 屏幕时间
+- 安全认证
+-
+- 12.1:
+- 群组 FaceTime
+-
+- 12.3:
+- TLS 1.3支持
+- AirDrop安全描述更新
+- [[DFU]] 模式和恢复模式
+- 配件连接的 [[Passcode]] 要求
+-
+- Prev: [[iOS 11]]
+- Next: [[iOS 13]]
