@@ -1,0 +1,5 @@
+- Our major objective for [[mobile security]] is to provide a broad and comprehensive set of protections, widely available, at no cost. Security is something everybody should have by default, and it should be free. [[Google]] Inc.
+- 我们在移动安全方面的主要目标是提供一套广泛而全面的保护措施，并广泛提供，不收取任何费用。安全是每个人都应该默认拥有的东西，而且应该是免费的。谷歌公司。
+-
+- Ref:
+- [[DHS]] Study on Mobile Device Security - April 2017-FINAL
