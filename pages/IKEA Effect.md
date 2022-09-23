@@ -1,0 +1,2 @@
+- The IKEA effect describes how people come to overvalue things in which they have successfully put effort into. This cognitive bias can pose risks to organisations in the form of sunk cost effects and “not invented here” syndrome.
+- https://mannhowie.com/ikea-effect
