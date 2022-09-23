@@ -1,0 +1,4 @@
+- Guidelines for Media Sanitization
+-
+- [[Magic UI]] 的恢复出厂设置，支持对存储数据的安全擦除。通过给物理存储器发送命令，进行覆写操作，完成底层数据擦除。擦除后数据是全 0 或者全 1，确保用户的敏感数据不能通过软硬件手段恢复，能够保护用户设备转售、 废弃后的数据安全，满足 NIST SP800-88 要求。
+- https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final
