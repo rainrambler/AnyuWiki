@@ -1,0 +1,4 @@
+- Enterprise Mobile Management (EMM)
+- 基于 [[MDM]] 演进。
+-
+- https://blog.rsisecurity.com/what-are-enterprise-mobile-management-emm-solutions
