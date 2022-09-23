@@ -1,0 +1,4 @@
+- ![image.png](../assets/msra.png)
+- Components of the [[MSRA]] are also defined in the [[NSA]] [[Mobility]] Capability Package v2.0:
+- https://www.thecre.com/fisma/wp-content/uploads/2013/06/Mobile-Security-Reference-Architecture.pdf
+-
