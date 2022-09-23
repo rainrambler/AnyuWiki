@@ -1,0 +1,9 @@
+- 如果 interface{}本身为其他类型，使用
+- [ `fmt.Sprint(val)` ](https://pkg.go.dev/fmt#Sprint) is equivalent to [ `fmt.Sprintf("%v", val)` ](https://pkg.go.dev/fmt#Sprintf)
+-
+- https://gosamples.dev/interface-to-string
+-
+- 如果 interface{}本身为string类型，使用
+- item.(string)
+-
+- #Go
