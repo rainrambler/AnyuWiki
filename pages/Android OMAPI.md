@@ -1,0 +1,5 @@
+- 开放移动 API (Open Mobile API, OMAPI) 是用于与设备的安全元件([[Secure Element]])通信的标准 API。在 [[Android 13]] 之前，只有应用程序和框架模块可以访问此接口。通过将其转换为供应商稳定的接口，[[HAL]] 模块还能够通过 OMAPI 服务与安全元件进行通信。
+- 为 HAL 模块添加了一个新的 OMAPI 访问条目，而无需修改当前现有接口中的任何 API。使用此接口的现有应用程序和框架模块无需修改。
+- 作为 Android [[Ready SE]] 计划的一部分，我们正在 Secure Elements 上提供核心 Android 安全功能，例如 [[Keymaster]]、[[Keymint]]、身份凭证(Identity Credentials)和远程密钥配置([[Remote Key Provisioning]])。启用这些功能需要这些功能的 HAL（供应商组件）通过 OMAPI 供应商稳定接口与安全元件通信。
+-
+- https://source.android.google.cn/docs/security/features/open-mobile-api?hl=zh-cn
