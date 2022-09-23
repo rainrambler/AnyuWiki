@@ -1,0 +1,3 @@
+- Secure Enclave是一个安全协处理器，其中包括基于硬件的密钥管理器，该密钥管理器与主处理器隔离，以提供额外的安全性。
+- 其遵循与 [[SoC]] 相同的设计准则：Boot ROM 用于建立硬件信任根，[[AES]] 引擎用于高效安全的加密操作以及内存受保护。
+- https://support.apple.com/zh-cn/guide/security/sec59b0b31ff/web
