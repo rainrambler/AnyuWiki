@@ -1,0 +1,6 @@
+- [[Privacy Impact Assessment]]
+-
+- 隐私影响评估是 [[GDPR]] 建议对处理个人数据的企业进行的评估之一。
+- 隐私影响评估是风险管理流程的一部分，用于分析组织或控制者如何收集、使用、共享、处理和维护个人数据。
+-
+- 参考 [[DPIA]] (Data Protection Impact Assessment)。
