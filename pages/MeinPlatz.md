@@ -1,0 +1,3 @@
+- Easy and fast way to scan for lost disk space
+- https://www.softwareok.com/?seite=Freeware/MeinPlatz/History
+-
