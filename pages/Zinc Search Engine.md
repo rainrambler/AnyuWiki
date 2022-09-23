@@ -1,0 +1,4 @@
+- https://github.com/zinclabs/zinc
+-
+- 类似 [[Elasticsearch]] 的全文索引引擎。使用 #Go 编写。
+- 当前不支持 #Windows.
