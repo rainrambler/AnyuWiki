@@ -1,0 +1,3 @@
+- 特权模式访问禁止（PAN）/特权模式执行禁止（PXN）
+- [[Magic UI]] 支持使用 [[ARMv8]] 的 PAN（[[Privileged Access Never]]）和 PXN ([[Privileged execute never]]) 安全防护技术保护内核，禁止内核([[Kernel]])访问用户空间的数据和执行用户空间的代码。
+-
