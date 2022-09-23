@@ -1,0 +1,2 @@
+- Team Win was originally formed to work on porting WiMAX to CM7 for the HTC EVO 4G. After our work on the EVO 4G we wanted to work on a project that would work on more devices than just the EVO 4G and we settled on working on a recovery. Today TWRP is the leading custom recovery for Android phones.
+- https://twrp.me/about/
