@@ -1,0 +1,2 @@
+- These Are Not Photos: Beautiful Landscapes Created by New #AI
+- https://petapixel.com/2022/08/16/these-are-not-photos-beautiful-landscapes-created-by-new-ai/
