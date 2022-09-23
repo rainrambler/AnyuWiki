@@ -1,0 +1,6 @@
+- NIST Mobile Computing Security
+- Security
+- Capabilities
+- Economics
+- https://csrc.nist.gov/csrc/media/events/ispab-february-2013-meeting/documents/ispab_feb2013_mobile-and-devices_kcox.pdf
+-
