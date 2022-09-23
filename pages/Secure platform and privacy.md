@@ -1,0 +1,7 @@
+- Without a secure platform, you cannot have privacy—it would be possible to have a secure device that does not address privacy, but not the other way around.
+	- -- Qualcomm
+- 没有一个安全的平台，你就不可能有隐私--有可能有一个安全的设备，但不解决隐私问题，但不可能反过来。
+	- ——高通公司
+-
+- Ref:
+- [[DHS]] Study on Mobile Device Security - April 2017-FINAL
