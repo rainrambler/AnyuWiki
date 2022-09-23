@@ -1,0 +1,5 @@
+- fs-verity 是一项 [[Linux]] 内核功能，可让系统持续通过受信任的数字证书来验证 APK 文件。在平台提供这种访问时验证机制的情况下，有了来自某个受支持商店（例如 Play）的受信任证书，该商店便可以安装具有 fs-verity 签名的 [[APK]] 文件来进行持续验证。受 fs-verity 保护的文件是不可变的，并且仅在内容通过验证后读取请求才会成功。
+- 内核支持 fs-verity 后，合作伙伴可以将来自其受信任商店的新型证书存放在产品分区 `/product/etc/security/fsverity` 内，证书会在启动期间加载到内核密钥环。在支持此功能的设备上，受信任的商店可以安装具有相应 fs-verity 签名的 APK。
+- https://source.android.google.cn/docs/security/features/apk-verity?hl=zh-cn
+-
+- Next: [[Android OMAPI]]
