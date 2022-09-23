@@ -1,0 +1,3 @@
+- PA（[[Pointer Authentication]]）/ BTI（Branch Target Identification）是基于硬件的 [[ROP]]/[[JOP]] 攻击缓解措施，PA 针对指针进行签名与验签，保证了指针的完整性，BTI 针对函数跳转的目标进行了限制，保证了跳转目标的完整性。
+	- -- [[HONOR]]
+-
