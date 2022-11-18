@@ -1,0 +1,9 @@
+- Chinese NLP Toolkits 中文NLP工具
+- Toolkits 综合[[NLP]]工具包
+- [[THULAC]] 中文词法分析工具包 by 清华 (C++/Java/Python)
+- NLPIR by 中科院 (Java)
+- LTP 语言技术平台 by 哈工大 (C++)
+- FudanNLP by 复旦 (Java)
+- BosonNLP by Boson (商业API服务)
+- [[HanNLP]] (#Java)
+- [[SnowNLP]] (#Python) Python library for processing Chinese text
