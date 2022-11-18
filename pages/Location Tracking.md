@@ -1,0 +1,7 @@
+- 攻击者可以通过被攻击设备上的恶意或被利用的应用程序使用标准的操作系统API来追踪设备的物理位置。
+- 可以利用设备的权限，读取设备的位置。
+- [[SpyDealer]] 可以利用百度地图API的滥用获取位置等信息。
+- 两个子领域：
+	- [[Remote Device Management Services]]
+-
+- https://attack.mitre.org/techniques/T1430/
