@@ -1,0 +1,5 @@
+- https://prettier.io/
+- An opinionated [[code formatter]]
+- Supports many languages
+- Integrates with most editors
+- Has few options
