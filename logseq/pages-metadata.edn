@@ -7,6 +7,21 @@
  {:block/name "../assets/dfd.",
   :block/created-at 1652617499458,
   :block/updated-at 1652617499458}
+ {:block/name "1ppt",
+  :block/created-at 1668308244930,
+  :block/updated-at 1668308266649}
+ {:block/name "2002_58_ec",
+  :block/created-at 1664358778249,
+  :block/updated-at 1664359347818}
+ {:block/name "2014_53_eu",
+  :block/created-at 1664357418671,
+  :block/updated-at 1664357494619}
+ {:block/name "2016_679_eu",
+  :block/created-at 1664357704423,
+  :block/updated-at 1664358754936}
+ {:block/name "2022_30_eu",
+  :block/created-at 1664357577341,
+  :block/updated-at 1664357673325}
  {:block/name "2fa",
   :block/created-at 1663464629881,
   :block/updated-at 1663464629881}
@@ -79,6 +94,9 @@
  {:block/name "activityhub",
   :block/created-at 1647428239842,
   :block/updated-at 1647428239842}
+ {:block/name "activitypub",
+  :block/created-at 1667305165825,
+  :block/updated-at 1667305165825}
  {:block/name "adb",
   :block/created-at 1658060778222,
   :block/updated-at 1661586223183}
@@ -139,15 +157,24 @@
  {:block/name "alks",
   :block/created-at 1657007518766,
   :block/updated-at 1657007518766}
+ {:block/name "alphavet",
+  :block/created-at 1667551211490,
+  :block/updated-at 1667551244932}
  {:block/name "alpine linux",
   :block/created-at 1656143742013,
   :block/updated-at 1656143742013}
  {:block/name "ambient intelligence",
   :block/created-at 1652705247085,
   :block/updated-at 1652712935673}
+ {:block/name "amd",
+  :block/created-at 1666182234967,
+  :block/updated-at 1666182234967}
  {:block/name "an architecture for secure mobile devices",
   :block/created-at 1663113860596,
   :block/updated-at 1663114024005}
+ {:block/name "anatomy of linux dynamic libraries",
+  :block/created-at 1665729577937,
+  :block/updated-at 1665729670313}
  {:block/name "android",
   :block/created-at 1653190665200,
   :block/updated-at 1653190665200}
@@ -187,6 +214,9 @@
  {:block/name "android 9",
   :block/created-at 1661949588990,
   :block/updated-at 1662086988757}
+ {:block/name "android accessibility service",
+  :block/created-at 1666420480798,
+  :block/updated-at 1666420501288}
  {:block/name "android app security",
   :block/created-at 1645966240790,
   :block/updated-at 1661736739231}
@@ -199,6 +229,9 @@
  {:block/name "android blockstore",
   :block/created-at 1661684723459,
   :block/updated-at 1661684723459}
+ {:block/name "android device manager",
+  :block/created-at 1666420825934,
+  :block/updated-at 1666420825934}
  {:block/name "android encryption",
   :block/created-at 1645868718223,
   :block/updated-at 1662003630700}
@@ -207,7 +240,7 @@
   :block/updated-at 1662003495257}
  {:block/name "android implementing security",
   :block/created-at 1661736739231,
-  :block/updated-at 1662171374641}
+  :block/updated-at 1667310695964}
  {:block/name "android keystore",
   :block/created-at 1645874221108,
   :block/updated-at 1662106245875}
@@ -219,7 +252,7 @@
   :block/updated-at 1662108389625}
  {:block/name "android mobile app scan",
   :block/created-at 1663915178012,
-  :block/updated-at 1663915189887}
+  :block/updated-at 1668307946396}
  {:block/name "android omapi",
   :block/created-at 1662472735666,
   :block/updated-at 1662472861223}
@@ -277,6 +310,9 @@
  {:block/name "androidreverseengineering",
   :block/created-at 1645281355515,
   :block/updated-at 1645281453384}
+ {:block/name "androwarn",
+  :block/created-at 1663937618239,
+  :block/updated-at 1663993908460}
  {:block/name "angr",
   :block/created-at 1657711665643,
   :block/updated-at 1657711665643}
@@ -310,6 +346,9 @@
  {:block/name "apk",
   :block/created-at 1662171119654,
   :block/updated-at 1662171119654}
+ {:block/name "apkanalyser",
+  :block/created-at 1663924160327,
+  :block/updated-at 1663924160327}
  {:block/name "apksigner",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
@@ -328,6 +367,9 @@
  {:block/name "app signing",
   :block/created-at 1645867194930,
   :block/updated-at 1645867299717}
+ {:block/name "apple",
+  :block/created-at 1664783044539,
+  :block/updated-at 1664783044539}
  {:block/name "apple business manager",
   :block/created-at 1663639961175,
   :block/updated-at 1663639961175}
@@ -349,6 +391,9 @@
  {:block/name "application security",
   :block/created-at 1652584726927,
   :block/updated-at 1652601707019}
+ {:block/name "appsweep",
+  :block/created-at 1664002880506,
+  :block/updated-at 1664002941173}
  {:block/name "apr 16th, 2022",
   :block/created-at 1650082096652,
   :block/updated-at 1650082261945}
@@ -553,6 +598,9 @@
  {:block/name "awesome critique of crypto/web3",
   :block/created-at 1643204026817,
   :block/updated-at 1643204129506}
+ {:block/name "awesome decentralized web",
+  :block/created-at 1666851791083,
+  :block/updated-at 1666851795641}
  {:block/name "awesome static web site generators",
   :block/created-at 1659537807365,
   :block/updated-at 1659537822581}
@@ -586,6 +634,9 @@
  {:block/name "beaker",
   :block/created-at 1658069483429,
   :block/updated-at 1658069483429}
+ {:block/name "beautiful soup",
+  :block/created-at 1665734525019,
+  :block/updated-at 1665734544823}
  {:block/name
   "best linux commands for advanced hardware and system info",
   :block/created-at 1656381677275,
@@ -683,6 +734,9 @@
  {:block/name "bootloader",
   :block/created-at 1661950680680,
   :block/updated-at 1661950680680}
+ {:block/name "bootstrap",
+  :block/created-at 1667130370222,
+  :block/updated-at 1667130370222}
  {:block/name "botnets",
   :block/created-at 1652584013733,
   :block/updated-at 1655632633093}
@@ -692,6 +746,12 @@
  {:block/name "boundssanitizer",
   :block/created-at 1662039767157,
   :block/updated-at 1662106801694}
+ {:block/name "bpf",
+  :block/created-at 1667744869603,
+  :block/updated-at 1667744887260}
+ {:block/name "briar",
+  :block/created-at 1667296769944,
+  :block/updated-at 1667297804803}
  {:block/name "briggs & riley",
   :block/created-at 1647665925266,
   :block/updated-at 1647665957045}
@@ -722,6 +782,9 @@
  {:block/name "bug bounty program",
   :block/created-at 1652601502776,
   :block/updated-at 1652601502776}
+ {:block/name "build your own search engine",
+  :block/created-at 1667007971658,
+  :block/updated-at 1667008052602}
  {:block/name "business chat",
   :block/created-at 1663641991035,
   :block/updated-at 1663641991035}
@@ -737,15 +800,21 @@
  {:block/name "c2m2",
   :block/created-at 1649322436219,
   :block/updated-at 1649322635909}
+ {:block/name "c99",
+  :block/created-at 1665395223721,
+  :block/updated-at 1665395223721}
  {:block/name "ca",
   :block/created-at 1661735617439,
   :block/updated-at 1661735617439}
  {:block/name "cabal",
   :block/created-at 1650691127580,
   :block/updated-at 1650691152354}
+ {:block/name "caliptra",
+  :block/created-at 1666182125602,
+  :block/updated-at 1666182237600}
  {:block/name "call control",
   :block/created-at 1662631455056,
-  :block/updated-at 1662631498008}
+  :block/updated-at 1666419739772}
  {:block/name "calloc",
   :block/created-at 1662472316228,
   :block/updated-at 1662472316228}
@@ -779,15 +848,18 @@
  {:block/name "cbac",
   :block/created-at 1657035335738,
   :block/updated-at 1657035335738}
+ {:block/name "cbdb",
+  :block/created-at 1668429572086,
+  :block/updated-at 1668429643358}
  {:block/name "cc",
   :block/created-at 1662554543988,
   :block/updated-at 1662554543988}
  {:block/name "cc-cedict",
   :block/created-at 1647522875202,
-  :block/updated-at 1647522891359}
+  :block/updated-at 1668164091529}
  {:block/name "ccc",
   :block/created-at 1653992375991,
-  :block/updated-at 1653992379428}
+  :block/updated-at 1666875371907}
  {:block/name "ccc digital key",
   :block/created-at 1653891515958,
   :block/updated-at 1653999162087}
@@ -797,6 +869,9 @@
  {:block/name "ccgo",
   :block/created-at 1655900701884,
   :block/updated-at 1655900809746}
+ {:block/name "ccm",
+  :block/created-at 1664937914498,
+  :block/updated-at 1664937914498}
  {:block/name "ccpa",
   :block/created-at 1648529996548,
   :block/updated-at 1657505142578}
@@ -832,16 +907,25 @@
   :block/updated-at 1660830231480}
  {:block/name "chacha20",
   :block/created-at 1653474429494,
-  :block/updated-at 1653474429494}
+  :block/updated-at 1664809377734}
  {:block/name "chain of trust",
   :block/created-at 1652597471473,
   :block/updated-at 1656311882621}
+ {:block/name "charts css",
+  :block/created-at 1667130336254,
+  :block/updated-at 1667130374222}
  {:block/name "checked c",
   :block/created-at 1656757370371,
   :block/updated-at 1656757404804}
  {:block/name "chinese",
   :block/created-at 1655908089815,
   :block/updated-at 1655908089815}
+ {:block/name "chinese nlp",
+  :block/created-at 1668163588888,
+  :block/updated-at 1668163650386}
+ {:block/name "chkbugreport",
+  :block/created-at 1663924248406,
+  :block/updated-at 1663925476758}
  {:block/name "cia",
   :block/created-at 1647507953190,
   :block/updated-at 1647507953190}
@@ -890,12 +974,18 @@
  {:block/name "cloudmse",
   :block/created-at 1657008259503,
   :block/updated-at 1657008259503}
+ {:block/name "cloudnative",
+  :block/created-at 1665060138842,
+  :block/updated-at 1665060138842}
  {:block/name "cmmi",
   :block/created-at 1656749301049,
   :block/updated-at 1656749301049}
  {:block/name "cmp",
   :block/created-at 1656164644479,
   :block/updated-at 1656164644479}
+ {:block/name "cn pipl",
+  :block/created-at 1664526518173,
+  :block/updated-at 1664526521153}
  {:block/name "cnn",
   :block/created-at 1658056446632,
   :block/updated-at 1658056446632}
@@ -908,6 +998,9 @@
  {:block/name "cocoapods",
   :block/created-at 1658044440336,
   :block/updated-at 1658044440336}
+ {:block/name "code formatter",
+  :block/created-at 1667658163249,
+  :block/updated-at 1667658163249}
  {:block/name "code injection",
   :block/created-at 1652583982432,
   :block/updated-at 1656240433960}
@@ -917,6 +1010,9 @@
  {:block/name "code review",
   :block/created-at 1652601447836,
   :block/updated-at 1652601447836}
+ {:block/name "codeberg",
+  :block/created-at 1664093114169,
+  :block/updated-at 1664093165313}
  {:block/name "coding best practices",
   :block/created-at 1652586949258,
   :block/updated-at 1653381428155}
@@ -971,6 +1067,9 @@
  {:block/name "confirmationui",
   :block/created-at 1645884215813,
   :block/updated-at 1645884215813}
+ {:block/name "connectivity",
+  :block/created-at 1666875371905,
+  :block/updated-at 1666875371905}
  {:block/name "connectivitymanager",
   :block/created-at 1662043272736,
   :block/updated-at 1662043272736}
@@ -1031,6 +1130,9 @@
  {:block/name "crawlee",
   :block/created-at 1661315656357,
   :block/updated-at 1661315741061}
+ {:block/name "crawler",
+  :block/created-at 1668153972617,
+  :block/updated-at 1668153972617}
  {:block/name "cross-site request forgery",
   :block/created-at 1652583029467,
   :block/updated-at 1652583029467}
@@ -1205,9 +1307,15 @@
  {:block/name "decentralized edge devices",
   :block/created-at 1648534415971,
   :block/updated-at 1648537811356}
+ {:block/name "decentralized web",
+  :block/created-at 1666851579154,
+  :block/updated-at 1666851791085}
  {:block/name "decision balance",
   :block/created-at 1662707644650,
   :block/updated-at 1662707693150}
+ {:block/name "decompiler",
+  :block/created-at 1668163468554,
+  :block/updated-at 1668163468554}
  {:block/name "decompiler explorer",
   :block/created-at 1657711647039,
   :block/updated-at 1657711696455}
@@ -1217,6 +1325,9 @@
  {:block/name "defi",
   :block/created-at 1643209104463,
   :block/updated-at 1643209104463}
+ {:block/name "degoogle",
+  :block/created-at 1663990886859,
+  :block/updated-at 1663990886859}
  {:block/name "delete large folder",
   :block/created-at 1647264954534,
   :block/updated-at 1647264999907}
@@ -1235,6 +1346,9 @@
  {:block/name "design review",
   :block/created-at 1652601413885,
   :block/updated-at 1652612303937}
+ {:block/name "device attestation",
+  :block/created-at 1664938210617,
+  :block/updated-at 1664938210617}
  {:block/name "device mapper",
   :block/created-at 1656142207543,
   :block/updated-at 1656142207543}
@@ -1271,6 +1385,9 @@
  {:block/name "diffie–hellman key exchange",
   :block/created-at 1656161034890,
   :block/updated-at 1656161034890}
+ {:block/name "diffoscope",
+  :block/created-at 1667308826561,
+  :block/updated-at 1667308960101}
  {:block/name "digital forensics",
   :block/created-at 1654249408319,
   :block/updated-at 1654249442521}
@@ -1346,6 +1463,9 @@
  {:block/name "drm",
   :block/created-at 1650725447728,
   :block/updated-at 1650725447728}
+ {:block/name "dropcode",
+  :block/created-at 1667308769621,
+  :block/updated-at 1667308786095}
  {:block/name "dsa",
   :block/created-at 1654951924068,
   :block/updated-at 1654951924068}
@@ -1361,6 +1481,9 @@
  {:block/name "dwarf",
   :block/created-at 1661498540892,
   :block/updated-at 1661498566936}
+ {:block/name "e foundation",
+  :block/created-at 1663990817247,
+  :block/updated-at 1663990886860}
  {:block/name "e2ee",
   :block/created-at 1663642068155,
   :block/updated-at 1663642068155}
@@ -1373,6 +1496,9 @@
  {:block/name "eavesdropping",
   :block/created-at 1652584084544,
   :block/updated-at 1652584084544}
+ {:block/name "ebpf",
+  :block/created-at 1667744700026,
+  :block/updated-at 1667744928824}
  {:block/name "ebtables",
   :block/created-at 1653920362746,
   :block/updated-at 1653920362746}
@@ -1399,10 +1525,13 @@
   :block/updated-at 1655633730575}
  {:block/name "ed25519",
   :block/created-at 1657799999826,
-  :block/updated-at 1657799999826}
+  :block/updated-at 1664783169816}
  {:block/name "eddsa",
   :block/created-at 1654414492996,
   :block/updated-at 1657800019184}
+ {:block/name "edr",
+  :block/created-at 1667960215156,
+  :block/updated-at 1667960311163}
  {:block/name "efuse",
   :block/created-at 1661950768593,
   :block/updated-at 1661950768593}
@@ -1415,6 +1544,9 @@
  {:block/name "elf",
   :block/created-at 1662472061124,
   :block/updated-at 1662472061124}
+ {:block/name "elliptic curves for security",
+  :block/created-at 1664528173637,
+  :block/updated-at 1664528980997}
  {:block/name "elliptic-curve cryptography",
   :block/created-at 1654951971090,
   :block/updated-at 1654952122391}
@@ -1426,22 +1558,31 @@
   :block/updated-at 1652584101098}
  {:block/name "embb",
   :block/created-at 1650725635618,
-  :block/updated-at 1650725635618}
+  :block/updated-at 1665823513971}
  {:block/name "embedded system",
   :block/created-at 1652706728069,
   :block/updated-at 1652706728069}
+ {:block/name "emc",
+  :block/created-at 1664356214762,
+  :block/updated-at 1664356214762}
  {:block/name "emm",
   :block/created-at 1662560148321,
   :block/updated-at 1662560369145}
  {:block/name "emmc",
   :block/created-at 1661950755694,
   :block/updated-at 1661950755694}
+ {:block/name "emulator",
+  :block/created-at 1665395223721,
+  :block/updated-at 1665395223721}
  {:block/name "encryption",
   :block/created-at 1652584785250,
   :block/updated-at 1652584785250}
  {:block/name "endorsement key",
   :block/created-at 1654335201092,
   :block/updated-at 1654335201092}
+ {:block/name "engadget",
+  :block/created-at 1666944960127,
+  :block/updated-at 1666944977279}
  {:block/name "engineering",
   :block/created-at 1658110225530,
   :block/updated-at 1658110225530}
@@ -1463,6 +1604,9 @@
  {:block/name "entropymixer",
   :block/created-at 1662471864283,
   :block/updated-at 1662471864283}
+ {:block/name "eprivacy",
+  :block/created-at 1664359330410,
+  :block/updated-at 1664359330410}
  {:block/name "ericsson cloud ran",
   :block/created-at 1646305271341,
   :block/updated-at 1646305298047}
@@ -1478,6 +1622,9 @@
  {:block/name "ethereum",
   :block/created-at 1645884215813,
   :block/updated-at 1645884215813}
+ {:block/name "ethernet",
+  :block/created-at 1664936534310,
+  :block/updated-at 1664936534310}
  {:block/name "etherpad",
   :block/created-at 1643260368328,
   :block/updated-at 1643260373840}
@@ -1489,10 +1636,13 @@
   :block/updated-at 1652859639573}
  {:block/name "etsi en 303 645",
   :block/created-at 1652590217899,
-  :block/updated-at 1652590457300}
+  :block/updated-at 1664359778696}
  {:block/name "etsi ts 103 645",
   :block/created-at 1652586820618,
   :block/updated-at 1652587193422}
+ {:block/name "european commission",
+  :block/created-at 1664356214763,
+  :block/updated-at 1664356214763}
  {:block/name "evaluation assurance level",
   :block/created-at 1652682028167,
   :block/updated-at 1652682028167}
@@ -1531,7 +1681,7 @@
   :block/updated-at 1652666900626}
  {:block/name "fairphone",
   :block/created-at 1656730026551,
-  :block/updated-at 1656730233640}
+  :block/updated-at 1663991245712}
  {:block/name "falcon",
   :block/created-at 1659193837294,
   :block/updated-at 1659193837294}
@@ -1547,6 +1697,9 @@
  {:block/name "fde",
   :block/created-at 1657776276563,
   :block/updated-at 1657776303913}
+ {:block/name "feather icon",
+  :block/created-at 1665969563255,
+  :block/updated-at 1665969624780}
  {:block/name "feb 13th, 2022",
   :block/created-at 1644728010116,
   :block/updated-at 1644757639476}
@@ -1586,6 +1739,9 @@
  {:block/name "fedora",
   :block/created-at 1656143735076,
   :block/updated-at 1656143735076}
+ {:block/name "ffrdc",
+  :block/created-at 1668163954362,
+  :block/updated-at 1668163954362}
  {:block/name "fhe",
   :block/created-at 1648519652838,
   :block/updated-at 1648519652838}
@@ -1712,6 +1868,9 @@
  {:block/name "gapstone",
   :block/created-at 1645257794165,
   :block/updated-at 1645257819258}
+ {:block/name "gartner 2022 technology trending",
+  :block/created-at 1665060066011,
+  :block/updated-at 1665060480152}
  {:block/name "gatekeeper",
   :block/created-at 1645867996341,
   :block/updated-at 1655688645521}
@@ -1735,7 +1894,7 @@
   :block/updated-at 1649230673879}
  {:block/name "ghidra",
   :block/created-at 1645884215813,
-  :block/updated-at 1645884215813}
+  :block/updated-at 1666756431576}
  {:block/name "gid",
   :block/created-at 1652597504475,
   :block/updated-at 1652597504475}
@@ -1748,6 +1907,9 @@
  {:block/name "gitdb",
   :block/created-at 1657263174243,
   :block/updated-at 1657263189052}
+ {:block/name "gitea",
+  :block/created-at 1664093155730,
+  :block/updated-at 1664093155730}
  {:block/name "github",
   :block/created-at 1658044440333,
   :block/updated-at 1658044440333}
@@ -1796,6 +1958,9 @@
  {:block/name "google tensor 2",
   :block/created-at 1654505985983,
   :block/updated-at 1654506023588}
+ {:block/name "got",
+  :block/created-at 1665729670312,
+  :block/updated-at 1665729670312}
  {:block/name "gprs",
   :block/created-at 1647437414317,
   :block/updated-at 1647437414317}
@@ -1826,6 +1991,9 @@
  {:block/name "gsma",
   :block/created-at 1647428239842,
   :block/updated-at 1647428239842}
+ {:block/name "guac",
+  :block/created-at 1666408464669,
+  :block/updated-at 1666408766963}
  {:block/name "gui",
   :block/created-at 1653986268752,
   :block/updated-at 1653986268752}
@@ -1850,6 +2018,12 @@
  {:block/name "hal",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
+ {:block/name "halfix",
+  :block/created-at 1665395207427,
+  :block/updated-at 1665395232591}
+ {:block/name "hannlp",
+  :block/created-at 1668163607174,
+  :block/updated-at 1668163767866}
  {:block/name "haptic technology",
   :block/created-at 1652705291078,
   :block/updated-at 1652705291078}
@@ -1929,6 +2103,9 @@
  {:block/name "horizon 2020",
   :block/created-at 1653317414435,
   :block/updated-at 1653317414435}
+ {:block/name "how to build a personal webpage from scratch",
+  :block/created-at 1664464169012,
+  :block/updated-at 1664464196251}
  {:block/name "hping",
   :block/created-at 1655816997003,
   :block/updated-at 1655817037849}
@@ -1944,6 +2121,9 @@
  {:block/name "https",
   :block/created-at 1654334870057,
   :block/updated-at 1654334870057}
+ {:block/name "huawei",
+  :block/created-at 1665111644761,
+  :block/updated-at 1665111644761}
  {:block/name "huemint",
   :block/created-at 1646448960961,
   :block/updated-at 1646448976526}
@@ -1980,6 +2160,9 @@
  {:block/name "ibe",
   :block/created-at 1660830370413,
   :block/updated-at 1660830370413}
+ {:block/name "ibm",
+  :block/created-at 1665729582586,
+  :block/updated-at 1665729582586}
  {:block/name "icloud",
   :block/created-at 1662259526703,
   :block/updated-at 1662259526703}
@@ -1992,6 +2175,9 @@
  {:block/name "id-attestation",
   :block/created-at 1645884215813,
   :block/updated-at 1645884215813}
+ {:block/name "ide",
+  :block/created-at 1664945753909,
+  :block/updated-at 1664945753909}
  {:block/name "idea cipher",
   :block/created-at 1654405705676,
   :block/updated-at 1654405857386}
@@ -2076,6 +2262,9 @@
  {:block/name "information technology architecture",
   :block/created-at 1652667376710,
   :block/updated-at 1652667836147}
+ {:block/name "initial access",
+  :block/created-at 1666419830298,
+  :block/updated-at 1666420125240}
  {:block/name "initramfs",
   :block/created-at 1655466198781,
   :block/updated-at 1655466732486}
@@ -2139,6 +2328,9 @@
  {:block/name "iot markets",
   :block/created-at 1646146599972,
   :block/updated-at 1646229291147}
+ {:block/name "iot safe",
+  :block/created-at 1664242860802,
+  :block/updated-at 1664242931771}
  {:block/name "ipa",
   :block/created-at 1644757642501,
   :block/updated-at 1644757659157}
@@ -2166,9 +2358,15 @@
  {:block/name "iptables",
   :block/created-at 1653920314626,
   :block/updated-at 1653920314626}
+ {:block/name "ipv6",
+  :block/created-at 1664936262818,
+  :block/updated-at 1664936262818}
  {:block/name "irtf",
   :block/created-at 1660830231479,
   :block/updated-at 1660830231479}
+ {:block/name "isa",
+  :block/created-at 1668735210771,
+  :block/updated-at 1668735237540}
  {:block/name "isaca",
   :block/created-at 1649250626772,
   :block/updated-at 1649250626772}
@@ -2274,6 +2472,9 @@
  {:block/name "java coding guidelines",
   :block/created-at 1656756923827,
   :block/updated-at 1656756930354}
+ {:block/name "java)",
+  :block/created-at 1668163613553,
+  :block/updated-at 1668163613553}
  {:block/name "javascript",
   :block/created-at 1648351790929,
   :block/updated-at 1648351790929}
@@ -2282,7 +2483,7 @@
   :block/updated-at 1658104568198}
  {:block/name "jd-gui",
   :block/created-at 1649247262834,
-  :block/updated-at 1649248770838}
+  :block/updated-at 1668163468555}
  {:block/name "jemalloc",
   :block/created-at 1648392606611,
   :block/updated-at 1648392606611}
@@ -2304,6 +2505,9 @@
  {:block/name "json",
   :block/created-at 1645884215814,
   :block/updated-at 1645884215814}
+ {:block/name "json crack",
+  :block/created-at 1665299332309,
+  :block/updated-at 1665299376545}
  {:block/name "jsxgraph",
   :block/created-at 1656751390773,
   :block/updated-at 1656751462724}
@@ -2457,6 +2661,12 @@
  {:block/name "kaslr",
   :block/created-at 1662102934751,
   :block/updated-at 1663390160479}
+ {:block/name "katana",
+  :block/created-at 1668153938776,
+  :block/updated-at 1668153982129}
+ {:block/name "kataos",
+  :block/created-at 1665920260824,
+  :block/updated-at 1665920324957}
  {:block/name "kdc",
   :block/created-at 1654609409097,
   :block/updated-at 1654609409097}
@@ -2529,6 +2739,9 @@
  {:block/name "kfence",
   :block/created-at 1662108336415,
   :block/updated-at 1662108336415}
+ {:block/name "kiwix",
+  :block/created-at 1668345548221,
+  :block/updated-at 1668345589599}
  {:block/name "kotlin",
   :block/created-at 1661500984400,
   :block/updated-at 1661500984400}
@@ -2571,6 +2784,9 @@
  {:block/name "libpng",
   :block/created-at 1662472271738,
   :block/updated-at 1662472271738}
+ {:block/name "librespeed",
+  :block/created-at 1666615837880,
+  :block/updated-at 1666615869047}
  {:block/name "libxml",
   :block/created-at 1662472271737,
   :block/updated-at 1662472271737}
@@ -2601,6 +2817,9 @@
  {:block/name "linux network security",
   :block/created-at 1653920262607,
   :block/updated-at 1653920401669}
+ {:block/name "liteide",
+  :block/created-at 1664945741089,
+  :block/updated-at 1664945823325}
  {:block/name "llvm",
   :block/created-at 1653987177534,
   :block/updated-at 1653987177534}
@@ -2609,7 +2828,7 @@
   :block/updated-at 1652850373232}
  {:block/name "location tracking",
   :block/created-at 1662630505687,
-  :block/updated-at 1662630505687}
+  :block/updated-at 1666420598232}
  {:block/name "log4j",
   :block/created-at 1645275571141,
   :block/updated-at 1645275587642}
@@ -2652,6 +2871,9 @@
  {:block/name "magic ui",
   :block/created-at 1663390301971,
   :block/updated-at 1663390301971}
+ {:block/name "maigret",
+  :block/created-at 1664779597124,
+  :block/updated-at 1664779609686}
  {:block/name "malloc",
   :block/created-at 1658061566922,
   :block/updated-at 1658061566922}
@@ -2664,6 +2886,9 @@
  {:block/name "mandatory access control",
   :block/created-at 1657783834302,
   :block/updated-at 1657783834302}
+ {:block/name "manyverse",
+  :block/created-at 1667745225741,
+  :block/updated-at 1667745239442}
  {:block/name "mar 11th, 2022",
   :block/created-at 1646982405584,
   :block/updated-at 1646982405584}
@@ -2721,6 +2946,9 @@
  {:block/name "mar 9th, 2022",
   :block/created-at 1646784000000,
   :block/updated-at 1646784000000}
+ {:block/name "mariadb",
+  :block/created-at 1667008052601,
+  :block/updated-at 1667008052601}
  {:block/name "markdown",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
@@ -2733,6 +2961,9 @@
  {:block/name "masscan",
   :block/created-at 1657008019052,
   :block/updated-at 1657008067353}
+ {:block/name "mastodon",
+  :block/created-at 1667305165824,
+  :block/updated-at 1667305165824}
  {:block/name "mathematical model",
   :block/created-at 1656757585107,
   :block/updated-at 1656757585107}
@@ -2741,10 +2972,16 @@
   :block/updated-at 1656757739796}
  {:block/name "matter",
   :block/created-at 1655527507932,
-  :block/updated-at 1657505166386}
+  :block/updated-at 1664937692413}
+ {:block/name "matter security whitepaper",
+  :block/created-at 1664936157229,
+  :block/updated-at 1664938874404}
  {:block/name "maven",
   :block/created-at 1658044440336,
   :block/updated-at 1658044440336}
+ {:block/name "maximum bounty paid for found vulnerability",
+  :block/created-at 1665111366478,
+  :block/updated-at 1665111670013}
  {:block/name "may 15th, 2022",
   :block/created-at 1652581069877,
   :block/updated-at 1652625064400}
@@ -2837,7 +3074,7 @@
   :block/updated-at 1649250527560}
  {:block/name "mfi",
   :block/created-at 1663638006138,
-  :block/updated-at 1663638006138}
+  :block/updated-at 1664783044541}
  {:block/name "micro-segmentation",
   :block/created-at 1648475557842,
   :block/updated-at 1648475557842}
@@ -2870,10 +3107,13 @@
   :block/updated-at 1662471857095}
  {:block/name "mitre",
   :block/created-at 1650725471583,
-  :block/updated-at 1656426496132}
+  :block/updated-at 1668163954363}
+ {:block/name "mitre attack mobile techniques",
+  :block/created-at 1666419739771,
+  :block/updated-at 1666419798926}
  {:block/name "mitre mobile matrix",
   :block/created-at 1662623517601,
-  :block/updated-at 1662631455057}
+  :block/updated-at 1666420187135}
  {:block/name "mmap_min_addr",
   :block/created-at 1662472328175,
   :block/updated-at 1662472328175}
@@ -2882,7 +3122,7 @@
   :block/updated-at 1653190497198}
  {:block/name "mmtc",
   :block/created-at 1650725645179,
-  :block/updated-at 1650725645179}
+  :block/updated-at 1665823374876}
  {:block/name "mmwave",
   :block/created-at 1661692566864,
   :block/updated-at 1661692566864}
@@ -2910,6 +3150,9 @@
  {:block/name "mobility",
   :block/created-at 1662707903826,
   :block/updated-at 1662707903826}
+ {:block/name "mobirise",
+  :block/created-at 1668609180228,
+  :block/updated-at 1668609219714}
  {:block/name "modem vulnerability",
   :block/created-at 1645277267713,
   :block/updated-at 1645277311996}
@@ -2961,6 +3204,9 @@
  {:block/name "mwc",
   :block/created-at 1647667241271,
   :block/updated-at 1647667241271}
+ {:block/name "mysql",
+  :block/created-at 1667008052602,
+  :block/updated-at 1667008052602}
  {:block/name "nas",
   :block/created-at 1647437491988,
   :block/updated-at 1647437491988}
@@ -3015,6 +3261,9 @@
  {:block/name "nfv",
   :block/created-at 1657008240918,
   :block/updated-at 1657008240918}
+ {:block/name "nginx",
+  :block/created-at 1667008045350,
+  :block/updated-at 1667008045350}
  {:block/name "niap",
   :block/created-at 1662554412487,
   :block/updated-at 1662554545515}
@@ -3033,6 +3282,9 @@
  {:block/name "nist",
   :block/created-at 1652590723396,
   :block/updated-at 1652590723396}
+ {:block/name "nist 800-121",
+  :block/created-at 1666445634006,
+  :block/updated-at 1667960532733}
  {:block/name "nist 800-124",
   :block/created-at 1662697495223,
   :block/updated-at 1662698766385}
@@ -3054,6 +3306,9 @@
  {:block/name "nist sp 500-292",
   :block/created-at 1654175938152,
   :block/updated-at 1654175946348}
+ {:block/name "nist sp 800-207",
+  :block/created-at 1668498272346,
+  :block/updated-at 1668498295901}
  {:block/name "nist sp 800-30",
   :block/created-at 1654175992803,
   :block/updated-at 1654176001506}
@@ -3063,12 +3318,21 @@
  {:block/name "nist standards",
   :block/created-at 1648973094237,
   :block/updated-at 1648973115749}
+ {:block/name "nistir 8259",
+  :block/created-at 1664242008153,
+  :block/updated-at 1664242743208}
+ {:block/name "nistir 8259a",
+  :block/created-at 1664242161399,
+  :block/updated-at 1664242161399}
+ {:block/name "nistir 8259b",
+  :block/created-at 1664242164318,
+  :block/updated-at 1664242164318}
  {:block/name "nistir 8286",
   :block/created-at 1656425664179,
   :block/updated-at 1656425881230}
  {:block/name "nlp",
   :block/created-at 1645884215815,
-  :block/updated-at 1645884215815}
+  :block/updated-at 1668163588888}
  {:block/name "nmap",
   :block/created-at 1657008041231,
   :block/updated-at 1657008041231}
@@ -3093,6 +3357,42 @@
  {:block/name "nosuid",
   :block/created-at 1662471820307,
   :block/updated-at 1662471820307}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668153917752,
+  :block/updated-at 1668153938777}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668307755080,
+  :block/updated-at 1668308244932}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668429541268,
+  :block/updated-at 1668429572087}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668497630175,
+  :block/updated-at 1668497691293}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668609137665,
+  :block/updated-at 1668609137665}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668735125118,
+  :block/updated-at 1668735210772}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667296568745,
+  :block/updated-at 1667296578934}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667551193612,
+  :block/updated-at 1667551211491}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667658100076,
+  :block/updated-at 1667658123292}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667700351813,
+  :block/updated-at 1667700499983}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667915616907,
+  :block/updated-at 1667915759802}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1667956533938,
+  :block/updated-at 1667959800001}
  {:block/name "now",
   :block/created-at 1645884215816,
   :block/updated-at 1645884215816}
@@ -3105,12 +3405,18 @@
  {:block/name "ntfs",
   :block/created-at 1653875428921,
   :block/updated-at 1653875428921}
+ {:block/name "ntfy",
+  :block/created-at 1667915759802,
+  :block/updated-at 1667915782450}
  {:block/name "ntru",
   :block/created-at 1659194037870,
   :block/updated-at 1659194037870}
  {:block/name "nuget",
   :block/created-at 1658044440337,
   :block/updated-at 1658044440337}
+ {:block/name "nvidia",
+  :block/created-at 1666182167956,
+  :block/updated-at 1666182167956}
  {:block/name "nx",
   :block/created-at 1662472332946,
   :block/updated-at 1662472332946}
@@ -3132,6 +3438,78 @@
  {:block/name "obsidian",
   :block/created-at 1656465330581,
   :block/updated-at 1656465398116}
+ {:block/name "oct 10th, 2022",
+  :block/created-at 1665371057652,
+  :block/updated-at 1665371246338}
+ {:block/name "oct 12th, 2022",
+  :block/created-at 1665544224662,
+  :block/updated-at 1665544401854}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665729285111,
+  :block/updated-at 1665729577939}
+ {:block/name "oct 15th, 2022",
+  :block/created-at 1665815930315,
+  :block/updated-at 1665815964145}
+ {:block/name "oct 16th, 2022",
+  :block/created-at 1665920249436,
+  :block/updated-at 1665920260825}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1665969544845,
+  :block/updated-at 1665969563257}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666058460897,
+  :block/updated-at 1666059767216}
+ {:block/name "oct 19th, 2022",
+  :block/created-at 1666182108101,
+  :block/updated-at 1666182125603}
+ {:block/name "oct 1st, 2022",
+  :block/created-at 1664588084046,
+  :block/updated-at 1664589364231}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666227885217,
+  :block/updated-at 1666227885217}
+ {:block/name "oct 22nd, 2022",
+  :block/created-at 1666408450305,
+  :block/updated-at 1666408464670}
+ {:block/name "oct 24th, 2022",
+  :block/created-at 1666582810457,
+  :block/updated-at 1666615545820}
+ {:block/name "oct 25th, 2022",
+  :block/created-at 1666678130537,
+  :block/updated-at 1666678399587}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666755593490,
+  :block/updated-at 1666756437728}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1666851540458,
+  :block/updated-at 1666875338910}
+ {:block/name "oct 28th, 2022",
+  :block/created-at 1666943941211,
+  :block/updated-at 1666944960128}
+ {:block/name "oct 29th, 2022",
+  :block/created-at 1667007962026,
+  :block/updated-at 1667007971659}
+ {:block/name "oct 2nd, 2022",
+  :block/created-at 1664684382696,
+  :block/updated-at 1664684417169}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667130325852,
+  :block/updated-at 1667130336254}
+ {:block/name "oct 3rd, 2022",
+  :block/created-at 1664779540891,
+  :block/updated-at 1664779597125}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1664936077873,
+  :block/updated-at 1664936157229}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665059965153,
+  :block/updated-at 1665060066012}
+ {:block/name "oct 7th, 2022",
+  :block/created-at 1665109288731,
+  :block/updated-at 1665109297458}
+ {:block/name "oct 9th, 2022",
+  :block/created-at 1665299230823,
+  :block/updated-at 1665299332311}
  {:block/name "odm",
   :block/created-at 1662166578891,
   :block/updated-at 1662166578891}
@@ -3165,6 +3543,9 @@
  {:block/name "one-time pad",
   :block/created-at 1656160857392,
   :block/updated-at 1656160857392}
+ {:block/name "oneplus",
+  :block/created-at 1665111654693,
+  :block/updated-at 1665111654693}
  {:block/name "op-tee",
   :block/created-at 1656769290756,
   :block/updated-at 1656769500069}
@@ -3222,9 +3603,15 @@
  {:block/name "openssf",
   :block/created-at 1655278381134,
   :block/updated-at 1655280215774}
+ {:block/name "openssh",
+  :block/created-at 1666060327839,
+  :block/updated-at 1666060327839}
  {:block/name "openssl",
   :block/created-at 1661500064553,
   :block/updated-at 1661500064553}
+ {:block/name "openstreetmap",
+  :block/created-at 1666616635315,
+  :block/updated-at 1666616637398}
  {:block/name "opentelemetry",
   :block/created-at 1657007707265,
   :block/updated-at 1657007750712}
@@ -3234,6 +3621,9 @@
  {:block/name "opnsense",
   :block/created-at 1655428495892,
   :block/updated-at 1655428551789}
+ {:block/name "oppo",
+  :block/created-at 1665111656516,
+  :block/updated-at 1665111656516}
  {:block/name "orbitdb",
   :block/created-at 1658069460559,
   :block/updated-at 1658069460559}
@@ -3285,6 +3675,9 @@
  {:block/name "pake",
   :block/created-at 1658229666123,
   :block/updated-at 1662470227434}
+ {:block/name "palo alto",
+  :block/created-at 1666420437624,
+  :block/updated-at 1666420437624}
  {:block/name "pan",
   :block/created-at 1662102931968,
   :block/updated-at 1662102931968}
@@ -3300,6 +3693,9 @@
  {:block/name "passive attack",
   :block/created-at 1655635315451,
   :block/updated-at 1655635315451}
+ {:block/name "passkeys",
+  :block/created-at 1663992642847,
+  :block/updated-at 1663992652024}
  {:block/name "passpoint",
   :block/created-at 1662000877893,
   :block/updated-at 1662000897086}
@@ -3327,6 +3723,12 @@
  {:block/name "pcr",
   :block/created-at 1656141676856,
   :block/updated-at 1656141676856}
+ {:block/name "pdf",
+  :block/created-at 1665371108432,
+  :block/updated-at 1665371108432}
+ {:block/name "pdfcpu",
+  :block/created-at 1665371246337,
+  :block/updated-at 1665371268667}
  {:block/name "pdp",
   :block/created-at 1657032389707,
   :block/updated-at 1657032434852}
@@ -3389,13 +3791,19 @@
   :block/updated-at 1654506023585}
  {:block/name "photoprism",
   :block/created-at 1657032072184,
-  :block/updated-at 1657032104721}
+  :block/updated-at 1666851579156}
+ {:block/name "php",
+  :block/created-at 1667008049600,
+  :block/updated-at 1667008049600}
  {:block/name "physical security",
   :block/created-at 1652618893645,
   :block/updated-at 1652618893645}
  {:block/name "pia",
   :block/created-at 1663857581035,
   :block/updated-at 1663857696311}
+ {:block/name "pico js",
+  :block/created-at 1665544401852,
+  :block/updated-at 1665544545328}
  {:block/name "pie",
   :block/created-at 1662104508000,
   :block/updated-at 1662104508000}
@@ -3411,6 +3819,9 @@
  {:block/name "pip3",
   :block/created-at 1645275489530,
   :block/updated-at 1645275518966}
+ {:block/name "pithus",
+  :block/created-at 1664002941173,
+  :block/updated-at 1664002987420}
  {:block/name "pixabay",
   :block/created-at 1650708763474,
   :block/updated-at 1650708769158}
@@ -3437,7 +3848,7 @@
   :block/updated-at 1662472150766}
  {:block/name "pluton",
   :block/created-at 1659774570615,
-  :block/updated-at 1659774570615}
+  :block/updated-at 1665822847580}
  {:block/name "poa",
   :block/created-at 1654944294531,
   :block/updated-at 1654944294531}
@@ -3459,6 +3870,9 @@
  {:block/name "polymorphic engine",
   :block/created-at 1652584244997,
   :block/updated-at 1652584469996}
+ {:block/name "poppler",
+  :block/created-at 1665371084638,
+  :block/updated-at 1665371108432}
  {:block/name "pos",
   :block/created-at 1654944366050,
   :block/updated-at 1654944366050}
@@ -3485,7 +3899,10 @@
   :block/updated-at 1662554716469}
  {:block/name "ppt",
   :block/created-at 1645884215815,
-  :block/updated-at 1645884215815}
+  :block/updated-at 1664809556587}
+ {:block/name "pqc",
+  :block/created-at 1664464165163,
+  :block/updated-at 1664464165163}
  {:block/name "practical cryptography for developers",
   :block/created-at 1654414416750,
   :block/updated-at 1654414493007}
@@ -3495,6 +3912,9 @@
  {:block/name "pre-computation attack",
   :block/created-at 1662252368816,
   :block/updated-at 1662252368816}
+ {:block/name "prettier",
+  :block/created-at 1667658123290,
+  :block/updated-at 1667658163250}
  {:block/name "prf",
   :block/created-at 1662258319854,
   :block/updated-at 1662258385000}
@@ -3507,6 +3927,9 @@
  {:block/name "prioritize stakeholders",
   :block/created-at 1649338716752,
   :block/updated-at 1649338773531}
+ {:block/name "privacy",
+  :block/created-at 1664686663895,
+  :block/updated-at 1664686663895}
  {:block/name "privacy by design",
   :block/created-at 1656749545443,
   :block/updated-at 1656750561281}
@@ -3582,6 +4005,9 @@
  {:block/name "psk",
   :block/created-at 1661955721000,
   :block/updated-at 1661955721000}
+ {:block/name "psti",
+  :block/created-at 1664359703377,
+  :block/updated-at 1664359703377}
  {:block/name "ptes",
   :block/created-at 1652688811477,
   :block/updated-at 1656770713240}
@@ -3609,6 +4035,15 @@
  {:block/name "python",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
+ {:block/name "python regex",
+  :block/created-at 1664375711508,
+  :block/updated-at 1664375823685}
+ {:block/name "python windows 11",
+  :block/created-at 1664600056197,
+  :block/updated-at 1664600322092}
+ {:block/name "python)",
+  :block/created-at 1668163611113,
+  :block/updated-at 1668163611113}
  {:block/name "qbasic",
   :block/created-at 1659676491968,
   :block/updated-at 1659676526450}
@@ -3630,6 +4065,12 @@
  {:block/name "r157",
   :block/created-at 1657007518770,
   :block/updated-at 1657007518770}
+ {:block/name "race condition",
+  :block/created-at 1666060307180,
+  :block/updated-at 1666060307180}
+ {:block/name "radio equipment directive",
+  :block/created-at 1664356108434,
+  :block/updated-at 1664358778251}
  {:block/name "raid",
   :block/created-at 1656142265992,
   :block/updated-at 1656142265992}
@@ -3666,6 +4107,9 @@
  {:block/name "rcs",
   :block/created-at 1661315233105,
   :block/updated-at 1661315396658}
+ {:block/name "readelf",
+  :block/created-at 1665729618581,
+  :block/updated-at 1665729618581}
  {:block/name "ready se",
   :block/created-at 1662472826031,
   :block/updated-at 1662472826031}
@@ -3696,18 +4140,24 @@
  {:block/name "remote attestation",
   :block/created-at 1654335241422,
   :block/updated-at 1659774588691}
+ {:block/name "remote device management services",
+  :block/created-at 1666420598231,
+  :block/updated-at 1666420880158}
  {:block/name "remote key provisioning",
   :block/created-at 1662472860629,
   :block/updated-at 1662472860629}
  {:block/name "replaykit",
   :block/created-at 1663641770829,
   :block/updated-at 1663641770829}
+ {:block/name "reproducible builds",
+  :block/created-at 1667308947105,
+  :block/updated-at 1667308972748}
  {:block/name "requestlegacyexternalstorage",
   :block/created-at 1661950108091,
   :block/updated-at 1661950108091}
  {:block/name "retbleed",
   :block/created-at 1657721304962,
-  :block/updated-at 1657721397482}
+  :block/updated-at 1664588103937}
  {:block/name "reverse engineering",
   :block/created-at 1655632436982,
   :block/updated-at 1655632536113}
@@ -3720,6 +4170,9 @@
  {:block/name "rfc 5869",
   :block/created-at 1656927046738,
   :block/updated-at 1656927046738}
+ {:block/name "rfc 8125",
+  :block/created-at 1666583426078,
+  :block/updated-at 1666583442658}
  {:block/name "ril",
   :block/created-at 1661694558574,
   :block/updated-at 1661694558574}
@@ -3729,9 +4182,15 @@
  {:block/name "rmf",
   :block/created-at 1654165342628,
   :block/updated-at 1654165431097}
+ {:block/name "rng",
+  :block/created-at 1664938037527,
+  :block/updated-at 1664938037527}
  {:block/name "rnn",
   :block/created-at 1658056446631,
   :block/updated-at 1658056446631}
+ {:block/name "road to artificial general intelligence",
+  :block/created-at 1667296578933,
+  :block/updated-at 1667296635007}
  {:block/name "roca",
   :block/created-at 1661912962650,
   :block/updated-at 1661912962650}
@@ -3816,6 +4275,12 @@
  {:block/name "safezone",
   :block/created-at 1661912975882,
   :block/updated-at 1661912975882}
+ {:block/name "safing portmaster",
+  :block/created-at 1667700499982,
+  :block/updated-at 1667700567007}
+ {:block/name "salsa20",
+  :block/created-at 1664809292595,
+  :block/updated-at 1664809292595}
  {:block/name "salus",
   :block/created-at 1658044358443,
   :block/updated-at 1658045134057}
@@ -3834,6 +4299,9 @@
  {:block/name "sandbox",
   :block/created-at 1652597369378,
   :block/updated-at 1652597369378}
+ {:block/name "sandboxing",
+  :block/created-at 1667744883477,
+  :block/updated-at 1667744883477}
  {:block/name "sar",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
@@ -3939,6 +4407,9 @@
  {:block/name "securerandom",
   :block/created-at 1662472257304,
   :block/updated-at 1662472257304}
+ {:block/name "securing the internet of things",
+  :block/created-at 1664242793170,
+  :block/updated-at 1664242800281}
  {:block/name "security audit",
   :block/created-at 1652601465164,
   :block/updated-at 1652601465164}
@@ -3984,12 +4455,18 @@
  {:block/name "sel4",
   :block/created-at 1652681500748,
   :block/updated-at 1656162303101}
+ {:block/name "self hosting guide",
+  :block/created-at 1666615545818,
+  :block/updated-at 1666615837881}
  {:block/name "selinux",
   :block/created-at 1645882325034,
   :block/updated-at 1645882873352}
  {:block/name "semi-supervised learning",
   :block/created-at 1654910534384,
   :block/updated-at 1654910595870}
+ {:block/name "sentence similarity",
+  :block/created-at 1664589364230,
+  :block/updated-at 1664590092029}
  {:block/name "sep 11th, 2022",
   :block/created-at 1662878986155,
   :block/updated-at 1662900993694}
@@ -4032,9 +4509,30 @@
  {:block/name "sep 23rd, 2022",
   :block/created-at 1663907282074,
   :block/updated-at 1663915178013}
+ {:block/name "sep 24th, 2022",
+  :block/created-at 1663990804631,
+  :block/updated-at 1663990817248}
+ {:block/name "sep 25th, 2022",
+  :block/created-at 1664093095301,
+  :block/updated-at 1664093114170}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664178196808,
+  :block/updated-at 1664178391826}
+ {:block/name "sep 27th, 2022",
+  :block/created-at 1664241987012,
+  :block/updated-at 1664242793170}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1664356074793,
+  :block/updated-at 1664356108435}
+ {:block/name "sep 29th, 2022",
+  :block/created-at 1664463978706,
+  :block/updated-at 1664464169013}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662081614748,
   :block/updated-at 1662082909306}
+ {:block/name "sep 30th, 2022",
+  :block/created-at 1664526505934,
+  :block/updated-at 1664528173637}
  {:block/name "sep 3rd, 2022",
   :block/created-at 1662165924284,
   :block/updated-at 1662169741837}
@@ -4074,6 +4572,9 @@
  {:block/name "sha-1",
   :block/created-at 1663638118618,
   :block/updated-at 1663638118618}
+ {:block/name "sha-256",
+  :block/created-at 1664937939690,
+  :block/updated-at 1664937939690}
  {:block/name "sha-3",
   :block/created-at 1654414493006,
   :block/updated-at 1654414493006}
@@ -4152,6 +4653,9 @@
  {:block/name "smartsniff",
   :block/created-at 1647428239842,
   :block/updated-at 1647428239842}
+ {:block/name "smartthings",
+  :block/created-at 1664936141831,
+  :block/updated-at 1664936141831}
  {:block/name "smpc",
   :block/created-at 1648519557394,
   :block/updated-at 1648519825515}
@@ -4167,6 +4671,9 @@
  {:block/name "snowflake",
   :block/created-at 1657780785013,
   :block/updated-at 1657780785013}
+ {:block/name "snownlp",
+  :block/created-at 1668163611114,
+  :block/updated-at 1668163611114}
  {:block/name "soa",
   :block/created-at 1652707192189,
   :block/updated-at 1652707192189}
@@ -4197,6 +4704,15 @@
  {:block/name "solid",
   :block/created-at 1647428239842,
   :block/updated-at 1647428239842}
+ {:block/name "sonic",
+  :block/created-at 1666617909092,
+  :block/updated-at 1666617938575}
+ {:block/name "sony",
+  :block/created-at 1663924183534,
+  :block/updated-at 1663924183534}
+ {:block/name "sony developer world for xperia",
+  :block/created-at 1663924122939,
+  :block/updated-at 1663924248407}
  {:block/name "sp 800-115",
   :block/created-at 1656922635060,
   :block/updated-at 1656922635060}
@@ -4245,6 +4761,9 @@
  {:block/name "spu",
   :block/created-at 1656238918918,
   :block/updated-at 1662271283260}
+ {:block/name "spydealer",
+  :block/created-at 1666420375475,
+  :block/updated-at 1666420489558}
  {:block/name "spyware",
   :block/created-at 1652584336472,
   :block/updated-at 1655631539478}
@@ -4299,6 +4818,9 @@
  {:block/name "steganography",
   :block/created-at 1655635465459,
   :block/updated-at 1655635465459}
+ {:block/name "stellarium",
+  :block/created-at 1664684417168,
+  :block/updated-at 1664684437307}
  {:block/name "storagemanager",
   :block/created-at 1663857258506,
   :block/updated-at 1663857258506}
@@ -4347,6 +4869,9 @@
  {:block/name "symmetric-key algorithm",
   :block/created-at 1654405301657,
   :block/updated-at 1654405301657}
+ {:block/name "syncthing",
+  :block/created-at 1666615669358,
+  :block/updated-at 1666616567892}
  {:block/name "synthetic data",
   :block/created-at 1648519798473,
   :block/updated-at 1648535867306}
@@ -4383,6 +4908,9 @@
  {:block/name "syzkaller",
   :block/created-at 1656926069566,
   :block/updated-at 1656926666159}
+ {:block/name "ta0032",
+  :block/created-at 1666420187135,
+  :block/updated-at 1666420232429}
  {:block/name "tantivy",
   :block/created-at 1651667570292,
   :block/updated-at 1651667570292}
@@ -4404,9 +4932,15 @@
  {:block/name "tck",
   :block/created-at 1661489978148,
   :block/updated-at 1661489978148}
+ {:block/name "tcp",
+  :block/created-at 1664936262819,
+  :block/updated-at 1664936262819}
  {:block/name "tcpdump",
   :block/created-at 1663914678005,
   :block/updated-at 1663914678005}
+ {:block/name "tde",
+  :block/created-at 1668163716861,
+  :block/updated-at 1668163744778}
  {:block/name "technological and social aspects related to iot",
   :block/created-at 1646229082303,
   :block/updated-at 1646229519163}
@@ -4443,6 +4977,12 @@
  {:block/name "the open group",
   :block/created-at 1652667836142,
   :block/updated-at 1652667836142}
+ {:block/name "the rise of fully homomorphic encryption",
+  :block/created-at 1664464114371,
+  :block/updated-at 1664464165167}
+ {:block/name "themarkup blacklight",
+  :block/created-at 1664686633623,
+  :block/updated-at 1664686663897}
  {:block/name "theory of constraints",
   :block/created-at 1656751035508,
   :block/updated-at 1656751035508}
@@ -4461,9 +5001,15 @@
  {:block/name "threat modeling",
   :block/created-at 1657504664590,
   :block/updated-at 1657504679408}
+ {:block/name "thulac",
+  :block/created-at 1668163604457,
+  :block/updated-at 1668163795967}
  {:block/name "tls",
   :block/created-at 1648351782090,
   :block/updated-at 1662470159533}
+ {:block/name "toctou",
+  :block/created-at 1666059767214,
+  :block/updated-at 1666060333223}
  {:block/name "todo",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
@@ -4530,6 +5076,9 @@
  {:block/name "ts 103 732",
   :block/created-at 1652859571713,
   :block/updated-at 1652859639573}
+ {:block/name "ts 33 894",
+  :block/created-at 1668497691292,
+  :block/updated-at 1668497792164}
  {:block/name "ttp",
   :block/created-at 1658221418901,
   :block/updated-at 1658221632510}
@@ -4581,9 +5130,15 @@
  {:block/name "ugc",
   :block/created-at 1645884215815,
   :block/updated-at 1645884215815}
+ {:block/name "ui",
+  :block/created-at 1664464182632,
+  :block/updated-at 1664464182632}
  {:block/name "uid",
   :block/created-at 1652597495461,
   :block/updated-at 1652597495461}
+ {:block/name "ukama",
+  :block/created-at 1665109297457,
+  :block/updated-at 1665109380342}
  {:block/name "ul",
   :block/created-at 1652591333466,
   :block/updated-at 1652591350263}
@@ -4599,6 +5154,9 @@
  {:block/name "uname",
   :block/created-at 1656381718466,
   :block/updated-at 1656381718466}
+ {:block/name "unix",
+  :block/created-at 1666060333222,
+  :block/updated-at 1666060333222}
  {:block/name "unsupervised learning",
   :block/created-at 1654910323423,
   :block/updated-at 1654910534385}
@@ -4607,7 +5165,7 @@
   :block/updated-at 1654090991616}
  {:block/name "urllc",
   :block/created-at 1650725643533,
-  :block/updated-at 1650725643533}
+  :block/updated-at 1665823463349}
  {:block/name "usb",
   :block/created-at 1656426394741,
   :block/updated-at 1656426394741}
@@ -4719,6 +5277,9 @@
  {:block/name "warcdb",
   :block/created-at 1655688757605,
   :block/updated-at 1655688784667}
+ {:block/name "wasm",
+  :block/created-at 1666678515119,
+  :block/updated-at 1666678515119}
  {:block/name "wd-40",
   :block/created-at 1658110188696,
   :block/updated-at 1658110225531}
@@ -4752,6 +5313,9 @@
  {:block/name "web5",
   :block/created-at 1659774616638,
   :block/updated-at 1659774625266}
+ {:block/name "webassembly",
+  :block/created-at 1666678399586,
+  :block/updated-at 1666678515120}
  {:block/name "webauthn",
   :block/created-at 1655964443939,
   :block/updated-at 1655964513430}
@@ -4785,6 +5349,9 @@
  {:block/name "wifimanager",
   :block/created-at 1662043371510,
   :block/updated-at 1662043371510}
+ {:block/name "wigle",
+  :block/created-at 1665815964144,
+  :block/updated-at 1665815989429}
  {:block/name "wiki",
   :block/created-at 1656751767505,
   :block/updated-at 1656751767505}
@@ -4794,6 +5361,9 @@
  {:block/name "wikipedia mirrors",
   :block/created-at 1653633933955,
   :block/updated-at 1653633940693}
+ {:block/name "wikisource dumps",
+  :block/created-at 1664959701374,
+  :block/updated-at 1664959762699}
  {:block/name "windows",
   :block/created-at 1659676526446,
   :block/updated-at 1659676526446}
@@ -4827,6 +5397,12 @@
  {:block/name "wpa3",
   :block/created-at 1648452212617,
   :block/updated-at 1662003594006}
+ {:block/name "writee",
+  :block/created-at 1667305143197,
+  :block/updated-at 1667305174053}
+ {:block/name "writefreely",
+  :block/created-at 1667305165825,
+  :block/updated-at 1667305187136}
  {:block/name "wsl",
   :block/created-at 1644827864254,
   :block/updated-at 1644827903614}
@@ -4839,6 +5415,9 @@
  {:block/name "x.509",
   :block/created-at 1654334653194,
   :block/updated-at 1654334653194}
+ {:block/name "x86",
+  :block/created-at 1665395223722,
+  :block/updated-at 1665395223722}
  {:block/name "xacml",
   :block/created-at 1657035340602,
   :block/updated-at 1657035340602}
@@ -4848,6 +5427,9 @@
  {:block/name "xhttp",
   :block/created-at 1650082261944,
   :block/updated-at 1656240511108}
+ {:block/name "xiaomi",
+  :block/created-at 1665111651843,
+  :block/updated-at 1665111651843}
  {:block/name "xlite",
   :block/created-at 1657009211881,
   :block/updated-at 1657009231668}
