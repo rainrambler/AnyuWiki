@@ -1,0 +1,3 @@
+- The pico.js #JavaScript library enables the detection of faces in images.
+- https://nenadmarkus.com/p/picojs-intro/
+-
