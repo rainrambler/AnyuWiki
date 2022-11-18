@@ -1,0 +1,5 @@
+- https://wiby.me/about/guide.html
+- Reverse proxy: [[nginx]]
+- Core Server: #Go or #PHP
+- Primary DB: [[MySQL]] or [[MariaDB]]
+-
