@@ -1,0 +1,3 @@
+- 类似 [[Github]] 的网站，存储各类开源代码、项目和文档。
+- 由 [[Gitea]] 构成。
+- https://codeberg.org/
