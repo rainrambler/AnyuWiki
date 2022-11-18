@@ -1,0 +1,3 @@
+- https://briarproject.org/how-it-works/
+- 短距的消息 APP
+- 支持 [[Wi-Fi]]、 [[Bluetooth]]
