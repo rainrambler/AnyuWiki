@@ -1,0 +1,3 @@
+- 网站：
+- https://wikimedia.bringyour.com/zhwikisource/
+- 下载 [zhwikisource-20220920-pages-articles.xml.bz2](https://wikimedia.bringyour.com/zhwikisource/20220920/zhwikisource-20220920-pages-articles.xml.bz2) 文件（约2GB）。
