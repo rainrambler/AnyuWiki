@@ -1,2 +1,3 @@
 - Car Connectivity Consortium
--
+- The Car Connectivity Consortium® (CCC) is a cross-industry organization advancing technologies for [[smartphone]]-to-car [[connectivity]] solutions.
+- https://global-carconnectivity.org/about/
