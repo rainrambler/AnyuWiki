@@ -1,0 +1,3 @@
+- https://chartscss.org/docs/
+- **Charts.css** is a new open source framework for data visualization. It replaces traditional JS charting libraries with a **CSS framework**.
+- Modern **CSS frameworks** (like [[bootstrap]]) style [[HTML]] elements using predefined CSS utility classes. While those CSS frameworks focus on layouts, **Charts.css** focuses only on data visualization.
