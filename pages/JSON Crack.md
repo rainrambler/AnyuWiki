@@ -1,0 +1,4 @@
+- Seamlessly visualize your #JSON data instantly into graphs.
+- #JavaScript
+- #opensource
+- https://jsoncrack.com/
