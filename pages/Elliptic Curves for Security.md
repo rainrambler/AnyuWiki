@@ -1,0 +1,4 @@
+- [[RFC]] 7748
+- 描述了两条素数域(Prime fields)椭圆曲线（[[ECC]]），提供 [[TLS]] 安全和安全加密。
+-
+- https://www.rfc-editor.org/rfc/rfc7748
