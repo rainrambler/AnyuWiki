@@ -1,0 +1,3 @@
+- https://www.manyver.se/
+- A social network without the bad stuff, built on the peer-to-peer [SSB protocol](https://ssbc.github.io/scuttlebutt-protocol-guide/). It's free and open source, and available for desktop and mobile.
+-
