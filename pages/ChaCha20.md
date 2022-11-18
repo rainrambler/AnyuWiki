@@ -1,0 +1,4 @@
+- [[Salsa20]] 和其类似的ChaCha是流加密算法，由 Daniel J. Bernstein发明.
+- Salsa20于2005年设计.
+- ChaCha是对Salsa20的修订，于2008年发布.
+-
