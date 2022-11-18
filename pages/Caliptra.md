@@ -1,0 +1,3 @@
+- #AMD 、#Google 、微软和 #NVIDIA  等科技巨头联手宣布了将 Caliptra 作为其开放规范，以更好地支持未来的 CPU / [[SoC]]、GPU、NIC、SSD 和其它芯片的信任根（[[ROT]]）硬件组件。此外作为诸多供应商的最新努力，开放规范提供了一个可重复使用、能够集成到 SoC 和其它 ASIC 中的硅片级 IP 块。
+- Caliptra Silicon RoT 使用基于独特的“每资产加密熵”的签名证明来报告这些测量结果，因而能够作为 SoC 身份的信任根。
+- OpenCompute.org
