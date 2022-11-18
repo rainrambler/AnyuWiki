@@ -1,0 +1,16 @@
+- The [[European Commission]]’s (EC) Radio Equipment Directive [2014/53/EU](2014_53_EU) (RED) establishes a regulatory framework for radio equipment, setting essential requirements for safety and health, electromagnetic compatibility ([[EMC]]) and radio spectrum efficiency. The directive includes Article 3.3 as a placeholder to address device requirements related to radio-specific issues ranging from common interfaces to #Cybersecurity .
+- On Jan. 12, 2022, the Official Journal of the European Union published delegated regulation [2022/30/EU](2022_30_EU), enforcing compliance requirements to RED Article 3.3(d), (e) and (f). The regulation increases cybersecurity, personal data privacy and fraud protection for applicable wireless 
+  devices available on the EU market. It takes effect Feb. 1, 2022, and becomes mandatory Aug. 1, 2024, giving device manufacturers a 30-month transition period.
+	- Article 3.3(d) improves network protection. Device manufacturers will have to include features that avoid harming communication networks and prevent the device from disrupting website or services’ functionality.
+	- Article 3.3(e) strengthens personal data and privacy protection. For example, device manufacturers will have to implement measures to prevent unauthorized access or transmission of consumers’ personal data.
+	- Article 3.3(f) reduces the risk of fraud. Device manufacturers will have to include features such as better user authentication control to minimize fraudulent electronic payments and monetary transfers
+- Scope of the new regulation
+	- The new regulation covers internet-connected devices that can communicate over the internet, whether directly or via other equipment. Examples:
+		- Mobile phones, tablets and laptops
+		- Wireless toys and children’s safety equipment such as baby monitors
+		- Wearable devices such as smartwatches and fitness trackers
+	- Article 3.3(d) applies to devices related to network protection. Article 3.3(e) applies to equipment that processes personal data, traffic data or location data (for detailed data definitions, refer to article 4(1) and 4(2) of EU regulation [2016/679](2016_679_EU) and article 2(b) and (c) of directive [2002/58/EC](2002_58_EC)).
+	- Article 3.3(f) applies to radio equipment that enables the holder or user to transfer money, monetary value or virtual currency as defined in article 2(d) of EU directive 2019/713. Cybersecurity measures should factor in emerging crime trends in the electronic payments industry such as crypto-jacking, [[ransomware]], near-field communication([[NFC]])-related fraud and biometric authentication tampering.
+- Devices already within the scope of EC regulations 2019/21446 (type examination for vehicles), 2018/11397 (civil aviation) or directive 2019/520 (electronic road-toll systems) that have similar security requirements do not fall under the new Article 3.3 regulation.
+- https://www.ul.com/insights/new-cybersecurity-requirements-radio-equipment-directive
+-
