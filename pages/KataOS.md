@@ -1,0 +1,3 @@
+- #Google 的微内核([[Microkernel]])操作系统。
+- 采用 [[seL4]] 作为微内核；采用 #Rust 开发。
+- https://github.com/AmbiML/sparrow-manifest
