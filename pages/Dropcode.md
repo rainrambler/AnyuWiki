@@ -1,0 +1,3 @@
+- Dropcode is a simple and lightweight code snippet manager. It's built with Tauri and Solid.js.
+- https://github.com/egoist/dropcode
+-
