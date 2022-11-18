@@ -1,0 +1,4 @@
+- DIY移动通信运营商网络的一个小型设备提供商。
+- 覆盖范围达到1公里左右。包含Node、Antenna等。
+- #5G
+- https://www.cnbeta.com/articles/tech/1324367.htm
