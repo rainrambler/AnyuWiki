@@ -1,0 +1,4 @@
+- Enhanced Data Rate
+- 蓝牙2.0版本提供的增强数据速率功能。对应 BR (Basic Rate)
+- 3.0增加High Speed (HS).
+- Ref: [[NIST 800-121]]
