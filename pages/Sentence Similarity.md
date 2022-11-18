@@ -1,0 +1,9 @@
+- **Sentence-transformers**
+- 1. 安装
+	- `pip install sentence-transformers -i https://pypi.tuna.tsinghua.edu.cn/simple`
+- 2. 下载模型
+	- `https://public.ukp.informatik.tu-darmstadt.de/reimers/sentence-transformers/v0.2/`
+	- 下载 paraphrase-multilingual-MiniLM-L12-v2.zip 文件。
+-
+-
+-
