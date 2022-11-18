@@ -1,0 +1,2 @@
+- BPF is a highly flexible and efficient virtual machine-like construct in the Linux kernel allowing to execute bytecode at various hook points in a safe manner. It is used in a number of Linux [[kernel]] subsystems, most prominently networking, tracing and security (e.g. [[sandboxing]]).
+-
