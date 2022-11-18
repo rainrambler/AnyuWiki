@@ -1,0 +1,3 @@
+- Sonic is a fast, lightweight and schema-less search backend. It ingests search texts and identifier tuples that can then be queried against in a microsecond's time.
+- #Rust 开发的文本搜索后台。
+-
