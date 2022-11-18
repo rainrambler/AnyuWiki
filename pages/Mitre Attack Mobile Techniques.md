@@ -1,0 +1,3 @@
+- https://attack.mitre.org/techniques/mobile/
+- 66个技术领域，41个子领域
+- 参考： [[MITRE Mobile Matrix]]
