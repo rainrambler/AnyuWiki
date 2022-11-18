@@ -1,2 +1,3 @@
 - [[MITRE]] ：攻击者可能会在未经用户授权的情况下拨打、转接或阻止电话。 这可用于攻击目标，例如音频监视、阻止或转发来自设备所有者的呼叫或 C2 通信。
+- Ref: [[Mitre Attack Mobile Techniques]]
 - https://attack.mitre.org/techniques/T1616/
