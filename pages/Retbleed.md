@@ -1,5 +1,6 @@
 - Retbleed: Arbitrary Speculative Code Execution with Return Instructions.
 - Retbleed 会利用返回指令、并能够破坏针对“幽灵”（Spectre）分支目标注入（[[BTI]]）的现有防御措施。
 - https://comsec.ethz.ch/research/microarch/retbleed/
+- https://lwn.net/Articles/900917/
 - #Vulnerability
 -
