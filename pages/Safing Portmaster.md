@@ -1,0 +1,2 @@
+- https://safing.io/download/
+- #Firewall and privacy filter, Secure DNS, Network monitor
