@@ -1,0 +1,5 @@
+- 有线连接
+- 设备要求外设:
+	- 响应 #Apple 签名的证书。以证实来源；
+	- 设备接着发送挑战码，要求签名的消息响应；
+- https://www.apple.com/ca/business-docs/iOS_Security_Guide.pdf
