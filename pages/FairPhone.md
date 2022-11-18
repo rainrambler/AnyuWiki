@@ -1,4 +1,6 @@
 - https://www.fairphone.com/en/
 - 主打环保理念的模块化手机
 - #Smartphone
+- 提供5年维保
+- https://arstechnica.com/gadgets/2021/09/fairphone-4-has-an-incredible-5-year-warranty-aims-for-6-years-of-updates/
 -
