@@ -1,0 +1,6 @@
+- #IBM #Linux
+- https://developer.ibm.com/tutorials/l-dynamic-libraries/
+-
+- [[ELF]] format, [[readelf]]
+- [[GOT]], [[PLT]]
+-
