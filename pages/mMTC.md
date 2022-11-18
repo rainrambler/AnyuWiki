@@ -1,0 +1,6 @@
+- **Massive Machine-Type Communications**
+- 应用于智慧城市和智慧生活。
+- 参考：
+- [[URLLC]]
+- [[eMBB]]
+-
