@@ -1,0 +1,9 @@
+-
+- Network Tools
+	- [[MQTT]]
+	- [[LibreSpeed]] - Speedtest
+- Collaboration & Synchronization
+	- [[Syncthing]]
+	-
+-
+- https://github.com/mikeroyal/Self-Hosting-Guide
