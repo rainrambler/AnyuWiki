@@ -1,0 +1,4 @@
+- [[Palo Alto]] Networks的研究人员发现了一种先进的安卓恶意软件，我们将其命名为 "SpyDealer"，它通过滥用安卓的无障碍服务([[Android accessibility service]])功能，从40多个应用程序中渗出私人数据，并从通信应用程序中窃取敏感信息。SpyDealer利用一个商业ROOT应用的漏洞来获得ROOT权限，从而实现后续的数据窃取。
+-
+- https://unit42.paloaltonetworks.com/unit42-spydealer-android-trojan-spying-40-apps/
+-
