@@ -1,0 +1,5 @@
+- Mobile Device Security (Cloud and Hybrid Builds)
+- NIST SP 1800-4A: Executive Summary
+- NIST SP 1800-4B: Approach, Architecture, and Security Characteristics
+- NIST SP 1800-4C: How-To Guides
+- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-4.pdf
