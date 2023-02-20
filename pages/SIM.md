@@ -1,0 +1,5 @@
+- Subscriber Identity Module
+- 目前协议中使用 Universal Integrated Circuit Card ([[UICC]]).
+- 存储 International Mobile Subscriber Identity ([[IMSI]])以及其他密钥。
+- 其演进 Embedded SIM ([[eSIM]])，允许在设备初始化时，由运营商载入SIM的信息。
+-
