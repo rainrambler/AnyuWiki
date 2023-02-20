@@ -1,0 +1,7 @@
+- DomainKeys Identified Mail (DKIM)
+- https://woodpecker.co/blog/spf-dkim/
+- 在邮件服务器上运行的一种邮件安全协议。
+- 参考：
+- Sender Policy Framework ([[SPF]])
+- https://social.technet.microsoft.com/wiki/contents/articles/34956.office-365-using-spf-dkim-and-dmarc-for-secure-messaging.aspx
+-
