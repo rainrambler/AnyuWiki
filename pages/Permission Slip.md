@@ -1,0 +1,6 @@
+- 更好的展示各个APP的权限和隐私信息收集的APP。
+- 支持iOS。Android开发中。
+- 提供对于APP开发者的介绍，提供一键式 opt out、请求删除数据的选项。
+- https://www.permissionslipcr.com/
+- https://digital-lab.consumerreports.org/2022/11/16/introducing-permission-slip/
+-
