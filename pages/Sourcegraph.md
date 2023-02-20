@@ -1,0 +1,4 @@
+- Search millions of open source repositories
+- https://sourcegraph.com/search
+- https://github.com/sourcegraph/sourcegraph
+- #opensource
