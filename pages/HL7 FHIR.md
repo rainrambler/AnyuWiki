@@ -1,0 +1,5 @@
+- 健康数据交换的行业标准。
+- https://www.hl7.org/fhir/
+-
+- #Google #Android:
+- https://github.com/google/android-fhir
