@@ -1,3 +1,3 @@
-- A simple yet powerful TUI framework for your Python (3.7+) applications
+- A simple yet powerful TUI framework for your #Python (3.7+) applications
 - https://github.com/bczsalba/pytermgui
 -
