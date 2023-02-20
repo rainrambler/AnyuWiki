@@ -1,2 +1,5 @@
 - See: [[Memory Tagging Extension]]
 -
+- https://www.xda-developers.com/android-14-advanced-memory-protection/
+- ARM v9 的必备硬件安全特性
+-
