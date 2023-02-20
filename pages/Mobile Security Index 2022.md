@@ -1,0 +1,11 @@
+- https://www.verizon.com/business/resources/reports/mobile-security-index/
+- 由[[Verizon]]发布的移动安全洞察报告。涵盖：
+	- 移动办公趋势；
+	- [[BYOD]]与居家办公
+	- 威胁与防御
+		- 用户和行为
+		- APP
+		- 设备和[[UEM]]
+		- #IoT
+	- 零信任（ [[ZeroTrust]] ）
+-
