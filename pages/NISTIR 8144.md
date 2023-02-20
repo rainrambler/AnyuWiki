@@ -1,0 +1,5 @@
+- Assessing Threats to Mobile Devices & Infrastructure
+- #NIST
+- https://csrc.nist.gov/CSRC/media/Publications/nistir/8144/draft/documents/nistir8144_draft.pdf
+- [[Mobile Threat Catalogue]]
+-
