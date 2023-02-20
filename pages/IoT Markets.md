@@ -9,4 +9,4 @@
 	- Logistics
 	- Media
 -
-- #IEEE: Towards a definition of the Internet ofThings ( #IoT )
+- #IEEE: Towards a definition of the Internet of Things ( #IoT )
