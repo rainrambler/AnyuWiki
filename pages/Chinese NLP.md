@@ -6,4 +6,4 @@
 - FudanNLP by 复旦 (Java)
 - BosonNLP by Boson (商业API服务)
 - [[HanNLP]] (#Java)
-- [[SnowNLP]] (#Python) Python library for processing Chinese text
+- [[SnowNLP]] (#Python ) Python library for processing Chinese text
