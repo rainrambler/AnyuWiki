@@ -1,0 +1,15 @@
+- Mobile Threat Defense, Mobile Threat Detection
+-
+- https://www.syncdog.com/mobile-threat-defense-2/
+- https://www.zimperium.com/mtd-maturity-model/
+-
+- 为什么企业需要移动威胁防御
+	- 根据2022年Verizon移动安全指数([[Mobile Security Index 2022]])的数据：
+		- 23%的受访企业表示，他们的组织曾遭受过移动安全的破坏
+		- 79%的受访者表示，由于设备的分布和较不安全的网络，向远程或混合工作的转变已经破坏了其组织的网络安全
+		- 87%的受访者表示，由于对移动设备的攻击越来越多，他们被迫重新评估他们的运作方式
+		- 46%的受访公司表示，他们在过去12个月中遭遇了涉及移动设备的破坏。
+- 移动威胁防御（MTD）解决方案通过检测设备、操作系统、它们使用的网络和设备上的应用程序的威胁来保护移动平台。这些载体中的每一个都容易受到各种攻击载体的影响。
+- https://www.zimperium.com/mobile-threat-defense/
+-
+-
