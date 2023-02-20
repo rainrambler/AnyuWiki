@@ -1,0 +1,6 @@
+- Cipher-based Message Authentication Code
+- 基于加密的消息认证码（[[MAC]]）
+- 由 NIST 在 [NIST SP800-38B](http://csrc.nist.gov/publications/nistpubs/800-38B/SP_800-38B.pdf) 定义。
+- 等同于 OMAC1 ([[OMAC]]).
+- https://crypto.stackexchange.com/questions/18824/eax-omac-and-cmac
+-
