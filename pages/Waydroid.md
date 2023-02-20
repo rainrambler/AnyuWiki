@@ -1,0 +1,4 @@
+- A container-based approach to boot a full #Android system on a regular GNU/Linux system like #Ubuntu.
+- Waydroid uses Linux namespaces (user, pid, uts, net, mount, ipc) to run a full Android system in a container and provide Android applications on any GNU/Linux-based platform (arm, arm64, x86, x86_64). The Android system inside the container has direct access to needed hardware through [[LXC]] and the binder interface.
+- https://waydro.id/
+-
