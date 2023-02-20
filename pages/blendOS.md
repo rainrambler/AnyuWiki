@@ -1,0 +1,4 @@
+- https://blendos.co/
+- 基于 [[Arch Linux]], 支持各种包管理，桌面环境如 [[KDE]]。
+- 文件系统是只读的。
+-
