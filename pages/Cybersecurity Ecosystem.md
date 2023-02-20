@@ -1,0 +1,17 @@
+- https://strategyofsecurity.com/cybersecurity-ecosystem/
+-
+- APP Security
+	- [[API Security]]
+	- [[Bot Management]]
+	- [[DevSecOps]]
+	- 软件成分分析([[Software Composition Analysis]])
+	- 软件供应链安全
+	- [[SAST]], [[DAST]]
+	- [[WAF]]
+- 区块链和[[Web3]]
+- 云安全（[[Cloud Security]]）
+	- [[CASB]]: SaaS应用程序和基础设施的部署和使用
+	- Cloud Infrastructure Entitlements Management (CIEM)
+-
+- ![img](./assets/Strategy-of-Security---Cybersecurity-Ecosystem-Map.png)
+-
