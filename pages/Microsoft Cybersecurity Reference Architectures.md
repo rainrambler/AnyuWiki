@@ -1,0 +1,4 @@
+- https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra
+- 也被称为 [[MCRA]]。
+- 包含微软的安全能力、与微软各产品和服务的集成。
+-
