@@ -1,0 +1,35 @@
+- Device Security
+	- [[PrivacyShield]]: 检测偷窥者
+	- [[ThinkShutter]]: 物理关闭摄像头
+	- Smart #USB Protections: 锁定USB数据传输
+	- Secure Docking: 物理锁定笔记本到办公桌
+	- **Ready-to-Provision Preload** ：屏蔽第三方软件的预加载
+	- **Asset Tagging Service**：通过防篡改的粘合剂标签、盖子上的蚀刻和/或独特的[[BIOS]]级标签，防止设备被盗。
+- Identity Security
+	- [[FIDO]]: 快捷和安全的登录与支付
+	- **Intel Authenticate Multifactor**
+	- 芯片上匹配的指纹读取器（**Match-on-Chip Fingerprint Reader**）：安全地将指纹信息存储在指纹芯片内，进一步隔绝生物识别信息与黑客的联系
+	- Absolute: 为IT管理员提供与设备的双向连接，以进行远程风险评估、预防和响应。
+	- 支持Windows 10 Hello 人脸识别的红外相机
+	- 地理围栏安全（[[Geofencing Security]]）：使用[[GPS]]和/或网络位置检测的基于位置的认证方法
+	-
+- Online Security
+	- **BUFFERZONE**: 使用虚拟化隔离端点或者网络
+	- **Lenovo WiFi Security**
+	- **Lenovo Unified Workspace**：管理员的APP部署和内容分发
+	- **MobileIron**：允许IT管理员管理设备，不受操作系统或外形因素的影响
+	- 英特尔软件卫士扩展（Intel Software Guard Extensions）：增强了软件的完整性和保密性，保护选定的代码和数据不被泄露或修改
+- Data Security
+	- 保留您的硬盘服务：允许客户在保修期内更换硬盘后保留其硬盘/数据。
+	- WinMagic：保护数据，确保合规性，优化操作，并实现整个企业的统一加密
+	- 在线备份 (OLDB)：允许企业安全、简单、自动地在云中存储机密信息
+	- USB安全硬盘：完全加密的外部存储设备，需要数字密码才能访问
+	- 英特尔远程安全擦除：允许IT管理员远程擦除支持AMT和配置的设备上的英特尔SSD Pro驱动器
+	- [[BitLocker]]驱动器加密：在操作系统中集成加密功能，以保护丢失或被盗设备上的数据
+- https://www.lenovo.com/id/in/thinkshield/
+-
+-
+- https://wpa_supplier.motorola.com/Motorola_Security_For_Mobiles_whitepaper.pdf
+-
+-
+-
