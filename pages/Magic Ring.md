@@ -1,0 +1,2 @@
+- 并借助四大根技术“Magic Ring信任环、Magic Live智慧引擎、Turbo X系统引擎、Magic Guard”实现了传统操作系统下的闭环体验。
+- #HONOR
