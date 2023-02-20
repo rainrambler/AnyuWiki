@@ -1,0 +1,3 @@
+- scikit-learn: machine learning in #Python
+- https://scikit-learn.org/
+- https://github.com/scikit-learn/scikit-learn
