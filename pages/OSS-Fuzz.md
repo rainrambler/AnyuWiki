@@ -1,0 +1,4 @@
+- #Google 开发的针对开源软件的 #[[Fuzz Testing]] 工具。
+- https://github.com/google/oss-fuzz
+- 支持 C/C++, Rust, Go, Python and Java/JVM code
+-
