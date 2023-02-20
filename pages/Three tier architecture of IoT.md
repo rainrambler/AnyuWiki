@@ -1,0 +1,5 @@
+- ![image.png](../assets/image_1670335546163_0.png)
+- #IEEE [[P2413]] 将 #IoT 抽象为三层架构。
+- 参考：
+- [[IoT Markets]]
+-
