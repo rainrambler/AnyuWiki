@@ -1,0 +1,5 @@
+- #[[Distributed computing]]
+- #Fediverse
+- #Mastodon
+-
+- ![img](./assets/fediverse-branches-axbom-12-CC-BY-SA.png)
