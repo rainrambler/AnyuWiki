@@ -1,0 +1,2 @@
+- 如何组织 [[Obsidian]] 的仓库。
+- https://bytes.zone/posts/digital-gardening-in-obsidian/
