@@ -1,0 +1,4 @@
+- https://github.com/zxing/zxing
+- #barcode
+- Java，Android, 二维码读取的开源项目。
+-
