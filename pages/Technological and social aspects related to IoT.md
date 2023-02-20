@@ -9,7 +9,7 @@
 	- Autonomics and self organization of large IoT systems
 	- New processes and organizations
 	-
-- Security and Privacy
+- #Security and #Privacy
 	- Management of personal data
 	- Privacy and Security Framework for IoT
 -
