@@ -1,0 +1,3 @@
+- https://arstechnica.com/gadgets/2023/02/googles-privacy-sandbox-advertising-system-arrives-on-android-in-beta/
+- 使用兴趣组（Interest Groups）而不是追踪每个用户。
+-
