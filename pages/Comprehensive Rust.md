@@ -1,0 +1,2 @@
+- #Google 开发的 #Rust 课程。
+- https://google.github.io/comprehensive-rust/
