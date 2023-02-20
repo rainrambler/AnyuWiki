@@ -1,0 +1,15 @@
+- [[Blackhat]] EU 2022
+-
+- 尽管它并不完美，但我们甚至可以从媒体代表我们的方式中看到这一点。我们已经从心怀不满的年轻人或阴暗的政府运营商，经历了一系列坦率的奇怪的分心和怪异，到现在被代表为真正的专业人士。是的，我们仍然穿着我们的连帽衫并且行为有点不稳定，但我们被视为从事重要工作的实际专家。
+- 这一点很重要，因为当人们看到一个职业并看到它在经济上或社会上都代表着重要的价值时——而安全则两者兼而有之——他们开始期望有基本的标准来规范行为和设定期望。这意味着认证。
+	- UK Cyber Security Council
+	- CREST
+	- CISM
+	- [[Offensive Security]] OSCP
+	- CRISC (Certified in Risk and Information Systems Control), By [[ISACA]]
+	- [[CompTIA]]
+	- CISSP
+	- GSEC (Giac Security Essentials Certification)
+- 更多的产品透明度
+	- [[SBOM]]
+-
