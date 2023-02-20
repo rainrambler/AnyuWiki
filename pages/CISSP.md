@@ -1,0 +1,12 @@
+- 包含8个领域
+- https://resources.infosecinstitute.com/certification/the-cissp-domains-an-overview/
+-
+- Domain 1: 安全和风险管理
+-
+- Domain 2: 资产安全
+- Domain 3: 安全工程
+- Domain 4: 通信与网络安全
+- Domain 5: 身份与访问管理
+- Domain 6: 安全评估与测试
+- Domain 7: 安全运营
+- Domain 8: 软件安全研发
