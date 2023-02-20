@@ -1,0 +1,5 @@
+- https://github.com/google/osv-scanner
+- 自动扫描项目的依赖项，分析漏洞情况
+- #opensource #Vulnerability #Google
+- 主要针对[[SBOM]], #Docker Image, lockfile
+-
