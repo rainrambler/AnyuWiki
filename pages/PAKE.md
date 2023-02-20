@@ -45,6 +45,6 @@
 	- 更好的是：OPAQUE 不会向攻击者透露盐。它通过使用有效的“遗忘 PRF” (oblivious [[PRF]], [[Oblivious Pseudorandom Function]])将盐与密码结合起来解决了这个问题，以确保客户端不学习盐而服务器不学习密码。
 	- OPAQUE 适用于任何密码散列函数。更好的是，由于所有哈希工作都在客户端完成，OPAQUE 实际上可以减轻服务器的负载，释放在线服务以使用更强大的安全设置——例如，使用大 RAM 参数配置 [[scrypt]]。
 	- 在消息数量和求幂方面，OPAQUE 与 SRP 没有太大区别。但由于它可以在更高效的环境中实施，它可能会更有效率。
-	- 与 SRP 不同，OPAQUE 具有合理的安全证明（在非常强大的模型中）。
+	- 与 SRP 不同，[[OPAQUE]] 具有合理的安全证明（在非常强大的模型中）。
 -
 - https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/
