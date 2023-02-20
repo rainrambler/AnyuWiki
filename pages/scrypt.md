@@ -1,0 +1,7 @@
+- Password-Based Key Derivation Functions
+- 基于密码的密钥派生函数
+- 类似的还有：
+- [[Argon2]]
+- [[PBKDF2]]
+- [[bscrypt]]
+-
