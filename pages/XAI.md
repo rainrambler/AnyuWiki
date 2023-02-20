@@ -1,0 +1,14 @@
+- Explainable #AI (XAI)
+-
+- https://www.ibm.com/watson/explainable-ai
+- 可解释的人工智能（XAI）是一套流程和方法，使人类用户能够理解和信任机器学习算法创造的结果和输出。可解释的人工智能用于描述人工智能模型、其预期影响和潜在偏见。它有助于在人工智能驱动的决策中描述模型的准确性、公平性、透明度和结果。可解释的人工智能对于一个组织在将人工智能模型投入生产时建立信任和信心至关重要。人工智能的可解释性也有助于一个组织采用负责任的方法来开发人工智能。
+-
+- #CMU:
+- https://insights.sei.cmu.edu/blog/what-is-explainable-ai/
+-
+- NetAPP:
+- https://www.netapp.com/blog/explainable-ai/
+-
+- #NIST:
+- https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf
+-
