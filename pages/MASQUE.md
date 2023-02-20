@@ -1,0 +1,7 @@
+- https://datatracker.ietf.org/wg/masque/about/
+- #IETF #RFC
+- 一种中转或者路由网络连接的协议。
+- 旨在替代或者增强传统的SOCKS或者HTTP Connect. 前者不加密，后者无法应用于[[HTTP]]之外的其他协议。
+-
+- [[iCloud Private Relay]] 使用该协议。
+- https://blog.apnic.net/2023/01/25/an-investigation-into-apples-new-relay-network/
