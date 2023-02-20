@@ -1,0 +1,8 @@
+- Extended detection and response
+- 类似术语：managed detection and response ([[MDR]])，endpoint detection and response ([[EDR]])
+-
+- 与端点检测和响应（EDR）等系统相比，XDR扩大了安全范围，在更广泛的产品中整合保护，包括企业的端点、服务器、云应用、电子邮件等。由此，XDR结合了预防、检测、调查和响应，提供可见性、分析、相关事件警报和自动响应，以提高数据安全和打击威胁。——微软
+- https://www.microsoft.com/en-us/security/business/security-101/what-is-xdr
+-
+- MDR不仅聚焦于技术，还包括网络安全服务。
+-
