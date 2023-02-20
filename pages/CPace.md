@@ -2,3 +2,6 @@
 -
 - https://www.rfc-editor.org/rfc/internet-drafts/draft-irtf-cfrg-cpace-06.html
 -
+- CPace是一种平衡(Balanced)密码验证密钥交换([[PAKE]])协议。对应 Augmented Password Authenticated Key Exchange（增强密码验证密钥交换）。该类别包含 [[SRP]], [[AuCPace]], BS-SPEKE.
+- 还有一类是双重增强密码验证密钥交换（Doubly-Augmented Password Authenticated Key Exchanges），包含 [[OPAQUE]]等。
+- https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/
