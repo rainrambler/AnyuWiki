@@ -12,3 +12,8 @@
 - 与 IAST 非常相似，运行时应用程序自我保护 ([[RASP]]) 在应用程序内部运行。它的检测重点不是在**测试周期**中检测攻击，而是在**生产运行时**检测攻击。
 	- 攻击可以通过监控和警报进行报告，也可以主动阻止。 RASP 警报有助于安全信息和事件管理 ([[SIEM]])。
 - Ref: Wikipedia [[DevOps]]
+-
+- #NIST:
+- https://csrc.nist.gov/Projects/devsecops
+- Secure Software Development Framework ([[SSDF]])
+-
