@@ -1,0 +1,7 @@
+- **One-Key CBC MAC**
+- CMAC 身份验证模式在特殊出版物 800-38B ([[SP 800-38B]])中指定，可与任何经批准的块密码([[Block cipher]])一起使用。[[CMAC]] 代表基于密码的消息认证代码 ([[MAC]])，类似于 [[HMAC]]，即基于散列的 MAC 算法。
+- CMAC本质上是Iwata和Kurosawa提出的One-Key CBC-MAC (OMAC)算法。
+- OMAC是[[XCBC]]算法的改进，由Rogaway和Black提交，本身就是CBC-MAC算法的改进。XCBC 有效地解决了 CBC-MAC 的安全缺陷；OMAC 有效地减少了 XCBC 的密钥大小。
+- https://csrc.nist.gov/projects/block-cipher-techniques/bcm/current-modes
+- https://csrc.nist.gov/publications/detail/sp/800-38b/final
+-
