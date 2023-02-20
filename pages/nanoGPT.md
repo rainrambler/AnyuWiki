@@ -1,0 +1,3 @@
+- https://github.com/karpathy/nanoGPT
+- The simplest, fastest repository for training/finetuning medium-sized [[GPT]]s. It is a rewrite of [minGPT](https://github.com/karpathy/minGPT) that prioritizes teeth over education.
+-
