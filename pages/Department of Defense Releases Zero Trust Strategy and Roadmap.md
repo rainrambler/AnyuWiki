@@ -1,0 +1,3 @@
+- 美国国防部的零信任策略和路线图。
+- #ZeroTrust
+- https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/
