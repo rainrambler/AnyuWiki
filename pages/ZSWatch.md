@@ -1,0 +1,4 @@
+- https://github.com/jakkra/ZSWatch
+- 使用 [[Zephyr]] 开发的开源智能手表。
+- #opensource #Android #BLE
+-
