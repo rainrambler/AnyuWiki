@@ -1,0 +1,3 @@
+- Sender Policy Framework ([[SPF]])
+- https://social.technet.microsoft.com/wiki/contents/articles/34956.office-365-using-spf-dkim-and-dmarc-for-secure-messaging.aspx
+-
