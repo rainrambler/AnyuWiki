@@ -1,0 +1,3 @@
+- https://cloud.google.com/blog/products/identity-security/how-confidential-space-and-mpc-can-help-secure-digital-assets/
+- #MPC #SMPC #Google
+-
