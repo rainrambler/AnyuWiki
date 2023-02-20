@@ -1,0 +1,3 @@
+- https://www.apriorit.com/dev-blog/160-apihooks
+- #Windows #API #Hacker
+-
