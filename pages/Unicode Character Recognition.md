@@ -1,0 +1,4 @@
+- https://shapecatcher.com/
+- 基于手绘的形状，判断最接近的 #Unicode 字符。
+- 当前不支持中日韩。
+-
