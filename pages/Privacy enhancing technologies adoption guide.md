@@ -9,3 +9,5 @@
 	- 联邦分析([[Federated Analytics]])
 	-
 - https://www.gov.uk/government/publications/privacy-enhancing-technologies-adoption-guide
+- https://cdeiuk.github.io/pets-adoption-guide/
+-
