@@ -1,3 +1,4 @@
 - darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.
+- darktable是一个开源的摄影工作流程应用程序和RAW格式开发。一个为摄影师准备的虚拟光桌和暗房。它在一个数据库中管理你的数字底片，让你通过一个可缩放的光桌查看它们，并使你能够开发原始图像和增强它们。
 - https://www.darktable.org/
 -
