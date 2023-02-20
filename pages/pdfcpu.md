@@ -1,2 +1,4 @@
 - A #PDF processor written in #Go.
 - https://pdfcpu.io/
+- 对于部分文件格式，提取文本时容易得到很多的控制字符。
+-
