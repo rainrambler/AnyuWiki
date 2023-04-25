@@ -1,0 +1,3 @@
+- Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on [[LLaMa]]
+- https://github.com/nomic-ai/gpt4all
+-
