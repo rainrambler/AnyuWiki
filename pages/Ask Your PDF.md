@@ -1,0 +1,2 @@
+- https://askyourpdf.com/
+- 使用类似ChatGPT的技术，上传PDF文件并启动对话查询。
