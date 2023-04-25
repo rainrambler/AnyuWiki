@@ -1,0 +1,6 @@
+- 维修
+	- T5 Torx Screwdriver
+	- Opening Picks
+	- 1# Screwdriver
+	- https://zh.ifixit.com/Guide/Dell+XPS+13+9300+SSD+Replacement/153515?lang=en
+-
