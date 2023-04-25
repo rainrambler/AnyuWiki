@@ -1,0 +1,16 @@
+- https://www.imperva.com/learn/application-security/application-security-testing/
+- 识别APP的安全风险或者脆弱性，代码中的漏洞等。
+- 早起是通过手工执行。现代一般自动化：
+- 开发阶段
+	- [[SAST]]
+	- [[SCA]]
+- 集成阶段
+	- [[SCA]]
+- 测试与发布
+	- [[SAST]]
+	- [[DAST]]
+	- [[MAST]]
+	- [[IAST]]
+- 发布之后
+	- [[RASP]]
+-
