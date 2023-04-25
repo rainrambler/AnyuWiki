@@ -1,3 +1,5 @@
 - Secure Software Development Framework
 - [[NIST]]发布的白皮书。在软件研发生命周期([[SDLC]])中嵌入一系列安全软件开发的实践。
+- https://csrc.nist.gov/publications/detail/sp/800-218/final
+- [[NIST SP SP 800-218]]
 -
