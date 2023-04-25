@@ -1,0 +1,4 @@
+- 将 #Android 手机镜像到电脑屏幕。
+- 支持 #USB 连接或者TCP IP 连接。
+- https://github.com/Genymobile/scrcpy
+-
