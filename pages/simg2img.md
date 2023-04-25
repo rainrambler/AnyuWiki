@@ -1,0 +1,4 @@
+- Tool to convert #Android sparse images to raw images.
+- Since image tools are not part of Android SDK, this standalone port of #AOSP libsparse aims to avoid complex building chains.
+- https://github.com/anestisb/android-simg2img
+-
