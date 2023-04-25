@@ -1,0 +1,5 @@
+- [[LLaMA]] 的开源实现。基于 Apache 2.0协议。
+- 原始的7B模型，需要A100显卡，约26GB显存。
+-
+- #Python
+- https://github.com/Lightning-AI/lit-llama
