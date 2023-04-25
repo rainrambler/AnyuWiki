@@ -1,0 +1,2 @@
+- https://p.migdal.pl/blog/2023/02/ai-arts-information-theory/
+-
