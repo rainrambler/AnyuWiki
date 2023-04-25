@@ -1,0 +1,4 @@
+- https://github.com/lukejoshuapark/whisper
+- Wraps an io.ReadWriter in a secure tunnel using modern elliptic-curve cryptography.
+- #Go #ECC
+-
