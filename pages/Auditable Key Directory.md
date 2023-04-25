@@ -1,0 +1,3 @@
+- https://github.com/facebook/akd
+- #Facebook 开源的在 #WhatsApp 使用的密钥透明度的项目。
+-
