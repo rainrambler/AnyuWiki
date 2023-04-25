@@ -1,0 +1,5 @@
+- 局域网文件传输软件。
+- 支持 Windows, Android, iOS, MacOS, Linux.
+- 类似 [[Landrop]].
+-
+- https://localsend.org
