@@ -1,0 +1,2 @@
+- 云上运行的 #Android 虚拟机
+- https://www.genymotion.com/
