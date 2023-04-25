@@ -1,0 +1,4 @@
+- 有时也简称 [[CPG]].
+- 衡量组织的网络安全成熟度的checklist。
+- https://www.cisa.gov/sites/default/files/2023-03/CISA_CPG_REPORT_v1.0.1_FINAL.pdf
+-
