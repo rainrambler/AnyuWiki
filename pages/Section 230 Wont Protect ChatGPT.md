@@ -1,0 +1,3 @@
+- https://www.lawfareblog.com/section-230-wont-protect-chatgpt
+- #AI #ChatGPT
+-
