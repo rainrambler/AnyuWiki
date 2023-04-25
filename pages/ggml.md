@@ -1,0 +1,7 @@
+- https://github.com/ggerganov/ggml
+- Tensor library for machine learning
+- #AI
+-
+- See:
+	- [[RWKV]]: https://github.com/saharNooby/rwkv.cpp
+	-
