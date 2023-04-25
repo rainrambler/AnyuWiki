@@ -1,0 +1,3 @@
+- https://github.com/microsoft/data-protection-mapping-project
+- 微软（ #Microsoft ）开发的开源工具。将各国的隐私保护的法律（ [[GDPR]], [[CCRA]] ）同 [[ISO 27001]] , [[ISO 27701]]等控制措施映射。
+-
