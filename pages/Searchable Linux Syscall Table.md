@@ -1,0 +1,3 @@
+- https://filippo.io/linux-syscall-table/
+- #Linux #Kernel
+-
