@@ -1,0 +1,4 @@
+- Generative Pre-trained Transformer
+- https://www.techtarget.com/searchenterpriseai/definition/GPT-3
+- 生成式预训练模型
+-
