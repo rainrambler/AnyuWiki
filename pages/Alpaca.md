@@ -1,0 +1,8 @@
+- https://crfm.stanford.edu/2023/03/13/alpaca.html
+- We introduce Alpaca 7B, a model fine-tuned from the [[LLaMA]] 7B model on 52K instruction-following demonstrations.
+- Instruction-following models such as GPT-3.5 (text-davinci-003), [[ChatGPT]], [[Claude]], and Bing Chat have become increasingly powerful.
+- #AI #ChatGPT
+-
+- Alcapa.cpp
+	- https://github.com/antimatter15/alpaca.cpp
+-
