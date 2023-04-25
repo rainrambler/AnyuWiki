@@ -1,0 +1,5 @@
+- 隔空投送
+- 近场文件共享
+- #Bluetooth #Wi-Fi
+- 使用 Apple专用无线通信协议([[AWDL]], Apple Wireless Direct Link)传输文件
+-
