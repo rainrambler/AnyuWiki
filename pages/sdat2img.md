@@ -1,0 +1,5 @@
+- Convert sparse #Android data image (.dat) into filesystem [[ext4]] image (.img)
+- https://github.com/xpirt/sdat2img
+- #Python
+- See: [[simg2img]]
+-
