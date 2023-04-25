@@ -1,0 +1,2 @@
+- 包括静态分析、动态分析和APP生成的数据的取证。涵盖 [[SAST]]、[[DAST]]和 [[IAST]]，并且可以分析APP特有的风险。比如越狱、恶意WiFi, 手机数据泄露。
+- https://www.imperva.com/learn/application-security/application-security-testing/
