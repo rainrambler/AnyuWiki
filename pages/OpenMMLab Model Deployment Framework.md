@@ -1,0 +1,6 @@
+- https://github.com/open-mmlab/mmdeploy
+- #Python #[[Deep Learning]]
+- ![img](../assets/OpenMMLab.png)
+- Deep Learning Framework: [[PyTorch]]
+- 基础库：[[MMCV]]、[[MMEngine]]
+-
