@@ -1,3 +1,6 @@
 - #Python AI
 - [[Deep Learning]]
+- PyTorch 自身提供了几种加速分布数据并行的技术，包括分桶梯度（bucketing gradients）、通信和计算的重叠（overlapping computation with communication）以及在梯度累积（gradient accumulation）阶段跳过梯度同步（skipping gradient synchronization）。
+- PyTorch 分布式数据并行可以用256 个 GPU 达到接近线性的可扩展性程度。
+- 参考：[[TensorFlow]].
 -
