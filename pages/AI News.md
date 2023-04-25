@@ -1,0 +1,3 @@
+- https://www.emergentmind.com/
+- News of #AI, by AI
+-
