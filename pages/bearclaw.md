@@ -1,0 +1,3 @@
+- https://github.com/donuts-are-good/bearclaw
+- a tiny static site generator, written in #Go
+- bearclaw can be run on-demand, or it can rebuild automatically when it sees changes. there are 3 folders in the basic install:  `markdown` ,  `output` , and  `templates` . there is an optional 4th folder after v1.2.0 for  `plugins` .
