@@ -1,0 +1,12 @@
+- Passport
+	- [[ICAO 9303]]，有物理安全特性，防止仿冒和克隆；有安全芯片，支持 [[NFC]]
+- Driving License and ID cards
+	- 包含 [[PDF417]] 二维码
+	- [[ISO 18013]] part 1-4
+-
+- 手机数字身份卡
+- 驾照（Mobile Driving License, mDL）
+- [[ISO 18013]]-5:2021
+-
+- #Google #Android 有开源组件提供支持：[[Identity Credential]].
+-
