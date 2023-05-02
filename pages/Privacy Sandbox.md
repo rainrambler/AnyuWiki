@@ -1,3 +1,8 @@
+- 保护隐私的API
+- 主题(Topics)：基于设备上的APPs估算兴趣组
+- [[FLEDGE]]: 基于开发者定制的听众群，推送广告
+- 兴趣报告(Attribution reporting)：提供转化（conversion）的度量和反馈。
+-
 - https://arstechnica.com/gadgets/2023/02/googles-privacy-sandbox-advertising-system-arrives-on-android-in-beta/
 - 使用兴趣组（Interest Groups）而不是追踪每个用户。
 -
