@@ -1,2 +1,7 @@
 - [[AOSP]] 已有一个支持硬件封装密钥的基本框架。这包括用户空间组件中的支持（例如 [[vold]]）以及 blk-crypto、[[fscrypt]] 和 dm-default-key 中的 #Linux 内核支持。
 - https://source.android.google.cn/security/encryption/hw-wrapped-keys
+-
+- Android 14 Bootcamp:
+	- KeyMint是[[Strongbox]]的一种实现。
+	- 在 Pixel 2中称为Weaver；在Pixel 3中称为 KeyMint；提供[[HAL]]层的基于SE的安全。
+-
