@@ -1,0 +1,3 @@
+- Generic Kernel Image （通用内核镜像）
+- 为 [[Android]] 对Linux Kernel的定制和减小修改准备。
+-
