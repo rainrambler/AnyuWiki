@@ -1,0 +1,4 @@
+- Device Identifier Composition Engine
+- 提供所加载的固件的度量的可信任的记录
+- #Android
+-
