@@ -1,0 +1,4 @@
+- https://www.privacyguides.org/en/
+- 推荐了隐私保护的各类软件。
+- 包含隐私的威胁建模（ [[Threat Modeling]] ）
+-
