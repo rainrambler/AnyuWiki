@@ -1,0 +1,9 @@
+- Android生态伙伴计划
+- 相关特性：
+	- [[Nearby Share]]：类似苹果[[AirDrop]].
+	- 跨设备通话接续（Cross Device Call Transfer）
+	- 手表解锁手机（Watch Unlock）
+	- 查找设备（Find My Device）
+	- 快速配对（[[Fast Pair]]）
+	- eSIM 支持：TS.43
+-
