@@ -1,5 +1,9 @@
-- *Android Virtualization Framework*
+- [[Android Virtualization Framework]]。于[[Android 13]]中首次提供。
 -
 - ![avf](../assets/avf_architecture1.png)
 -
 - https://source.android.google.cn/docs/core/virtualization
+-
+- 在 [[Android 14]]中：
+	- [[pKVM]] 作为 AVF的管理器（Hypervisor），负责管理和调度[[pVM]] (Protected VM)
+-
