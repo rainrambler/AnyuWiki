@@ -1,3 +1,8 @@
+- 使用工业标准的 [[Passwordless]] 认证
+- 基于密码学的实现
+- 相关标准：[[FIDO]]
+- 在 [[Android]] 上，基于 [[Credential Manager]] API实现：androidx.credentials.*
+-
 -
 - 实施：
 - https://www.imperialviolet.org/2022/09/22/passkeys.html
