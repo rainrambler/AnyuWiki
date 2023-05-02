@@ -1,0 +1,2 @@
+- AON 环境感知的特性（低电量，[[CHRE]]），在 [[Android 14]] 中需要在PCC中运行。缺省没有联网权限。联网需要通过 Private Compute Services提供的开源API进行。
+-
