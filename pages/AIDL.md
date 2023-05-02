@@ -1,0 +1,14 @@
+- Android Interface Definition Language
+- 替代了过时的 [[HIDL]]: Hardware ...
+-
+- [[Android 11]]
+	- 引入AIDL for [[HAL]]
+	- 震动（Viberator），灯光（Lights）， [[Identity Credential]] 等
+- [[Android 12]]
+	- 25%的 HAL接口转换为AIDL
+- [[Android 13]]
+	- 50%的 [[AOSP]] [[HIDL]] 接口转换为AIDL
+- [[Android 14]]
+	- 99%的 [[AOSP]] HAL 接口转换为AIDL
+	- 合作伙伴必须使用 AIDL
+-
