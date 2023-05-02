@@ -1,0 +1,9 @@
+- #Android 兼容性问题
+- 常见兼容性风险：
+- APP加固的[[DRM]]
+- 非SDK接口：如自定义的[[WebView]]实现
+- 第三方SDK: 如不兼容的 root检测
+- 过时的API
+-
+- Source: Android 14
+-
