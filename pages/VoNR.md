@@ -1,0 +1,3 @@
+- Voice over New radio
+- 也称为 [[Vo5G]]。在[[5G]]网络通话时使用的技术。这样不必回落到 4G [[VoLTE]] 通话。
+-
