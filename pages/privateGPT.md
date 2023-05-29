@@ -1,0 +1,5 @@
+- https://github.com/imartinez/privateGPT
+- 使用 [[GPT]] 技术做本地的文档索引。
+- Python 代码
+- 使用 [[LangChain]], [[GPT4ALL]], [[LLaMA]]等。
+-
