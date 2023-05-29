@@ -1,0 +1,4 @@
+- 安全性不如 [[scrypt]]
+- 有可配置的迭代次数，不过使用固定数量的内存
+- https://www.dailycred.com/article/bcrypt-calculator
+-
