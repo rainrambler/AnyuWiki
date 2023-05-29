@@ -3,3 +3,6 @@
 - Llama.cpp
 	- https://github.com/ggerganov/llama.cpp
 -
+- OpenLLaMa: An Open Reproduction of LLaMA
+	- https://github.com/openlm-research/open_llama
+-
