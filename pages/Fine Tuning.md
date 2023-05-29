@@ -1,0 +1,4 @@
+- 预训练模型（Pre-trained Model）经过转移学习（[[Transfer Learning]]），得到调优模型（Fine tuned Model）。
+- 转移学习可理解为在预训练模型的通用数据基础上，加入领域或者任务相关的数据。
+-
+- https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/
