@@ -4,4 +4,5 @@
   and transformer - great performance, fast inference, saves VRAM, fast 
   training, "infinite" ctx_len, and free sentence embedding.
 - #LLM
+- https://github.com/BlinkDL/ChatRWKV
 -
