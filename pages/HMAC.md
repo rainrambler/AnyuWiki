@@ -1,0 +1,13 @@
+- Hash-based message authentication code
+- 基于哈希的消息认证码
+-
+- https://cryptobook.nakov.com/mac-and-key-derivation/hmac-and-key-derivation
+- `HMAC(key, msg, hash_func) -> hash`
+- eg:
+- `HMAC('sample message', '12345', 'SHA256') =
+    'ee40ca7bc90df844d2f5b5667b27361a2350fad99352d8a6ce061c69e41e5d32'`
+-
+- The  `hash_func`  can be any cryptographic hash function like  `SHA-256` ,  `SHA-512` ,  `RIPEMD-160` ,  `SHA3-256`  or  `BLAKE2s` .
+- **HMAC** is used for message **authenticity**, message **integrity** and sometimes for **key derivation**.
+- 参考： [[KDF]]
+-
