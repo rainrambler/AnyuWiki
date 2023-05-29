@@ -1,0 +1,3 @@
+- **PBKDF2** is a simple cryptographic key derivation function, which is resistant to [dictionary attacks](https://en.wikipedia.org/wiki/Dictionary_attack) and [rainbow table attacks](https://en.wikipedia.org/wiki/Rainbow_table). It is based on iteratively deriving [[HMAC]] many times with some padding. The **PBKDF2** algorithm is described in the Internet standard [RFC 2898 (PKCS #5)](http://ietf.org/rfc/rfc2898.txt).
+- `key = pbkdf2(password, salt, iterations-count, hash-function, derived-key-len)`
+-
