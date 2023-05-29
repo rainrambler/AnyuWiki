@@ -1,0 +1,8 @@
+- **Key derivation function** (KDF) is a function which transforms a variable-length password to fixed-length key (sequence of bits):
+- `function(password) -> key`
+- https://cryptobook.nakov.com/mac-and-key-derivation/hmac-and-key-derivation
+-
+- 简单的Hash容易导致字典攻击([[Dictionary Attack]], [[Rainbow Attack]])
+- 所以一般使用 **HMAC(salt, msg, SHA256)** 派生密钥。
+- Using **[[HKDF]] (HMAC-based key derivation)** for key derivation is **less secure** than modern KDFs, so experts recommend using stronger key derivation functions like [[PBKDF2]], [[Bcrypt]], [[Scrypt]] and [[Argon2]].
+-
