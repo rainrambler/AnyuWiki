@@ -1,0 +1,3 @@
+- #Apple #Google 共同推动的基于蓝牙设备（[[BLE]]）查找的 [[IETF]] 安全协议。
+- https://datatracker.ietf.org/doc/draft-detecting-unwanted-location-trackers/
+-
