@@ -1,0 +1,4 @@
+- https://huggingface.co/chat
+- #AI #ChatGPT
+- 使用 [[OpenAssistant]] 模型。
+-
