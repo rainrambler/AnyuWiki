@@ -1,0 +1,4 @@
+- https://codi-gen.github.io/
+- #AIGC #Microsoft
+- 可以通过语言、图像、文字生成图像、视频等。
+-
