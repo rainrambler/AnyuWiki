@@ -1,0 +1,4 @@
+- https://www.pinecone.io/learn/langchain-intro/
+- https://github.com/hwchase17/langchain
+- #LLM
+-
