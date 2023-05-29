@@ -1,0 +1,3 @@
+- https://www.ncsc.gov.uk/blog-post/chatgpt-and-large-language-models-whats-the-risk
+- #NCSC 给出的关于 [[ChatGPT]] 和 [[LLM]] 的风险描述。
+-
