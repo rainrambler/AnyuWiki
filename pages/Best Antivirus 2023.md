@@ -1,0 +1,17 @@
+- PCMag:
+	- [[Avast]]
+	- [[AVG]]
+	- [[Bitdefender]]
+	- [[Avira]]
+	- Microsoft Defender
+- USNews:
+	- Avira
+- TechRadar:
+	- BitDefender
+	- Norton
+	- McAfee
+- Tom's Guide:
+	- BitDefender
+	- Kaspersky
+	- Norton
+-
