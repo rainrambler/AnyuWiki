@@ -1,5 +1,7 @@
 - Password-Based Key Derivation Functions
-- 基于密码的密钥派生函数
+- 基于密码的密钥派生函数([[KDF]])
+- 内存密集，可以防御 GPU, ASIC, FPGA 攻击
+-
 - 类似的还有：
 - [[Argon2]]
 - [[PBKDF2]]
