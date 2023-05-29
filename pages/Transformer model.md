@@ -1,0 +1,6 @@
+- https://arxiv.org/abs/1706.03762 "Attention Is All You Need"
+- 占主导地位的序列转导模型是基于复杂的递归或卷积神经网络([[CNN]])的编码器-解码器配置。性能最好的模型还通过注意机制将编码器和解码器连接起来。我们提出了一个新的简单的网络结构--Transformer，它只基于注意力机制，完全不需要递归和卷积。在两个机器翻译任务上的实验表明，这些模型在质量上更胜一筹，同时也更容易并行化，需要的训练时间也大大减少。
+-
+- 几乎所有现代的语言模型([[LLM]])都基于Transformer Model
+- https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/
+-
