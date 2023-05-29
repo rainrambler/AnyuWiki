@@ -1,0 +1,2 @@
+- https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/
+- ![ai-attack-surface-categories-miessler-1.png](../assets/ai-attack-surface-categories-miessler-1_1684547895081_0.png)
