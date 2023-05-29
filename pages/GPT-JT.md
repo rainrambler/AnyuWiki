@@ -1,0 +1,3 @@
+- 用于分类（classification）的 [[GPT]] 模型。
+- https://huggingface.co/togethercomputer/GPT-JT-6B-v1
+-
