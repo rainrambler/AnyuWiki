@@ -1,4 +1,5 @@
 - 多个64bit的进程，无系统服务。
 - 对于Go语言项目，执行相应exe文件会弹出提示。
 - 联网下载和更新病毒库迅速。
+- 在2020年，暴露过收集用户数据的问题：https://www.zdnet.com/article/mozilla-removes-avast-and-avg-extensions-from-add-on-portal-over-snooping-claims/
 -
