@@ -1,0 +1,6 @@
+- Time-based one-time password
+- https://en.wikipedia.org/wiki/Time-based_one-time_password
+- 生成 [[OTP]] 的算法。
+- [[RFC 6238]]
+- [[Aegis]] 是一种开源的Android生成工具： https://getaegis.app/
+-
