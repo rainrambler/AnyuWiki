@@ -1,0 +1,4 @@
+- **UnIVAL** *is a 0.25B-parameter unified model that is multitask pretrained on image and video-text data and target image, video and audio-text downstream tasks.*
+- https://github.com/mshukor/UnIVAL
+- #AIGC
+-
