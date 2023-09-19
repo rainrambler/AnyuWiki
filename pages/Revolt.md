@@ -1,0 +1,4 @@
+- https://revolt.chat/
+- 类似 [[Discord]] 的聊天社区
+- #opensource
+-
