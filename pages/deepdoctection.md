@@ -1,0 +1,5 @@
+- https://github.com/deepdoctection/deepdoctection/
+- #Python 库，用于文档提取、文档版面分析。
+- 使用深度学习模型（ [[Deep Learning]]）；
+- 支持 [[OCR]] （通过 [[Tesseract OCR]] ）。
+-
