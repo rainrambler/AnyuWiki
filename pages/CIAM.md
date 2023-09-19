@@ -1,0 +1,5 @@
+- Customer Identity and Access Management
+- 传统的 [[IAM]] 是针对员工的。
+-
+- https://fusionauth.io/articles/ciam/ciam-vs-iam
+-
