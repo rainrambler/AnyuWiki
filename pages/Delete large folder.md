@@ -3,4 +3,5 @@
 - `cd ..`
 - `rmdir /q/s FOLDER-NAME`
 - https://pureinfotech.com/delete-large-folder-fast-windows-10/
+- 注意在“终端”可能抛出异常。在管理员启动的命令提示符可以。
 -
