@@ -1,0 +1,5 @@
+- Kexec is a part of the Linux Kernel which allows for booting a new Kernel from the current one
+- [[Linux]] [[Kernel]] 的一个功能，可以启动到另一个Kernel.
+- 参考：
+- [[Ptrace]]
+-
