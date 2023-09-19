@@ -1,0 +1,15 @@
+- EAL（Evaluation Assurance Level）是评估保障等级，是IT产品或系统在[[CC]]安全评估下的数字等级。
+-
+- 级别：
+	- EAL1 - functionally tested
+	- EAL2 - structurally tested
+	- EAL3 - methodically tested and checked
+	- EAL4 - methodically designed, tested, and reviewed
+	- EAL5 - semi-formally designed and tested
+	- EAL6 - semi-formally verified design and tested
+	- EAL7 - formally verified design and tested
+-
+- 关联标准：
+- [[ISO/IEC 15408]]
+- GB/T 18336-2015《信息技术 安全技术 信息技术安全评估准则》
+-
