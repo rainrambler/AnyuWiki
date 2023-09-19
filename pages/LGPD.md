@@ -1,0 +1,3 @@
+- 2018年8月14日，巴西总统批准了《巴西通用数据保护法》(Lei Geral de Proteção de Dados Pessoais，简称 “LGPD”)。
+- #GDPR #Privacy
+-
