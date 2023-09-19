@@ -7,7 +7,7 @@
 	- **仅显示最终结果**：SMPC 仅显示最终结果，在计算过程中不显示中间信息。与联邦学习（[[Federated Learning]],一种不从不同方收集数据而是传递模型参数的机器学习方法）相比，SMPC 提供了更高的安全级别。
 	- 与其他方法相比，**资源密集诉求更少**：与完全同态加密（[[FHE]],另一种允许对加密数据进行计算的加密方法）相比，SMPC 需要更少的计算能力。
 - 它的缺点是什么？
-	- **通信开销**：如上例所示，SMPC 方法需要各方之间进行通信，这会导致高昂的通信成本。
+	- **通信开销**：如上例所示，SMPC 方法需要各方之间进行通信，这会导致**高昂的通信成本**。
 	- **易受合谋攻击**：例如，第二个员工和第四个员工可以合谋通过从第三个到第四个发送的值中减去第二个到第三个发送的值来了解第三个员工的工资。
 - 需要注意的是，有一些技术可以解决这些问题，但它们通常会带来更高的计算成本。
 - 它的替代品是什么？
@@ -19,3 +19,6 @@
 		- 合成数据([[Synthetic data]])：合成数据是人工创建的数据，同时保留了真实数据的重要特征。
 		- 联邦学习([[Federated learning]])：联邦学习是一种机器学习方法，它使用多个本地数据集而不交换数据。
 - https://research.aimultiple.com/secure-multi-party-computation/
+-
+- [[Cybok]]:
+- Typically, SMC protocols build on tools like [[garbled circuit]]s, secret sharing, [[oblivious transfer]] (for a detailed overview of such tools, we refer the reader to securecomputation.org).
