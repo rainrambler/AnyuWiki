@@ -1,0 +1,5 @@
+- Makie is a modern plotting library for [Julia](https://julialang.org).
+- It is easy to use, fast and powerful.
+- #GUI #Julia
+- https://makie.org/
+-
