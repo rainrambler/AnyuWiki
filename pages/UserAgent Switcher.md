@@ -1,0 +1,4 @@
+- UserAgent-Switcher
+- 可以切换浏览器 User Agent的开源软件。
+- 有Agents清单。
+-
