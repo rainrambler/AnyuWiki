@@ -1,3 +1,8 @@
 - 流逝时间证明（[[PoET]]）是一种区块链([[Blockchain]])网络共识([[Consensus]])机制，可防止高资源利用率和能源消耗； 通过遵循公平的彩票系统，它可以提高流程的效率。
 - 该算法使用随机生成的经过时间来决定采矿权并阻止区块链网络上的获胜者。通过在安全环境中运行受信任的代码，PoET 算法还通过确保外部参与者可验证彩票结果来提高透明度。
 - https://www.investopedia.com/terms/p/proof-elapsed-time-cryptocurrency.asp
+- https://www.geeksforgeeks.org/proof-of-elapsed-time-poet-in-blockchain/
+- 参考：
+- [[Proof of work]]
+- [[Proof of stake]]
+-
