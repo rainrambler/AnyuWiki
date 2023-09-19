@@ -1,0 +1,3 @@
+- https://github.com/InternLM/InternLM
+- 基于 [[LLaMA]] 的大模型，支持中文。
+-
