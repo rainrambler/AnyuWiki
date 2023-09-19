@@ -1,3 +1,8 @@
-- 网站：
+- 原网站：
+- https://dumps.wikimedia.org/zhwikisource/20230901/
+- 镜像站：
 - https://wikimedia.bringyour.com/zhwikisource/
+	- （该镜像包含最近的5次备份）
 - 下载 [zhwikisource-20220920-pages-articles.xml.bz2](https://wikimedia.bringyour.com/zhwikisource/20220920/zhwikisource-20220920-pages-articles.xml.bz2) 文件（约2GB）。
+-
+-
