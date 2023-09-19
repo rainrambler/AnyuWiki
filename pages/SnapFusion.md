@@ -1,0 +1,4 @@
+- SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds
+- https://snap-research.github.io/SnapFusion/
+- #AIGC
+-
