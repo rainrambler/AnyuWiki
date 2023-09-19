@@ -1,0 +1,8 @@
+- https://facebook.github.io/zstd
+- https://github.com/facebook/zstd
+-
+- 一种无损压缩格式。
+-
+- #Go 移植：
+- https://github.com/datadog/zstd
+-
