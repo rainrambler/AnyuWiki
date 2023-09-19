@@ -1,0 +1,3 @@
+- https://github.com/bentoml/OpenLLM
+- An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any [[LLM]]s with ease.
+-
