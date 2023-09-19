@@ -1,0 +1,6 @@
+- https://huggingface.co/eachadea/vicuna-13b-1.1
+- 使用 [[LLaMA]]模型做基础，使用 [[ShareGPT]] 的会话调优。
+-
+- https://huggingface.co/TheBloke/Wizard-Vicuna-13B-Uncensored-GGML
+- [[ggml]] 格式的模型，用于 [[LLaMA]]
+-
