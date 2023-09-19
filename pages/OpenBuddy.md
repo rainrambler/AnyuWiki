@@ -1,0 +1,4 @@
+- https://github.com/OpenBuddy/OpenBuddy
+- 开源的多语言聊天机器人
+- 在 [[LLaMA]]基础上调优
+-
