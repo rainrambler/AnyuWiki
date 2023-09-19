@@ -1,0 +1,29 @@
+- CATEGORIES OF PERSONAL INFORMATION
+- 外在
+	- 识别
+	- 人种
+	- 性
+	- 行为
+	- 个性特征
+	- 医疗和健康
+	- 物理特征
+- 内在
+	- 知识和信仰(Knowledge and Belief)
+	- 认证凭据(Authenticating)
+	- 喜好(perference)
+- 历史
+	- 生活历史
+- 财务
+	- 账户
+	- 所有权
+	- 交易
+	- 信用
+- 社交
+	- 职业
+	- 犯罪
+	- 公众生活
+	- 家庭
+	- 社交网络
+	- 通信
+-
+- https://enterprivacy.com/wp-content/uploads/2017/03/Categories-of-personal-information_Press_letter5mm.pdf
