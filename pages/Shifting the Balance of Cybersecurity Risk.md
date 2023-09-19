@@ -1,4 +1,4 @@
 - https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf
-- 由 [[CISA]]、[[NCSC]]等联合发布的白皮书
+- 由 [[CISA]]、[[NCSC]]、FBI、NSA、[[ACSC]]、[[CCCS]]、[[BSI]]等联合发布的白皮书
 - 推动 [[Secure by design]]和 [[Secure by default]]。
 -
