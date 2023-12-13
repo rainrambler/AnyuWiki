@@ -1,0 +1,3 @@
+- Very Small Aperture Terminal
+- 直译为甚小口径卫星终端站
+-
