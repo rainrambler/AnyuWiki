@@ -1,0 +1,10 @@
+- **NMEA** 是National Marine Electronics Association的缩写，是美国国家海洋电子协会的简称，现在是[[GPS]]导航设备统一的[[RTCM]]标准协议。
+-
+- NMEA-2000 通信协议即插即用（[[IEC 61162]]-1），允许船载传感器与船载设备通信，并通过桥接系统（Bridge Systems）管理。
+-
+-
+- 船载系统的其他常见协议：
+	- [[Modbus]]
+	- [[Ethernet]]
+	- [[CAN Bus]]
+-
