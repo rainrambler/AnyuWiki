@@ -1,0 +1,26 @@
+- CLEAR VISIBILITY
+	- Full visibility and control over all connected devices
+	- Clear and easy view of [[IT]] & [[OT]] assets.
+	- Comprehensive monitoring online dashboard.
+- REAL-TIME DETECTION
+	- Built to safeguard your critical assets from maritime cyber piracy
+	- Real time detection and alerting from any unauthorized access
+	- Vulnerability Scanning
+	- Continuous monitoring and deep analysis of trillions of data points for cyber risk mitigation
+	- Critical system isolation and prevention of potential cyberattack
+- EFFICIENT COMPLIANCE TOOL
+	- Enhancing readiness to adhere to maritime cyber regulatory requirements under one platform
+	- Automated mapping and vulnerabilities scanning as under [[IMO 2021]] requirements - Cost efficient assessment procedure
+	- [[Cyber security]] status on board - easy demonstration for inspector
+- UNIQUE ADVANTAGES
+	- Highest monitoring capabilities -”Whole Ship Coverage”
+	- Both legacy & new digital assets
+	- Adaptable technology - integrates with everything
+	- Autonomous - no need for IT or cyber experts on board
+	- Crew friendly - Plug & Play
+- CENTRALIZED MARITIME FLEET MANAGEMENT
+	- Cydome solutions were built for fleet managers as a centralized fleet management solution that provides deeper visibility onboard each of the vessels, including full scope asset mapping and vulnerability scanning. Cydome also supports multi fleets management under the same centralized managed solution.
+- REMEDIATION COVERAGE
+	- Cydome solutions allow ship owners to clearly identify cyber threats in real-time along with providing a recommendation for remediation. Fleet managers can easily manage all opened vulnerabilities with a detailed remediation recommendation
+- https://cydome.io/cydome-evershield-cyber-protection/
+-
