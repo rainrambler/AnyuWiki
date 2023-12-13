@@ -1,0 +1,3 @@
+- https://sioyek.info/
+- Sioyek is a [[PDF]] viewer with a focus on technical books and research papers
+-
