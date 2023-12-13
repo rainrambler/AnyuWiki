@@ -1,0 +1,5 @@
+- https://source.android.com/docs/core/architecture/kernel/android-common#compatibility-matrix
+- [[Android]] 版本和 Linux Kernel的对应关系。
+- [[Android 14]] (2023): 对应 Kernel 6.1版本和5.15版本。
+- [[Android 13]] (2022): 对应 Kernel 5.15版本和5.10版本。
+-
