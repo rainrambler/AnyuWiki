@@ -1,0 +1,13 @@
+- Voyage Data Recorder
+- 根据2002年7月1日生效的2000年通过的条例，2002年7月1日或之后建造的客船和3 000总吨及以上的客船以外的船舶必须携带航行数据记录器，以协助事故调查。
+- 强制性条例载于1974年《国际海上人命安全公约》（[[SOLAS]]）关于航行安全的第五章。
+- 与飞机上携带的黑匣子一样，VDR 使事故调查人员能够在事故发生前立即审查程序和说明，并帮助确定任何事故的原因。
+- https://www.imo.org/en/OurWork/Safety/Pages/VDR.aspx
+-
+- 位置
+-
+- 导航分区（Navigation Zone)，与路径规划系统（Route Planning System）、防碰撞系统（Collision Avoidance System），[[ECDIS]]并列。
+	- A novel cyber-risk assessment method for ship systems
+	-
+- 归属Bridge Systems，与 [[GPS]]、 [[ECDIS]]、[[AIS]]、 [[GMDSS]]并列。
+	- The Guidelines on Cyber Security Onboard Ships Version 3
