@@ -1,0 +1,6 @@
+- https://www.ipfire.org/
+- [IPFire](https://www.ipfire.org/) is built on top of Netfilter and trusted by thousands of companies worldwide.
+- IPFire can be used as a **firewall**, **proxy server, **or **VPN gateway** – all depends on how you configure it. It got great customization flexibility.
+- **IDS** (intrusion detection system) is inbuilt, so attacks are detected and prevented from day one. And with the help of **Guardian** (optional add-on), you can implement automatic prevention.
+- You can get it started with IPFire in less than 30 minutes.
+-
