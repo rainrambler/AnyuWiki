@@ -1,0 +1,5 @@
+- next-generation firewall
+-
+- [CISCO](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-next-generation-firewall.html):
+- a next-generation firewall includes additional features like application awareness and control, integrated intrusion prevention ([[IPS]]), and cloud-delivered threat intelligence.
+-
