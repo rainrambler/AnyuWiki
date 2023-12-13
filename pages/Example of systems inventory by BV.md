@@ -1,0 +1,39 @@
+- Machinery systems
+	- Main Engine
+	- Auxiliary Engine
+	- Integrated automation system
+	- Engine Monitoring
+	- Steering gear
+	- Incinerator
+	- Oily bilge generator
+- Navigations systems
+	- [[AIS]]
+	- Doppler Radar
+	- [[ECDIS]]
+	- Echo sounder
+	- [[DGPS]]
+	- [[NavTex]]
+	- Radar
+	- [[VDR]]
+- Communication systems
+	- [[SATCOM]] 1
+	- SATCOM 2
+	- [[VHF]]
+	- Satellite phone
+	- Ship Security Alert system
+- Cargo Management Systems
+	- Cargo control
+	- Ballast water treatment
+	- Loading PC
+- Operation systems
+	- Gateway
+	- Domain Controller
+	- Safety management system
+	- Enterprise resource planning
+	- Emailing system
+- User systems
+	- Crew WiFi
+	- Passenger WiFi
+-
+- Ref: 659-NR_2023-01.pdf
+-
