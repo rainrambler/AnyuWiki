@@ -1,0 +1,4 @@
+- https://www.fastly.com/blog/enabling-privacy-on-the-internet-with-oblivious-http
+- https://www.fastly.com/blog/firefox-fastly-take-another-step-toward-security-upgrade
+- OHTTP 是一种规范和服务架构，工程师可以使用它通过将有关请求者的信息与正在发出的请求的信息分开，在双方之间实现更多的专用通信。
+-
