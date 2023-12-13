@@ -1,0 +1,4 @@
+- Tanker Management and Self-Assessment (TMSA)
+- https://maritimesafetyinnovationlab.org/wp-content/uploads/2018/12/Tanker-Management-Self-Assessment-LP-Briefing.pdf
+- https://www.rina.org/en/tmsa3
+-
