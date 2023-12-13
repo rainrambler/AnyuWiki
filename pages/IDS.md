@@ -1,2 +1,12 @@
-- 入侵检测系统（IDS；也称为入侵防御系统或 [[IPS]]）是一种设备或软件应用程序，用于监控网络或系统是否存在恶意活动或违反策略。
+- 入侵检测系统（Intrusion Detection System, IDS；也称为入侵防御系统或 [[IPS]]）是一种设备或软件应用程序，用于监控网络或系统是否存在恶意活动或违反策略。
 - 任何入侵活动或违规行为通常会报告给管理员或使用安全信息和事件管理 ([[SIEM]]) 系统集中收集。 SIEM 系统结合了来自多个来源的输出，并使用警报过滤技术来区分恶意活动和误报。
+- https://www.geeksforgeeks.org/intrusion-detection-system-ids/
+-
+- 部分观点认为，IDS IPS需要和 [[NGFW]]或者 [[MDR]] 联合使用。
+- https://www.sophos.com/en-us/products/next-gen-firewall
+-
+- 部分观点认为，IDS IPS涵盖在 [[NGFW]]的功能中。
+- https://www.juniper.net/cn/zh/research-topics/what-is-ids-ips.html
+-
+- https://www.ibm.com/cn-zh/topics/intrusion-prevention-system
+-
