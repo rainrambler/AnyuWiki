@@ -18,3 +18,5 @@
 - ![image.png](../assets/image_1648478707993_0.png)
 - #RSA
 - RSA2019/str-w12-the-fallacy-of-the-zero-trust-network
+- #ZeroTrust
+-
