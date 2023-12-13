@@ -1,0 +1,6 @@
+- 安全零配置部署（Secure Zero Touch Provisioning，SZTP），是指在[DHCP](https://info.support.huawei.com/info-finder/encyclopedia/zh/DHCP.html)方式的[ZTP](https://info.support.huawei.com/info-finder/encyclopedia/zh/ZTP.html)开局场景下，增加部署BootStrap服务器，使用双向认证和数据加密保证ZTP数据可信。设备空配置上电后，作为DHCP客户端通过DCHP服务器获取BootStrap服务器的IP地址或域名信息，然后通过预置证书与BootStrap服务器进行双向认证，建立HTTPS连接，从BootStrap服务器上获取开局的相关信息，从而实现安全的零配置部署。SZTP适用于对安全性要求比较高的场景，比如金融行业。
+-
+- [CISCO](https://blogs.cisco.com/developer/secureztp01)
+-
+- [[RFC 8572]]
+-
