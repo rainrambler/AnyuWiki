@@ -1,0 +1,2 @@
+- The CIA triad is a model designed to guide policies for information security within an organization. Ranked in order of priority, CIA stands for confidentiality, integrity, and availability.
+-
