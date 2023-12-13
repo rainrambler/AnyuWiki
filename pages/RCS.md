@@ -1,3 +1,7 @@
 - 由 [[GSMA]] 开发的富文本协议。
 - Rich Communication Suite
 -
+- 或：
+- Remote Control System
+- 远程控制系统
+-
