@@ -1,0 +1,8 @@
+- Satellite Communications
+- 卫星通信
+- 有时也指卫星通信的连接协议。
+- 类似协议：
+- [[GNSS]]
+- [[AIS]]
+- [[CAN Bus]]
+-
