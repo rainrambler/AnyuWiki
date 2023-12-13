@@ -1,0 +1,3 @@
+- https://avapls.com/
+- 本地运行 [[LLM]] 的GUI界面。类似 [[GPT4ALL]]。
+-
