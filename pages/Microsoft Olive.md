@@ -1,0 +1,3 @@
+- Microsoft Olive是一个[[Python]]工具，可用于转换、优化、量化和自动调整模型，以通过[[DirectML]]等[[ONNX]] Runtime执行提供程序获得最佳推理性能。Olive通过提供单一的工具链来组合优化技术，极大地简化了模型处理，这对于像[[Stable Diffusion]]这样对优化技术排序敏感的更复杂的模型尤其重要。
+- https://github.com/microsoft/OLive
+-
