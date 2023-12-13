@@ -1,0 +1,7 @@
+- By contrast, the OT benchmark is CAIC, which stands for control, availability, integrity, and confidentiality. Although [[OT]] cares about the same security properties, they’re ranked in a different order, with safety forever being the top priority.
+- In the CAIC model, availability is more important than confidentiality because of the nature of processes and the impact that shutting down and restarting systems can have on productivity. Control refers to the ability to control a process and change a state when needed in a safe and secure manner. Since it can impact people, safety, and assets, it will have the highest priority when considering the attack surface of any system.
+- https://www.missionsecure.com/maritime-security-perspectives-for-a-comprehensive-approach
+-
+- Ref:
+- [[CIA]]
+-
