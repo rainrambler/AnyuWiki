@@ -1,0 +1,11 @@
+- https://www.stamus-networks.com/selks
+- [[IDS]] / [[IPS]] 开源工具
+- ![image.png](../assets/image_1699975249152_0.png)
+-
+- 集成了：
+- [[Suricata]] - Ready to use Suricata
+- [[Elasticsearch]] - Search engine
+- [[Logstash]] - Log injection
+- [[Kibana]] - Custom dashboards and event exploration
+- Stamus Community Edition - Suricata ruleset management and threat hunting user interface
+-
