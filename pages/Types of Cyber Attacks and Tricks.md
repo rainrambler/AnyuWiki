@@ -1,0 +1,16 @@
+- There are two general types of cyber attacks that can affect a marine company or a ship — untargeted attacks and targeted attacks:
+	- **Untargeted** attacks look for potential cyber weak spots in multiple companies or ships.
+	- **Targeted** attacks are directed toward a specific company or ship and can be harder to deter.
+- Both of these attacks may use techniques used commonly across the internet to discover and exploit weaknesses in a maritime company or a ship.
+- The following are examples of cyber attack techniques:
+- **Malware**: A general term for harmful software designed to damage a computer system without the knowledge of the owner. Some of the common types and names for malware include spyware, viruses, worms and trojans. [[Malware]] can target bugs in your system and use them to establish itself. Malware is often acquired through links in emails and untrustworthy websites.
+- **Phishing**: When cybercriminals target a mass number of people with a generalized message, they’re hoping to get a response they can then use to hack your system or gain valuable information. This usually happens through email, and they request some action, like following or link or sending data.
+- **Water Holing**: This technique involves establishing a fake website or one that pretends to be another website in an attempt to get users to give up information.
+- **Social Engineering**: Sometimes cybercriminals will attempt to contact and influence people to break protocol or give up information that could be used to harm their company through social media.
+- [[Brute Force]]: Criminals can use programs that attempt to systematically guess your password, which may work if passwords are simple.
+- [[Denial of Service]]: This technique floods a network with data, which prevents legitimate users from accessing the programs they need. These attacks can take control of many computers at once and infect entire servers.
+- [[Spear-phishing]]: This type of targeted attack is like phishing, except it’s aimed at a person or company. It’s often harder to spot than traditional phishing and attempts to gain information by using personalized email requests or offering links that infect your system.
+- **Subverting the Supply Chain**: Sometimes cybercriminals will attempt to compromise electronic systems before they reach a company or ship.
+- **Impersonation**: Sometimes, criminals will go so far as to impersonate an employee or inspector to gain access to your vessel or company’s systems to obtain valuable information.
+- The techniques described above are just some of the many ways cybercriminals may attack your ship or company’s systems. These techniques are continually evolving, and it’s important to know how to recognize attempts to break into your systems by being able to identify when something is out of the ordinary.
+- https://www.mitags.org/guide-ship-cybersecurity/
