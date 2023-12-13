@@ -1,0 +1,6 @@
+- 船间通信
+- 全球海上遇险与安全系统（global maritime distress and safety system，GMDSS）由卫星通信系统和地面无线电通信系统组成。
+- 其他类似系统：
+- [[AIS]]: Automatic Identification System
+- [[VHF]]
+-
