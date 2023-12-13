@@ -1,0 +1,48 @@
+- Intrusion Prevention System
+-
+- Palo Alto:
+- There are several types of IPS solutions, which can be deployed for different purposes. These include:
+- **Network based intrusion prevention system ([[NIPS]])**, which is installed at strategic points to monitor all network traffic and scan for threats.
+- **Host intrusion prevention system ([[HIPS]])**, which is installed on an endpoint and looks at inbound/outbound traffic from that machine only. Often combined with [[NIPS]], an HIPS serves as a last line of defense for threats.
+- **Network behavior analysis ([[NBA]])** analyzes network traffic to detect unusual traffic flows and spot new malware or zero-day vulnerabilities.
+- **Wireless intrusion prevention system ([[WIPS]])** scans a Wi-Fi network for unauthorized access and removes any unauthorized devices.
+-
+- 常用技术:
+- **Signature-based detection** is a detection method based on a dictionary of uniquely identifiable patterns (or signatures) in the code of each exploit. As an exploit is discovered, its signature is recorded and stored in a continuously growing dictionary of signatures.
+	- Exploit-facing signatures identify individual exploits by triggering on the unique patterns of a particular exploit attempt. The IPS can identify specific exploits by finding a match with an exploit-facing signature in the traffic stream.
+	- Vulnerability-facing signatures are broader signatures that target the underlying vulnerability in the system that is being targeted. These signatures allow networks to be protected from unidentified. They also raise the risk of false positives.
+- **Anomaly-based detection** takes samples of network traffic at random and compares them to a pre-calculated baseline performance level. When the traffic activity is outside the parameters of baseline performance, the IPS takes action.
+- **Policy-based detection** requires system administrators to configure security policies based on an organization’s security policies and network infrastructure. If any activity occurs that breaks a defined security policy, an alert is triggered and sent to the admins.
+- https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-prevention-system-ips
+-
+- 典型功能
+- **IPS vulnerability protection**
+	- Application vulnerabilities are a common initial step in the attack lifecycle for breaches, infections, and [[Ransomware]] . While the number of vulnerabilities reported continues to increase every year, it only takes one vulnerability for adversaries to gain access to an organization.
+	- Critical vulnerabilities in applications, such as [[Apache Struts]], Drupal, remote access, VPN, Microsoft Exchange, Microsoft SMB, OS, browsers, and IoT systems, continue to be the top attempted exploited vulnerabilities against organizations.
+	- Vulnerability exploitation and [[RDP]] compromise are two primary ways adversaries gain access to businesses and launch ransomware attacks. This makes vulnerability protection an essential part of security.
+- **Antimalware protection**
+	- A stream-based scanning engine detects known malware and its unknown variations, and then blocks them inline at high speeds. IPS and antimalware protection address multiple threat vectors with one service. This is a convenient alternative to purchasing and maintaining separate IPS products from legacy vendors.
+- **Comprehensive command-and-control protection**
+	- After initial infection, attackers communicate with the host machine through a covert C2 channel. The C2 channel is used to pull down additional malware, issue further instructions, and steal data.
+	- With the increasing use of tool sets like Cobalt Strike and encrypted or obfuscated traffic, it is easier for attackers to create completely customizable command-and-control channels. These channels cannot be stopped with traditional signature-based approaches.
+	- Therefore, it is essential that IPS solutions include capabilities to block and prevent unknown C2 inline. IPS solutions should also detect and stop outbound C2 communications from systems that may have been compromised by:
+		- Known malware families
+		- Web shells
+		- Remote access Trojans
+- **Automated security actions**
+	- Security operations teams should be able to quickly act, quarantine, and effect policy to control potential infections. This includes stronger security policies and controls, such as automatic multi-factor authentication.
+- **Broad visibility and granular control**
+	- Incident response teams benefit from being able to immediately determine which systems are under attack and which users are potentially infected. This is far more efficient than guessing based on IP addresses. Giving policy control over applications and users to IT and security staff vastly simplifies network security policy creation and management.
+- **Consistent, simplified policy management**
+	- For comprehensive protection, modern distributed networks need consistent policies across the:
+		- Corporate perimeter
+		- Data center
+		- Public and private clouds
+		- SaaS applications
+		- Remote users.
+- **Automated threat intelligence**
+	- Generating and consuming high-quality threat intelligence is important, but automatically turning that intelligence into protection is a necessity. Modern IPS must be able to automatically take advantage of threat intelligence to keep up with the speed of attacks.
+-
+- 当 IPS 检测到威胁时，它通常通过安全信息和事件管理 ([[SIEM]]) 工具记录事件并将其报告给 [[SOC]]。
+- https://www.ibm.com/cn-zh/topics/intrusion-prevention-system
+-
