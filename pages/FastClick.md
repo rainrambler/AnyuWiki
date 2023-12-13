@@ -1,0 +1,3 @@
+- FastClick 是 Click 模块化路由器的扩展版本，具有改进的 [[Netmap]] 支持和新的 [[DPDK]] 支持。这是我们在 http://hdl.handle.net/2268/181954 上提供的 ANCS 论文的结果，但从那时起收到了多项贡献和改进，例如 [[MiddleClick]] 的流支持、[[PacketMill]] 的专用二进制文件、[[RSS]] 的精确服务器内负载平衡以及多年来的更多个人贡献。
+- https://github.com/tbarbette/fastclick
+-
