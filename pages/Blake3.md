@@ -1,0 +1,5 @@
+- https://github.com/BLAKE3-team/BLAKE3
+- **Much faster** than [[MD5]], SHA-1, SHA-2, [[SHA-3]], and [[BLAKE2]].
+-
+- Reasons to prefer blake3 over [[sha256]]
+- https://peergos.org/posts/blake3
