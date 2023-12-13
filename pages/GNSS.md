@@ -1,0 +1,3 @@
+- Global Navigation Satellites Systems
+- 现代轮船都会安装GNSS系统。从 MEO 卫星接受射频信号。
+-
