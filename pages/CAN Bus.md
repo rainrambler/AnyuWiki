@@ -1,0 +1,4 @@
+- Controlled Area Network
+- 舵机(Steering)和告警系统的常见协议。
+- 与 [[NMEA]]-2000兼容。
+-
