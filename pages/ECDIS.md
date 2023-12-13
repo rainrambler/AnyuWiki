@@ -1,0 +1,12 @@
+- Electronic Chart Display and Information System
+- 电子海图显示与信息系统
+- “监控系统”
+- 一般会和 [[EDR]] 系统对接。
+-
+- 其他船载系统：
+- [[AIS]]
+- [[VDR]]
+- [[GMDSS]]
+- [[BNWAS]]
+- [[SATCOM]]
+-
