@@ -1,0 +1,7 @@
+- Policy-based control for [[cloud native]] environments
+- Flexible, fine-grained control for administrators across the stack
+- https://www.openpolicyagent.org/
+-
+- See:
+- [[istio]]
+-
