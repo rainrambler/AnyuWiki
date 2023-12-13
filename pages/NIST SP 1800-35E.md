@@ -1,0 +1,4 @@
+- [[NIST]] Implementing a [[Zero Trust]] Architecture
+- 给出了 [[ZTA]] 各个功能与 [[NIST Cybersecurity Framework]] 各个子类别的映射关系。
+- 以及与 [[SP 800-53]] 、[[EO 14028]]的映射。
+-
