@@ -2,3 +2,5 @@
 -
 - 解决 `no such tool` 问题：
 	- 编辑 `liteenv\win64-user.env` 文件。修改 `GOROOT=c:\go`
+	- `liteide\share\liteide\liteenv\win64-user.env`
+-
