@@ -1,0 +1,6 @@
+- **简单网络管理协议**（SNMP，Simple Network Management Protocol）
+- IETF RFC系列。
+- 应用层协议。
+- 同层还有HTTP, FTP, DHCP, BGP, [[MQTT]], NTP, SMTP。
+- https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
+-
