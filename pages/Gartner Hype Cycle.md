@@ -1,0 +1,8 @@
+- [[Gartner]] 针对新技术的成熟度曲线
+-
+- 触发（蓬勃发展）
+- 人们的期望达到顶点
+- 衰落到低谷期
+- 逐渐爬升
+-
+- ![img](../assets/gartner_hyper_cycle.png)
