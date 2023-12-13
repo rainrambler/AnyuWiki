@@ -1,0 +1,27 @@
+- ACC: Air Condition Control, 空调冷凝机
+- AIS: 船舶自动识别系统
+- AP: Auto Pilot，自动驾驶，自动舵
+- AMS: **A**larm and **M**onitoring **S**ystem, 报警和监控系统
+- CCR: Central Control Room
+- ECC: Engine Room Control Console 机舱集控台
+- [[ECDIS]]: 电子海图显示与信息系统
+- ECR: Engine Control Room
+- ECS: Engine Control System, 引擎控制系统
+- EMS:
+- ERF: E R Ventilation Fan，机舱风机
+- [[GMDSS]]: 全球海上遇险与安全系统
+- HTB: Hydraulic Top Bracing，液压顶撑
+- MSB: Main Switchboard, 主配电板
+- OMD: Oil Mist Detector, 油雾浓度探测
+- OWS: Oil Water Separator, 油水分离器
+- PMI:
+- RCS: Remote Control System，远程控制系统
+- SG: Steering Gear，舵机
+- SHG:
+- SRD: S-Band Radar
+- TCM:
+- VFD:
+- [[VHF]]: 甚高频通信
+- [[VSAT]]: 甚小口径卫星终端站
+- WFR: Weather Facsimile Receiver，气象传真机
+- XRD: X-Band Radar
