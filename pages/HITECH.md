@@ -1,0 +1,3 @@
+- Health Information Technology for Economic and Clinical Health (HITECH) act
+- #Law
+-
