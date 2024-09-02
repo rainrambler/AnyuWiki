@@ -1,0 +1,3 @@
+- ArtBot is your gateway to experiment with the wonderful world of generative AI ([[AIGC]]) art using the power of the AI Horde, a distributed open source network of GPUs running [[Stable Diffusion]].
+- https://tinybots.net/artbot
+-
