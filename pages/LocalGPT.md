@@ -1,0 +1,3 @@
+- https://github.com/PromtEngineer/localGPT
+- 类似于 [[privateGPT]] 的本地文档 [[LLM]]。
+-
