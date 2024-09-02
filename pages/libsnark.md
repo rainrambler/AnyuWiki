@@ -1,0 +1,3 @@
+- https://github.com/scipr-lab/libsnark
+- **libsnark** 是目前实现 zk-SNARKs 电路最重要的框架
+-
