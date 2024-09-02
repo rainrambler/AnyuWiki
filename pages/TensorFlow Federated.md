@@ -1,0 +1,3 @@
+- [[TensorFlow]] Federated (TFF) is an open-source framework for [[machine learning]] and other computations on decentralized data.
+- https://github.com/tensorflow/federated
+-
