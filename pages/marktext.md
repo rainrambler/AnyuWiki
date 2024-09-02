@@ -1,3 +1,5 @@
 - [[Markdown]] editor
 - Mark Text的功能与Typora基本一致，支持Markdown的实时渲染，能够把原有的Typora编辑的文档导入Mark Text，平滑过度没有软件使用的障碍。
+- 界面特别简约，支持单文档打开，不支持目录。
+-
 - https://github.com/marktext/marktext
