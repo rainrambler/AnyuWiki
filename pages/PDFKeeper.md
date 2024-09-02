@@ -1,0 +1,8 @@
+- https://github.com/rffrasca/PDFKeeper
+- [[PDF]] 的文档管理开源软件
+- 导入 PDF 要手工填写文档名称、作者等信息。
+-
+-
+- Ref:
+- [[Zotero]]
+-
