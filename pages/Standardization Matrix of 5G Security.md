@@ -1,0 +1,26 @@
+- General
+	- [[3GPP]] TS 33.805 (Definition)
+	- [[GSMA]] FS.40
+	- [[NIST]] SE5G (Common Reqs, use cases)
+	- ITU-T X.5sec-guide (Guideline)
+	- NIST SP 1800-33A (Guideline)
+	- [[ENISA]] Threat, Threat2
+- Core Network
+	- 3GPP
+	- [[NGMN]] NCE
+- RAN
+	- 3GPP
+- Network infra
+	- 3GPP TR 33.848
+	- ENISA Virtual
+- [[SDN]]
+	- [[IEEE]] P1915.1
+	- ITU-T X.1038
+- [[NFV]]
+	- ETSI GS-NFV-SEC
+	- ITU-T X.1044
+- Roaming
+	- ENISA Signal
+-
+- https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-ICTS-2022-2-PDF-E.pdf
+-
