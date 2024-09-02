@@ -3,3 +3,6 @@
 - Python 代码
 - 使用 [[LangChain]], [[GPT4ALL]], [[LLaMA]]等。
 -
+- Ref:
+- [[OnPrem LLM]]
+-
