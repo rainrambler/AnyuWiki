@@ -1,0 +1,5 @@
+- https://comfyuiweb.com/
+- [[Stable Diffusion]] is a cutting-edge [[deep learning]] model capable of generating realistic images and art from text descriptions.
+- ComfyUI is a web-based Stable Diffusion interface optimized for workflow customization.
+- #AIGC
+-
