@@ -1,0 +1,3 @@
+- We present gigaGPT – the simplest implementation for training large language models with tens or hundreds of billions of parameters. This work was inspired by Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT/tree/master).
+- https://github.com/Cerebras/gigaGPT
+-
