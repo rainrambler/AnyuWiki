@@ -1,0 +1,11 @@
+- https://github.com/SigNoz/signoz/
+-
+- SigNoz 帮助开发人员监控应用并排查已部署应用的问题。你可以使用 SigNoz 实现如下能力:
+- 👉 在同一块面板上，可视化 Metrics, Traces 和 Logs 内容。
+- 👉 你可以关注服务的 p99 延迟和错误率， 包括外部 API 调用和个别的端点。
+- 👉 你可以找到问题的根因，通过提取相关问题的 traces 日志、单独查看请求 traces 的火焰图详情。
+- 👉 执行 trace 数据聚合，以获取业务相关的 metrics
+- 👉 对日志过滤和查询，通过日志的属性建立看板和告警
+-
+- Github 19K stars
+-

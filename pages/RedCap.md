@@ -1,0 +1,6 @@
+- reduced capability (RedCap) NR
+- https://www.ericsson.com/en/blog/2021/2/reduced-cap-nr
+- 5G 物联网应用场景之一。
+- 在 [[3GPP]] R17 定义。
+-
+- ![redcap](./assets/redcap.jpg)

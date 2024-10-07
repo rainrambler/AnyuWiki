@@ -1,0 +1,4 @@
+- 一个与 [[UUID]] 类似的实现。128 bit 字符串。前48bit是时间戳，后面80bit是随机数。
+- https://github.com/ulid/spec
+- Universally Unique Lexicographically Sortable Identifier
+-

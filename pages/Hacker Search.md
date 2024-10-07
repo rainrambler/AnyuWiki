@@ -1,0 +1,3 @@
+- Hacker Search is a semantic search engine built on top of the [[Hacker News]] dataset. Use it to find high signal takes on topics you care about.
+- https://hackersearch.net/
+-

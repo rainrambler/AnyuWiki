@@ -1,0 +1,5 @@
+- Opinion 05/2014 on Anonymisation Techniques (ARTICLE 29 DATA PROTECTION WORKING PARTY)
+- L-diversity extends [[k-anonymity]] to ensure that [[deterministic inference attack]]s are no longer possible by making sure that in each [[equivalence class]] every attribute has at least l different values.
+- L-diversity is useful to protect data against [[inference attack]]s when the values of attributes are well distributed. It has to be highlighted, however, that this technique cannot prevent the leakage of information if the attributes within a partition are unevenly distributed or belong to a small range of values or semantic meanings. In the end, l-diversity is subject to probabilistic inference attacks.
+	- wp216_en.pdf
+-

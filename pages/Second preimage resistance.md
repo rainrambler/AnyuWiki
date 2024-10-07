@@ -1,0 +1,5 @@
+- Given an input m1 it should be difficult to find another input m2 - where `m1 != m2` - such that `hash(m1) = hash(m2)`
+-
+- See:
+- [[Preimage resistance]]
+-

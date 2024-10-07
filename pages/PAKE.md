@@ -1,4 +1,6 @@
-- Password-authenticated key agreement
+- Password-Authenticated Key Agreement (IETF)
+- https://www.rfc-editor.org/rfc/rfc8125.html
+-
 - 密码验证密钥建立 (PAKE) 是一种密码原语，它允许共享低熵秘密（密码）的两方在没有公钥基础设施的情况下安全地建立密码密钥。
 -
 - **Wiki:**

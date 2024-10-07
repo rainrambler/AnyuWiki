@@ -1,0 +1,8 @@
+- [[Ubuntu]] 中的 Linux 内核提供了一个名为 [[netfilter]] 的数据包过滤系统，用于操作 netfilter 的传统接口是 [[iptables]] 命令套件。iptables 提供了一个完整的防火墙解决方案，既高度可配置又高度灵活。
+- 精通 iptables 需要时间，而仅使用 iptables 开始使用 netfilter 防火墙可能是一项艰巨的任务。因此，多年来已经创建了许多 iptables 前端，每个前端都试图实现不同的结果并针对不同的受众。
+- Unsimple Firewall （ufw） 是 iptables 的前端，特别适合基于主机的防火墙。UFW 提供了用于管理 NetFilter 的框架，以及用于操作防火墙的命令行界面。UFW 旨在为不熟悉防火墙概念的人提供一个易于使用的界面，同时简化复杂的 iptables 命令，以帮助管理员知道自己在做什么。UFW 是其他发行版和图形前端的上游。
+- https://wiki.ubuntu.com/UncomplicatedFirewall
+-
+- Other Ref:
+- https://www.zenarmor.com/docs/network-security-tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu （比较详细的安装步骤指导）
+-

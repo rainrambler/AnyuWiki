@@ -1,5 +1,9 @@
 - https://github.com/zadam/trilium
 - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
+- 易用性比较差。从 [[logseq]] 导出的链接没有效果。
+-
 - 类似的：
 - [[Obsidian]]
+- [[notesnook]]
+- [[cherrytree]]
 -

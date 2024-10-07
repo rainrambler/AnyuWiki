@@ -1,0 +1,14 @@
+- **OpenSnitch** is a GNU/Linux application firewall.
+- https://github.com/evilsocket/opensnitch
+-
+- ## Key features
+  [](https://github.com/evilsocket/opensnitch#key-features)
+- Interactive outbound connections filtering.
+- [Block ads, trackers or malware domains](https://github.com/evilsocket/opensnitch/wiki/block-lists) system wide.
+- Ability to [configure system firewall](https://github.com/evilsocket/opensnitch/wiki/System-rules) from the GUI (nftables).
+	- Configure input policy, allow inbound services, etc.
+- Manage [multiple nodes](https://github.com/evilsocket/opensnitch/wiki/Nodes) from a centralized GUI.
+- [SIEM integration](https://github.com/evilsocket/opensnitch/wiki/SIEM-integration)
+-
+- See: [[Open Source Firewall]]
+-

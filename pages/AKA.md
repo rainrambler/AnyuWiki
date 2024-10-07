@@ -1,0 +1,3 @@
+- Authentication and Key Agreement
+- https://www.ericsson.com/en/blog/2021/9/authentication-and-key-agreements
+-

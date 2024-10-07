@@ -1,0 +1,10 @@
+- ![image.png](../assets/image_1718600086925_0.png)
+- [[Telepresence]]
+- 机器人
+- 数字孪生 ([[Digital Twin]])
+- 可持续性
+- 韧性
+- 信任（可信）
+-
+- Ref:
+- TOWARDS SUSTAINABLE AND TRUSTWORTHY 6G

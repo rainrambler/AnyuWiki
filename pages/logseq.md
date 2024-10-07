@@ -1,0 +1,5 @@
+- https://logseq.com/
+- 类似：
+- [[Obsidian]]
+- [[Trilium Notes]]
+-

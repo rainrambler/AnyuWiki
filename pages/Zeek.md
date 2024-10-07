@@ -1,0 +1,17 @@
+- https://zeek.org
+- 开源的 [[IDS]], [[IPS]] 工具
+-
+- 主要场景：
+- 从网络抓取数据包；
+- 通过Event Engine过滤，生成事件；
+- 将事件传递到自定义的 Policy Script Interpreter，形成日志或者通知。
+-
+- [[CSOOnline]]:
+	- Zeek: 前身是 Bro, 网络监控工具。可以用于流量分析。
+	- 具备策略引擎。
+	- 不依赖传统签名。
+	-
+	- 对比：
+	- [[Snort]]：最早的开源 [[IDS]]。没有真正的 GUI。
+	- [[OSSEC]]：基于主机的IDS（[[HIDS]]）。日志分析、FIM、注册表监控、集中策略实施，rootkit 检测，实时警报、主动响应。安装程序轻量级。
+	- [[Suricata]]：网络威胁检测引擎。

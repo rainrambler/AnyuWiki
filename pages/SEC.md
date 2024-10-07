@@ -1,0 +1,3 @@
+- Securities and Exchange Commission
+- https://www.investopedia.com/terms/s/sec.asp
+-

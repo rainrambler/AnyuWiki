@@ -1,6 +1,16 @@
 - https://www.ipfire.org/
-- [IPFire](https://www.ipfire.org/) is built on top of Netfilter and trusted by thousands of companies worldwide.
+- [IPFire](https://www.ipfire.org/) is built on top of [[Netfilter]] and trusted by thousands of companies worldwide.
 - IPFire can be used as a **firewall**, **proxy server, **or **VPN gateway** – all depends on how you configure it. It got great customization flexibility.
 - **IDS** (intrusion detection system) is inbuilt, so attacks are detected and prevented from day one. And with the help of **Guardian** (optional add-on), you can implement automatic prevention.
 - You can get it started with IPFire in less than 30 minutes.
+-
+- 基于 [[Debian]] .
+- 需要双网卡。分别为内网和外网。
+- 支持 X64 和 ARM 64.
+- IPFire采用了基于IPtables的SPI（状态数据包检查）防火墙，这是流行的Linux防火墙。
+- IPFire整合了不同类型的 VPN，包括[[IPsec]] VPN和[[OpenVPN]]
+- https://itigic.com/zh-CN/ipfire-installation-and-configuration-linux-firewall-for-business/
+-
+- 支持与 [[Suricata]] [[IPS]] 的集成。
+- https://www.ipfire.org/docs/configuration/firewall/ips
 -

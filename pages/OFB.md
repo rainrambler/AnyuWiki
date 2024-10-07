@@ -1,0 +1,2 @@
+- [Output Feedback Mode](https://de.wikipedia.org/wiki/Output_Feedback_Mode)
+-

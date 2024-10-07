@@ -1,0 +1,5 @@
+- https://www.hyperledger.org/projects/aries
+- 分布式身份和数字信任解决方案
+-
+- 为客户端提供共享的密码学钱包，由 Sovrin、C3I 和 Evernym 等公司发起支持，2019 年 5 月正式贡献到社区；
+-

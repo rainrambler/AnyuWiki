@@ -1,0 +1,5 @@
+- 论文《匹诺曹：几乎实用的可验证计算》[117]问世。Pinocchio（匹诺曹）是一个“可在仅依赖密码学假设的情况下有效地验证常规计算（的构建系统）”。该论文中定义并详细介绍了构建特定的零知识简洁非交互式知识论证（Zero-Knowledge Succinct Non-interactive Arguments of Knowledge，[[zkSNARK]]）的所有元素，认为其“几乎实用”。
+- https://eprint.iacr.org/2013/279.pdf
+- https://www.zeroknowledgeblog.com/index.php/the-pinocchio-protocol
+- https://crypto.stackexchange.com/questions/43767/zero-knowledge-problem-of-pinocchio-verifiable-computation
+-

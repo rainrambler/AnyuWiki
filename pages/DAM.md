@@ -1,0 +1,4 @@
+- Database Activity Monitoring (DAM)
+- Database activity monitoring (DAM) refers to a suite of tools that can be used to support the ability to identify and report on fraudulent, illegal or other undesirable behavior, with minimal impact on user operations and productivity. The tools, which have evolved from basic analysis of user activity in and around relational database management systems (RDBMSs) to encompass a more comprehensive set of capabilities, such as discovery and classification, vulnerability management, application-level analysis, intrusion prevention, support for unstructured data security, identity and access management integration, and risk management support.
+- See also [[MDM]] – master data management
+- https://www.gartner.com/en/information-technology/glossary/database-activity-monitoring-dam

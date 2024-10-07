@@ -1,0 +1,5 @@
+- A Survey on Privacy for #B5G / #6G: New #Privacy Goals, Challenges, and Research Directions
+- Arxiv 2203.04264
+- #Papers
+- 对 B5G 6G的应用场景，[[Network 2030]]等介绍非常全面。
+-

@@ -1,0 +1,6 @@
+- CA
+- CO
+- CT
+- UT
+- VA
+- https://sherwood.news/tech/how-to-opt-out-of-the-privacy-nightmare-that-comes-factory-installed-in-new/

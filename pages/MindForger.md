@@ -1,0 +1,8 @@
+- https://www.mindforger.com/
+- 综合思维导图、GTD、知识库的工具
+- Windows 下面，对4K屏幕支持不太好，字体偏小。
+- 使用 QT 开发。深色界面。
+-
+- 类似软件：
+- [[Obsidian]]
+-

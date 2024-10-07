@@ -1,0 +1,3 @@
+- Multi-Level Security
+- https://www.ibm.com/docs/en/informix-servers/14.10?topic=data-label-based-access-control
+-

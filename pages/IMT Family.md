@@ -1,0 +1,7 @@
+-
+- FTT
+	- ITU R M.2320 (5G)
+	- ITU-R M.2516 (6G)
+-
+- ![image.png](../assets/image_1725721882506_0.png)
+-

@@ -1,0 +1,5 @@
+- https://github.com/hinterdupfinger/obsidian-ollama
+- This is a plugin for [Obsidian](https://obsidian.md) that allows you to use [Ollama](https://ollama.ai) within your notes.
+- [[Obsidian]]
+- [[OLlama]]
+-

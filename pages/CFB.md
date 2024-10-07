@@ -1,0 +1,8 @@
+- Cipher Feedback Mode
+- 在这种模式下，密码作为反馈提供给下一个加密块，并具有一些新的规范：首先，初始向量 IV 用于第一个加密，输出位被划分为一组 s 位和 b-s 位。左侧的 s 位与应用异或运算的纯文本位一起被选中。结果作为移位寄存器的输入给出，该移位寄存器具有 b-s 位到 lhs，s 位到 rhs，并且该过程继续。相同的加密和解密过程如下所示，它们都使用加密算法。
+- https://www.geeksforgeeks.org/block-cipher-modes-of-operation/
+-
+- See:
+- [[ECB]]
+- [[OFB]]
+-

@@ -1,0 +1,6 @@
+- #Papers
+- 讨论了6G的需求、架构和应用场景。
+- 针对每个场景给出威胁分析。
+- 潜在候选技术：
+- [[DLT]]
+- [[Physical Layer Security]]

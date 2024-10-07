@@ -1,0 +1,7 @@
+- https://syncbricks.com/top-5-best-free-ngfw-firewall/
+- 官网已经切换到商用产品。不开源。
+-
+- 参考：
+- [[pfSense]]
+- [[Endian Firewall]]
+-

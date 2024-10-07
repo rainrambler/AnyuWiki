@@ -5,3 +5,9 @@
 - 据称，RASP技术通过监控软件的输入，并阻止那些可能允许攻击的输入，同时保护运行环境不受不必要的改变和篡改，来提高软件的安全性。
 - 受RASP保护的应用程序较少依赖防火墙等外部设备来提供运行时安全保护。当检测到威胁时，RASP可以防止利用，并可能采取其他行动，包括终止用户会话、关闭应用程序、提醒安全人员并向用户发出警告。
 - RASP旨在填补应用安全测试和网络周边控制留下的空白，它们都没有足够的洞察力来了解实时数据和事件流，以防止漏洞通过审查过程或阻止开发过程中未预见的新威胁。
+-
+- **Runtime Application Self-Protection (RASP)**:
+- **Capabilities**: Monitors and protects applications in real-time, detecting and responding to security threats as they occur.
+- **Tools**: Examples include [[Veracode Runtime Protection]] and F5 Advanced [[WAF]] with RASP.
+- https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md
+-

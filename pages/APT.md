@@ -1,0 +1,3 @@
+- Advanced Persistent Threat
+- https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/
+-

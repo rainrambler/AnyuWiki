@@ -1,0 +1,11 @@
+- https://shorewall.org/
+- 基于 [[iptables]] 提供本机防火墙方案。提供 [[RPM]] 包格式。
+-
+- 比 [[UFW]] 和 [[IPCop]] 更难用（官网）。
+- https://shorewall.org/Introduction.html
+-
+- 双网卡路由器或者防火墙部署方案：
+- https://shorewall.org/two-interface.htm
+-
+- 2019年最后发布。
+-

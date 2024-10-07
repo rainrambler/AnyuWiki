@@ -1,0 +1,10 @@
+- Nokia Bell
+	- https://www.bell-labs.com/research-innovation/what-is-6g/6g-technologies/
+	- Spectrum technologies 光谱技术
+	- AI-native air interface 本地AI空口
+	- Network as a sensor 网络即传感器
+	- Extreme connectivity 极致连接
+	- Cognitive, automated & specialized architectures 认知、自动化和专业化架构
+	- Security, trust and privacy 安全、可信和隐私
+-
+-

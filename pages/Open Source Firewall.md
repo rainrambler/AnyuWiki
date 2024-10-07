@@ -1,0 +1,29 @@
+- https://github.com/topics/firewall
+- 按照星星数量排序：
+- FRP
+- NPS
+- Teleport
+- [[OpenSnitch]]
+- PortMaster
+- SafeLine
+- Rathole
+- [[FireZone]]
+- [[OpenGFW]]
+- [[SimpleWall]]
+- [[pfSense]]
+- [[OPNSense]]
+-
+- https://cybersecuritynews.com/best-open-source-firewall/
+- Perimeter 81: 已经被收购
+- [[pfSense]]
+- Untangle Firewall
+- [[OPNsense]] Firewall
+- [[Endian Firewall]]
+- [[IPFire]]
+- [[IPCop]]
+- [[Shorewall]]：[[iptables]] 的易用性方案
+- [[Smoothwall]]
+-
+- 其他：
+- https://em360tech.com/top-10/open-source-firewalls
+-

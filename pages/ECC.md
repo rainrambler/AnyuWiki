@@ -1,2 +1,10 @@
 - [[Elliptic-curve cryptography]]
+- ECC 曲线汇总、安全性及选取在网站 [http://safecurves.cr.yp.to/](http://safecurves.cr.yp.to/) 有详细的介绍。
+- 常见的：
+- Curve 25519：由 Bernstein 在 2006 年发明。密钥交换算法。签名使用 [[Ed25519]]。
+- [[brainpool]] ：欧洲发明。[[RFC 5639]]
+- NIST Curve
+- SM2 （国密）
+-
+- https://csrc.nist.gov/Projects/Elliptic-Curve-Cryptography
 -

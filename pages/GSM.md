@@ -1,0 +1,3 @@
+- Global System for Mobile communication
+- https://www.techtarget.com/searchmobilecomputing/definition/GSM
+-

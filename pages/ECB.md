@@ -1,0 +1,5 @@
+- Electronic Code Book
+- https://www.techtarget.com/searchsecurity/definition/Electronic-Code-Book
+-
+- [[AES]] 的基础加密模式之一。
+-

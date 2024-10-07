@@ -1,0 +1,9 @@
+-
+- Windows 文件互相访问
+	- 访问[[Windows]]文件
+		- `cd /mnt`
+		- mv or cp
+- 访问Ubuntu文件
+	- [[WSL]]: explorer.exe .
+	-
+-

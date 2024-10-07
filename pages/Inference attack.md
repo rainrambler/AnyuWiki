@@ -1,0 +1,9 @@
+- Wiki:
+- An Inference Attack is a data mining technique performed by analyzing data in order to illegitimately gain knowledge about a subject or database. A subject's sensitive information can be considered as leaked if an adversary can infer its real value with a high confidence. This is an example of breached information security. An Inference attack occurs when a user is able to infer from trivial information more robust information about a database without directly accessing it. The object of Inference attacks is to piece together information at one security level to determine a fact that should be protected at a higher security level.
+- While inference attacks were originally discovered as a threat in statistical databases, today they also pose a major privacy threat in the domain of mobile and IoT sensor data. Data from accelerometers, which can be accessed by third-party apps without user permission in many mobile devices, has been used to infer rich information about users based on the recorded motion patterns (e.g., driving behavior, level of intoxication, age, gender, touchscreen inputs, geographic location). Highly sensitive inferences can also be derived, for example, from eye tracking data, smart meter data and voice recordings (e.g., smart speaker voice commands).
+- 推理攻击是一种数据挖掘技术，通过分析数据来非法获取有关主题或数据库的知识。[1] 如果攻击者能够高置信度地推断出其真实价值，则主体的敏感信息可以被视为泄露。[2] 这是信息安全漏洞的一个例子。当用户能够从琐碎的信息中推断出有关数据库的更可靠的信息而无需直接访问数据库时，就会发生推理攻击。[3] 推理攻击的目标是在一个安全级别上将信息拼凑在一起，以确定应该在更高安全级别上保护的事实。[4]
+- 虽然推理攻击最初是在统计数据库中被发现的威胁，[5]但如今它们在移动和物联网传感器数据领域也构成了重大的隐私威胁。来自加速度计的数据，可以在许多移动设备中由第三方应用程序在未经用户许可的情况下访问，[6]已被用于根据记录的运动模式（例如，驾驶行为、醉酒程度、年龄、性别、触摸屏输入、地理位置）推断有关用户的丰富信息。[7]也可以从眼动追踪数据、[8][9]智能电表数据[10][11]和语音记录（例如，智能扬声器语音命令）中得出高度敏感的推论。[12]
+-
+- 解读：推断攻击是一种泛化的攻击类型，也即是攻击者用各种手段推断关于目标的敏感信息。
+- 类似但不一致的术语包括成员推断攻击（AI）。
+-

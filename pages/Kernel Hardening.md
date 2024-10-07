@@ -1,0 +1,8 @@
+- https://github.com/Kicksecure/security-misc
+- This section is inspired by the Kernel Self Protection Project ([[KSPP]]). It implements all recommended Linux kernel settings by the KSPP and many more.
+	- [[sysctl]]
+	- [[mmap ASLR]]
+	- 启动参数
+	- 网络加固
+	- 蓝牙加固
+-

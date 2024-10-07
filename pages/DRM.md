@@ -1,0 +1,3 @@
+- digital rights management
+- https://www.fortinet.com/resources/cyberglossary/digital-rights-management-drm
+-

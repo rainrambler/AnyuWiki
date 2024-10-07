@@ -1,0 +1,7 @@
+- 提供基于分布式账本技术的数字身份管理机制，由 Sovrin 基金会发起，2017 年 3 月底正式贡献到社区；
+-
+- indy-node 提供indy链数据存储；
+- indy-sdk提供API，操作indy-node ；
+- [[aries-cloud-agent]] 作为应用层，提供点对点的通信框架。
+-
+- See: [[Hyperledger Aries]]

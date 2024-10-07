@@ -1,0 +1,6 @@
+- Online Certificate Status Protocol
+- https://www.fortinet.com/resources/cyberglossary/ocsp
+-
+- 联机证书状态协议 （OCSP） 是证书吊销列表 （[[CRL]]） 的替代方法，用于检查数字证书是否有效或是否已被吊销。
+-
+- OCSP 是一种 Internet 协议 （IP），证书颁发机构 （CA） 使用它来确定安全套接字层/传输层安全性 （[[SSL]]/[[TLS]]） 证书的状态，这些证书是 X.509 数字证书的常见应用。这有助于 Web 浏览器检查安全超文本传输协议 （[[HTTPS]]） 网站的状态和有效性。

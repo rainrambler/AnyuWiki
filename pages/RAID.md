@@ -1,0 +1,5 @@
+- redundant array of independent drives (or disks).
+- Redundant Array of Inexpensive (or sometimes "Independent") Disks
+- https://www.pcmag.com/news/raid-levels-explained
+- https://www.hellotech.com/blog/what-is-raid-0-1-5-10
+-

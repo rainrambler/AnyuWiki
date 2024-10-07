@@ -1,0 +1,4 @@
+- 本地的类似 [[ChatGPT]] 的问答。可以支持导入本地文档。
+- https://github.com/h2oai/h2ogpt/blob/main/README.md#get-started
+- https://h2o.ai/
+-

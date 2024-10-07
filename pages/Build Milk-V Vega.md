@@ -1,0 +1,22 @@
+- https://milkv.io/docs/vega/overview
+-
+- 环境：
+- Ubuntu 22.04
+- Kernel: 5.11
+-
+- 步骤
+- `sudo apt install -y make git gcc g++ bison flex device-tree-compiler mtd-utils`
+- `git clone https://github.com/milkv-vega/vega-buildroot-sdk.git --depth=1`
+	- 可以使用 github.ink
+- `sudo apt-get install bzip2`
+	- 如果报错无法解压文件
+- 如果 M4 报错
+	- 下载M4新版本，放在：`/vega-buildroot-sdk/buildroot/dl/m4`
+	- 修改 `buildroot\package\m4\m4.hash`
+	- 修改 `\buildroot\package\m4\m4.mk`
+- 如果 [[fakeroot]] 报错
+	- 使用新版本（从 [[buildroot]] 下载新版）
+	- 找到 fakeroot 目录
+	- 替换 `\buildroot\package\fakeroot\fakeroot.hash` 和 `\buildroot\package\fakeroot\fakeroot.mk`
+	- 替换 `\buildroot\dl\fakeroot\fakeroot_1.32.1.orig.tar.gz`
+-

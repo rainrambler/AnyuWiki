@@ -1,0 +1,3 @@
+- https://orbitalquark.github.io/textadept/
+- A fast, minimalist, and remarkably extensible cross-platform text editor
+-

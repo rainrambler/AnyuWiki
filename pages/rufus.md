@@ -1,0 +1,4 @@
+- https://rufus.ie/zh/
+- 创建 USB 启动盘的开源工具。支持 #Windows, #Ubuntu.
+- 比 [[balenaEtcher]] 可能配置选项更多，兼容性更好。
+-

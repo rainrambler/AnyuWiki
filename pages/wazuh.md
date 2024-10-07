@@ -1,0 +1,29 @@
+- 开源的安全平台
+- 支持：
+	- 端点安全
+		- 配置评估（Configuration Assessment）
+		- 恶意软件检测（Malware Detection）
+		- 文件完整性监控（ [[FIM]]）
+	- 威胁情报
+		- 威胁狩猎
+		- 日志数据分析
+		- 漏洞检测
+	- 安全运营
+		- 事件响应
+		- 法规遵从
+		- IT
+	- 云安全
+-
+- www.wazuh.com
+-
+- 核心组件
+- indexer：可扩展，全文搜索、分析引擎。检索和存储Server的告警。
+- Server：接收代理（Agent）和进程的数据，用于威胁分析。可以远程管控代理（Agent）。
+- dashboard: Web UI，数据可视化、分析和管理。包含：法规遵从、漏洞、文件完整性、配置评估、云基础设施事件等
+- agent：在端点上安装。
+-
+- www.wazuh.com
+- github.com/wazuh
+-
+- Dashboard fork 自：[[OpenSearch]]
+-

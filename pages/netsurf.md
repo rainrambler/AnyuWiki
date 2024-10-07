@@ -1,0 +1,3 @@
+- https://www.netsurf-browser.org/
+- 小型的浏览器软件。支持 Linux 为主。可以在 16MB 内存的ARM计算机上执行。
+-

@@ -1,0 +1,4 @@
+- Findy Agency is an open-source project that develops [[Hyperledger Aries]] compatible identity agent service. Agency provides a web wallet for individuals and an API for organizations to utilize functionality related to verified data exchange: issuing, holding, verifying, and proving credentials.
+- [Findy](https://findy-network.github.io/)
+- Findy Agency operates using [[DIDComm]] messaging and [[Hyperledger]] Aries protocols.
+- The supported verified credential format is currently [[Hyperledger Indy]] “Anoncreds” that work with Hyperledger Indy distributed ledger. The plan is to add more credential formats in the future.

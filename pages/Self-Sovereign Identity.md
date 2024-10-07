@@ -1,0 +1,4 @@
+- https://www.identity.com/self-sovereign-identity/
+- Self-sovereign identity (**SSI**) is a decentralized digital identity model that empowers individuals to control and manage their own identity information autonomously. SSI utilizes [[blockchain]] technology, providing a secure, decentralized framework for managing digital identities.
+- https://www.weforum.org/agenda/2021/08/self-sovereign-identity-future-personal-data-ownership/
+-

@@ -1,0 +1,9 @@
+- Given a hash `h`,
+- it should be difficult to find any message `m` such that `h = hash(m)`
+-
+- See:
+- [[Second preimage resistance]]
+- [[Collision resistance]]
+-
+- [[NIST FIPS 202]]
+-

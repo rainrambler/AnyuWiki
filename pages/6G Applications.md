@@ -1,0 +1,13 @@
+- Industry 5.0
+- [[UAV]] based mobility
+- 连接的自动驾驶车辆(CAV)
+- [[Smart Grid]] 2.0
+- 协作机器人（Collaborative robots）
+- Hyper-intelligent Healthcare
+- [[Digital Twin]]
+- [[Extended Reality]]
+-
+- ![poram2-3078081-large.gif](../assets/poram2-3078081-large_1718531016970_0.gif)
+- Ref:
+- Paper: The Roadmap to [[6G]] Security and Privacy
+-

@@ -1,0 +1,3 @@
+- https://affine.pro/
+- AFFiNE是一个开源的个人笔记软件。作为 [[Notion]] 的替代方案，AFFiNE 更注重隐私安全，优先将文档保存在本地。
+-

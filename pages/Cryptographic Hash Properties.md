@@ -1,8 +1,8 @@
 - Cryptographic Hash Properties
-- § Preimage resistance
+- § [[Preimage resistance]]
 	- § Given a hash h it should be difficult to find any message m such that `h = hash(m)`
-- § Second preimage resistance
+- § [[Second preimage resistance]]
 	- § Given an input m1 it should be difficult to find another input m2 - where `m1 != m2` - such that `hash(m1) = hash(m2)`
-- § Collision resistance
+- § [[Collision resistance]]
 	- § It should be difficult to find two different messages m1 and m2 such that `hash(m1) = hash(m2)`
 - ht-107_sullivan.pdf

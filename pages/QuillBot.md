@@ -1,0 +1,5 @@
+- 有拼写检查、校对（proofreader）、语法检查的功能。
+- 支持粘贴大量文本。
+- https://quillbot.com/online-proofreader
+- 免费版不支持主动修订语法。
+-

@@ -1,0 +1,8 @@
+- 移动通信发展的驱动力
+- 技术驱动：
+- 社会驱动：
+- 经济驱动：
+- ![image.png](../assets/image_1718596213550_0.png)
+-
+- Ref:
+- TOWARDS SUSTAINABLE AND TRUSTWORTHY 6G

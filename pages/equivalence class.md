@@ -1,0 +1,5 @@
+- a set of records that are indistinguishable from each other with respect to certain “identifying” attributes
+- We define an equivalence class of an anonymized table to be a set of records that have the same values for the [[quasi-identifier]]s.
+- t_closeness_icde07.pdf
+- t-Closeness: Privacy Beyond [[k-Anonymity]] and [[l-Diversity]]
+-

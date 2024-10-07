@@ -1,0 +1,3 @@
+- GitHub - Mintplex-Labs/anything-llm: The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- (https://github.com/Mintplex-Labs/anything-llm)
+-

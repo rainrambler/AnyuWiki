@@ -1,0 +1,11 @@
+-
+- Enhanced Data rates for [[GSM]] Evolution (EDGE), also known as 2.75G, Enhanced GPRS (EGPRS), IMT Single Carrier (IMT-SC), and Enhanced Data rates for Global Evolution, is a digital mobile phone technology that allows improved data transmission rates as a backward-compatible extension of GSM. EDGE is considered a pre-3G radio technology and is part of ITU's 3G definition. EDGE was deployed on GSM networks beginning in 2003 – initially by Cingular (now AT&T) in the United States.
+- EDGE is standardized also by 3GPP as part of the GSM family. A variant, so called Compact-EDGE, was developed for use in a portion of Digital AMPS network spectrum.
+- Through the introduction of sophisticated methods of coding and transmitting data, EDGE delivers higher bit-rates per radio channel, resulting in a threefold increase in capacity and performance compared with an ordinary GSM/GPRS connection.
+- EDGE can be used for any packet switched application, such as an Internet connection.
+- Evolved EDGE continues in release 7 of the 3GPP standard providing reduced latency and more than doubled performance e.g. to complement High-Speed Packet Access (HSPA). Peak bit-rates of up to 1 Mbit/s and typical bit-rates of 400 kbit/s can be expected.
+- GSM 演进的增强数据速率 （EDGE），也称为 2.75G、增强型 GPRS （EGPRS）、IMT 单载波 （IMT-SC） 和全球演进的增强数据速率，是一种数字移动电话技术，作为 GSM 的向后兼容扩展，可以提高数据传输速率。EDGE 被认为是一种前 3G 无线电技术，是 ITU 3G 定义的一部分。EDGE 从 2003 年开始部署在 GSM 网络上——最初由美国的 Cingular（现为 AT&T）部署。
+- EDGE 也作为 GSM 系列的一部分由 3GPP 标准化。开发了一种变体，即 Compact-EDGE，用于数字 AMPS 网络频谱的一部分。
+- 通过引入复杂的编码和传输数据方法，EDGE 为每个无线电信道提供更高的比特率，与普通 GSM/GPRS 连接相比，容量和性能提高了三倍。
+- EDGE 可用于任何分组交换应用程序，例如 Internet 连接。
+- 演进的 EDGE 在 3GPP 标准 7 版中继续提供更低的延迟和一倍多的性能，例如补充高速分组访问 （HSPA）。峰值比特率最高可达 1 Mbit/s，典型比特率为 400 kbit/s。

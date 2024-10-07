@@ -1,0 +1,8 @@
+- [[t-Closeness]]: Privacy Beyond k-Anonymity and [[l-Diversity]]
+- Agencies and other organizations often need to publish microdata, e.g., medical data or census data, for research and other purposes. Typically, such data is stored in a table, and each **record** (row) corresponds to one **individual**. Each record has a number of **attributes**, which can be divided into the following three categories.
+- (1) Attributes that clearly identify individuals. These are known as **explicit identifiers** and include Social Security Number, Address, and Name, and so on.
+- (2) Attributes whose values when taken together can potentially identify an individual. These are known as **quasi-identifiers**, and may include, e.g., Zip-code, Birthdate, and Gender.
+- (3) Attributes that are considered **sensitive**, such as Disease and Salary.
+-
+- https://utrechtuniversity.github.io/dataprivacyhandbook/k-l-t-anonymity.html
+-

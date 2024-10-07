@@ -1,0 +1,8 @@
+- https://collegeinfogeek.com/best-note-taking-apps/
+- https://notesnook.com/
+- https://github.com/streetwriters/notesnook
+-
+- 类似 [[Notion]] 和 [[Obsidian]]。
+- 免费版支持同步。不支持插入图片？
+- 类似 [[Markdown]] 的页面格式。
+-

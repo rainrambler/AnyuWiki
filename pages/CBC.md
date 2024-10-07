@@ -1,0 +1,3 @@
+- Cipher Block Chaining
+- https://www.techtarget.com/searchsecurity/definition/cipher-block-chaining
+-

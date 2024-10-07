@@ -1,0 +1,12 @@
+- Data Lifecycle Management
+	- Stage 1: Data Creation
+	- Stage 2: Data Storage
+	- Stage 3: Data Use
+	- Stage 4: Data Sharing
+	- Stage 5: Data Archiving
+	- Stage 6: Data Destruction
+- DLM vs ILM
+	- 数据管理有多种形式。与 DLM 一起，最常见的形式之一是信息生命周期管理 (ILM)。事实上，DLM 经常与 ILM 混淆，以至于这两个术语经常互换使用。虽然它们相似，但它们是不同的系统和流程。两者对于组织优化数据管理都是有价值和必要的，构成了组织整体数据保护策略的不同关键方面。
+	- 从某种意义上说，DLM 和 ILM 是同一枚硬币的两面。简单地说，DLM 处理整个数据文件，而 ILM 关注的是文件中的内容。DLM 不关心给定记录中的单个数据，只关心记录本身。ILM 力求确保记录中包含的每一条数据在记录的整个使用寿命内都是准确且最新的。支持 DLM 的产品管理数据文件的一般属性（即类型、大小和年龄），而 ILM 处理特定数据，例如客户编号。
+	- 自欧盟《通用数据保护条例》（[[GDPR]]）出台以来，DLM 和 ILM 之间的区别变得越来越重要：被遗忘权于 2018 年 5 月生效。根据这项规定，客户可以要求公司删除他们的信息，并提供已删除的证明。ILM 是可以在整个企业中定位单个客户个人数据的过程。通过有目的的数据生命周期管理，DLM 和 ILM 可以实现[现代化，以满足新的隐私法](https://www.spirion.com/blog/dlm-ilm-data-privacy-laws-purposeful-processing/)。
+-

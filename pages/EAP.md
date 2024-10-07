@@ -1,0 +1,7 @@
+- Extensible Authentication Protocol
+- 可扩展身份验证协议 （EAP） 是一种常用的身份验证框架，用于许多类型的有线和无线网络技术。
+- https://www.ericsson.com/en/blog/2022/4/extensible-authentication-protocol-eap-networks
+-
+- Microsoft:
+- The Extensible Authentication Protocol (EAP) is an authentication framework that allows for the use of different authentication methods for secure network access technologies. Examples of these technologies include wireless access using IEEE 802.1X, wired access using IEEE 802.1X, and Point-to-Point Protocol (PPP) connections like Virtual Private Networking ([[VPN]]). EAP isn't a specific authentication method like MS-CHAP v2, but rather a framework that enables networking vendors to develop and install new authentication methods, known as EAP methods, on the access client and authentication server. The EAP framework is originally defined by [RFC 3748](https://www.ietf.org/rfc/rfc3748.txt) and extended by various other RFCs and standards.
+-

@@ -1,2 +1,5 @@
+- The Open Group Architecture Framework
+- https://publications.opengroup.org/c182
+-
 - TOGAF is a framework - a detailed method and a set of supporting tools - for developing an enterprise architecture. It may be used freely by any organization wishing to develop an enterprise architecture for use within that organization (see 4.5.1 Conditions of Use).
 - TOGAF is developed and maintained by members of The Open Group, working within the Architecture Forum (refer to www.opengroup.org/architecture). The original development of TOGAF Version 1 in 1995 was based on the Technical Architecture Framework for Information Management (TAFIM), developed by the US Department of Defense (DoD). The DoD gave The Open Group explicit permission and encouragement to create TOGAF by building on the TAFIM, which itself was the result of many years of development effort and many millions of dollars of US Government investment.

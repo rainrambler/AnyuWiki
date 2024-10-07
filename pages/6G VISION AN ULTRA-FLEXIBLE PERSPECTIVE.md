@@ -1,0 +1,7 @@
+- ITU-T 发布的一篇研究报告
+- 总结了1G到5G的不同特征对比
+- ![6g1](../assets/6G_vision_1.png)
+- ![6g2](../assets/6G_vision_2.png)
+- ![6g3](../assets/6G_vision_3.png)
+- ![6g4](../assets/6G_vision_4.png)
+-

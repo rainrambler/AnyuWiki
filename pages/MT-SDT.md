@@ -1,0 +1,3 @@
+- 作为以中兴通讯为主导的 WI，在 Rel-18 中，随着 MT-SDT WI 的完成，支持移动端接小数据传输。对于 DL，MT-SDT（即 DL 触发的小数据）具有与 MO-[[SDT]] 类似的优势，例如通过避免不必要的转换为 RRC_CONNECTED 来减少信令开销和 UE 功耗，并通过允许快速传输小而不频繁的数据包来减少延迟，例如用于定位。
+- https://www.zte.com.cn/global/about/magazine/zte-technologies/2024/1-en/expert-view/1.html
+-

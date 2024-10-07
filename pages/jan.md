@@ -1,0 +1,4 @@
+- https://github.com/janhq/jan
+- [jan.ai/](https://jan.ai/)
+- Jan is an open source alternative to [[ChatGPT]] that runs 100% offline on your computer
+-

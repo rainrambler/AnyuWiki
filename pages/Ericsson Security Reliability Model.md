@@ -1,0 +1,8 @@
+-
+- ![image.png](../assets/image_1718604458755_0.png)
+- See:
+- [[5G Key Security Consideration Ericsson]]
+-
+- Ref:
+- A guide to #5G network security 2.0
+-

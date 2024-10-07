@@ -1,0 +1,3 @@
+- https://www.sharedrop.io/
+- https://github.com/szimek/sharedrop
+- 类似 [[AirDrop]] 的 [[P2P]] 文件传输 。支持局域网和Internet。使用 JavaScript 开发，运行在浏览器。

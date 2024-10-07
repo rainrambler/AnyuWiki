@@ -1,0 +1,3 @@
+- https://arxiv.org/html/2405.05930v1
+- 对 [[AIGC]] 在6G中的应用场景做了详尽的分析。
+- ![fig4](../assets/aigc_6G_4.png)

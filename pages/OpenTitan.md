@@ -1,0 +1,4 @@
+- https://opentitan.org/
+-
+- Google 推动的 [[RoT]] 硬件和对应的软件。
+-

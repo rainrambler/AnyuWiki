@@ -1,0 +1,9 @@
+- 3G:
+- 1999 - 2002
+- [[4G]] [[LTE]]
+	- Release 8 ~~ Release 15
+	- 2005 - 2011
+- 5G
+	- 2014~2017
+- https://www.qualcomm.com/news/onq/2017/08/understanding-3gpp-starting-basics
+-

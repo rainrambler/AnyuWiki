@@ -1,0 +1,2 @@
+- ![](../assets/6g_abstract_architecture.png)
+-

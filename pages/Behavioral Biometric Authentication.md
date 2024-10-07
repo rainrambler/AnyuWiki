@@ -1,0 +1,3 @@
+- https://expertinsights.com/insights/a-guide-to-behavioral-biometrics/
+- Behavioral biometric authentication is a hot topic in identity and access management.
+-

@@ -1,0 +1,6 @@
+- GNU cpio copies files into or out of a cpio or tar archive. The archive can be another file on the disk, a magnetic tape, or a pipe.
+- https://gnuwin32.sourceforge.net/packages/cpio.htm
+- Linux cpio命令用于备份文件。
+- cpio 是用来建立，还原备份档的工具程序，它可以加入，解开 cpio 或 tar 备份档内的文件。
+- https://www.runoob.com/linux/linux-comm-cpio.html
+-

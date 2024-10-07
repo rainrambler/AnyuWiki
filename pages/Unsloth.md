@@ -1,0 +1,4 @@
+- https://github.com/unslothai/unsloth
+- Finetune Llama 3, Mistral, Phi-3 & Gemma 2-5x faster with 80% less memory!
+- https://unsloth.ai/
+-

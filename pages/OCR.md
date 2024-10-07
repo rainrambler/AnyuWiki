@@ -1,0 +1,4 @@
+- 光学字符识别 (OCR)
+- Optical character recognition
+- https://www.adobe.com/acrobat/guides/what-is-ocr.html
+-

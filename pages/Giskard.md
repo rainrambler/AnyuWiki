@@ -1,0 +1,12 @@
+- The Evaluation & Testing framework for [[LLM]]s & ML models
+- Control risks of performance, bias and security issues in AI models
+- Scan: Automatically assess your LLM-based agents for performance, bias & security issues
+- Issues detected include:
+	- Hallucinations
+	- Harmful content generation
+	- Prompt injection
+	- Robustness issues
+	- Sensitive information disclosure
+	- Stereotypes & discrimination
+	- many more...
+- https://github.com/Giskard-AI/giskard

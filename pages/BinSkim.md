@@ -1,0 +1,5 @@
+- [BinSkim Binary Analyzer](https://github.com/Microsoft/binskim#binskim-binary-analyzer)
+- This repository contains the source code for BinSkim, a Portable Executable (PE) light-weight scanner that validates compiler/linker settings and other security-relevant binary characteristics.
+- https://github.com/Microsoft/binskim
+- #Microsoft
+-

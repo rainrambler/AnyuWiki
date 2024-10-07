@@ -1,0 +1,5 @@
+- initialization vector
+- binary vector used as the input to initialize the algorithm for the encryption of a plaintext block sequence to increase security by introducing additional cryptographic variance and to synchronize cryptographic equipment.
+- The initialization vector need not be secret. Some of the Triple Data Encryption Algorithm Modes of Operation require 3 initialization vectors.
+- https://csrc.nist.gov/glossary/term/Initialization_Vector
+-

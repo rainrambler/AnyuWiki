@@ -10,3 +10,7 @@
 	- 由于 TEE 是基于硬件的，因此很难修补漏洞。 例如，如果发现新的侧信道攻击向量，则可能需要更换包含 TEE 的物理芯片以减轻威胁。
 	- 与 TEE 交互没有行业标准，每个供应商的 TEE 设计都是定制的。 因此，利用 TEE 的应用程序必须根据 TEE 供应商的 API 进行编码，这可能导致供应商锁定。
 - https://cdeiuk.github.io/pets-adoption-guide/what-are-pets/
+-
+- See:
+- [[REE]]
+-

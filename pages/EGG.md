@@ -1,0 +1,4 @@
+- EGG, a generic processor emulator
+- https://github.com/gboncoffee/egg
+- 使用 [[Go]] 语言开发的 [[RISC-V]] 的CPU模拟器。
+-

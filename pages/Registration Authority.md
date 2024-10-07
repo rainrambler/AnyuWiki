@@ -1,0 +1,4 @@
+- [[PKI]] 的关键组件。
+- [[IETF 3647]]: An entity that is responsible for one or more of the following functions:  the identification and authentication of certificate applicants, the approval or rejection of certificate applications, initiating certificate revocations or suspensions under certain circumstances, processing subscriber requests to revoke or suspend their certificates, and approving or rejecting requests by subscribers to renew or re-key their certificates.
+- 在绝大多数PKI系统中，不是独立的逻辑组件。其功能可能集成在 CA 中。
+-
