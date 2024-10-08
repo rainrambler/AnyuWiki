@@ -1,0 +1,12 @@
+- [[Release 16]]
+	- 在 80% 的时间，支持室内 3 米，室外 10 米的定位；
+	- 支持 [[RTT]]，[[AoA]], [[AoD]], [[TDOA]]，单小区定位
+	- 支持新的评估场景，比如 [[IIoT]]
+- [[Release 17]]
+-
+- [[Release 18]]
+- 提升性能，扩展支持新设备和部署
+- Sidelink 定位和分区
+-
+-
+- https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/setting-off-the-5g-advanced-evolution-with-3gpp-release-18.pdf
